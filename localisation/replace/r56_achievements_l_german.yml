@@ -1,0 +1,27 @@
+﻿#####-----> Achievements Localization by Greatexperiment <><> <><> <><> <><> <><>
+
+l_german:
+
+###---> Achievements <><> <><> <><>
+ r56_local_text_achievements_group: "Einklappen"
+
+#-> Achievement Tooltips <><>
+        r56_tooltip_achievements_01: "Der Purger \n §RHat den Schwerpunkt "Gegenputsch" im Sowjetbaum abgeschlossen§!"
+        r56_tooltip_achievements_02: "Das Nekrowombicon"
+        r56_tooltip_achievements_03: "Das Nekrowombicon"
+        r56_tooltip_achievements_04: "Das Nekrowombicon"
+        r56_tooltip_achievements_05: "Das Nekrowombicon"
+        r56_tooltip_achievements_06: "Das Nekrowombicon"
+        r56_tooltip_achievements_07: "Das Nekrowombicon"
+        r56_tooltip_achievements_08: "Das Nekrowombicon"
+        r56_tooltip_achievements_09: "Das Nekrowombicon"
+        r56_tooltip_achievements_10: "Das Nekrowombicon"
+        r56_tooltip_achievements_11: "Das Nekrowombicon"
+        r56_tooltip_achievements_12: "Das Nekrowombicon"
+        r56_tooltip_achievements_13: "Das Nekrowombicon"
+        r56_tooltip_achievements_14: "Das Nekrowombicon"
+        r56_tooltip_achievements_15: "Das Nekrowombicon"
+        r56_tooltip_achievements_16: "Das Nekrowombicon"
+
+
+#####-----> End of File <><> <><> <><> <><> <><>
