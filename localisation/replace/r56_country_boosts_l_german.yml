@@ -1,0 +1,256 @@
+﻿#####-----> Country Boosts Localisation <><> <><> <><> <><> <><>
+
+l_german:
+
+ ###---> Majors <><> <><> <><>
+ custom_diff_strong_fra:0 "@FRA Stärke Frankreich"
+ custom_diff_strong_ger:0 "@GER Stärke Deutschland"
+ custom_diff_strong_ita:0 "@ITA Stärke Italien"
+ custom_diff_strong_jap:0 "@JAP Stärke Japan"
+ custom_diff_strong_sov:0 "@SOV Stärke Sovjetunion"
+ custom_diff_strong_usa:0 "@USA Stärke Vereinigte Staaten von America"
+ custom_diff_strong_eng:0 "@ENG Stärke Großbritannien"
+
+ ###---> Minors: A <><> <><> <><>
+ custom_diff_strong_afg:0 "@AFG Stärke Afghanistan"
+ custom_diff_strong_ahv:0 "@AHV Stärke Åland"
+ custom_diff_strong_alb:0 "@ALB Stärke Albanien"
+ custom_diff_strong_alg:0 "@ALG Stärke Algerien"
+ custom_diff_strong_ang:0 "@ANG Stärke Angola"
+ custom_diff_strong_arg:0 "@ARG Stärke Argentinen"
+ custom_diff_strong_arm:0 "@ARM Stärke Armenien"
+ custom_diff_strong_ast:0 "@AST Stärke Australien"
+ custom_diff_strong_aus:0 "@AUS Stärke Österreich"
+ custom_diff_strong_azr:0 "@AZR Stärke Azerbaidchan"
+
+ ###---> Minors: B <><> <><> <><>
+ custom_diff_strong_bah:0 "@BAH Stärke Bahamas"
+ custom_diff_strong_ban:0 "@BAN Stärke Bangladesh"
+ custom_diff_strong_nav:0 "@NAV Stärke Baskenlandd"
+ custom_diff_strong_bay:0 "@BAY Stärke Bayern"
+ custom_diff_strong_bel:0 "@BEL Stärke Belgien"
+ custom_diff_strong_cog:0 "@COG Stärke Belgischer Kongo"
+ custom_diff_strong_bhu:0 "@BHU Stärke Bhutan"
+ custom_diff_strong_blr:0 "@BLR Stärke Weißrussland"
+ custom_diff_strong_blz:0 "@BLZ Stärke Belize"
+ custom_diff_strong_bol:0 "@BOL Stärke Bolivien"
+ custom_diff_strong_bos:0 "@BOS Stärke Bosnien"
+ custom_diff_strong_bot:0 "@BOT Stärke Botswana"
+ custom_diff_strong_bra:0 "@BRA Stärke Brazilien"
+ custom_diff_strong_bas:0 "@BAS Stärke Britische Antillen"
+ custom_diff_strong_mal:0 "@MAL Stärke Britisch-Malaya"
+ custom_diff_strong_raj:0 "@RAJ Stärke Britisch-Indien"
+ custom_diff_strong_bri:0 "@BRI Stärke Bretagne"
+ custom_diff_strong_bul:0 "@BUL Stärke Bulgarien"
+ custom_diff_strong_brm:0 "@BRM Stärke Burma"
+ custom_diff_strong_brd:0 "@BRD Stärke Burundi"
+
+ ###---> Minors: C <><> <><> <><>
+ custom_diff_strong_cam:0 "@CAM Stärke Kambodscha"
+ custom_diff_strong_can:0 "@CAN Stärke Kanada"
+ custom_diff_strong_cat:0 "@CAT Stärke Katalonien"
+ custom_diff_strong_car:0 "@CAR Stärke Zentralafrikanische Republik"
+ custom_diff_strong_cay:0 "@CAY Stärke Cayenne"
+ custom_diff_strong_cha:0 "@CHA Stärke Tschad"
+ custom_diff_strong_chi:0 "@CHI Stärke China"
+ custom_diff_strong_chl:0 "@CHL Stärke Chile"
+ custom_diff_strong_cmr:0 "@CMR Stärke Kamerun"
+ custom_diff_strong_col:0 "@COL Stärke Kolumbien"
+ custom_diff_strong_prc:0 "@PRC Stärke Kommunistisches China"
+ custom_diff_strong_csa:0 "@CSA Stärke Kommunistische USA"
+ custom_diff_strong_cor:0 "@COR Stärke Korsika"
+ custom_diff_strong_cos:0 "@COS Stärke Costa Rica"
+ custom_diff_strong_cro:0 "@CRO Stärke Kroatien"
+ custom_diff_strong_cub:0 "@CUB Stärke Kuba"
+ custom_diff_strong_crc:0 "@CRC Stärke Curacao"
+ custom_diff_strong_cyp:0 "@CYP Stärke Zypern"
+ custom_diff_strong_cze:0 "@CZE Stärke Tschechoslowakei"
+
+ ###---> Minors: D <><> <><> <><>
+ custom_diff_strong_dah:0 "@DAH Stärke Dahomey"
+ custom_diff_strong_den:0 "@DEN Stärke Dänemark"
+ custom_diff_strong_dji:0 "@DJI Stärke Dschibuti"
+ custom_diff_strong_dnz:0 "@DNZ Stärke Danzig"
+ custom_diff_strong_dom:0 "@DOM Stärke Dominica"
+
+ ###---> Minors: E <><> <><> <><>
+ custom_diff_strong_ddr:0 "@DDR Stärke Ostdeutschland"
+ custom_diff_strong_ins:0 "@INS Stärke Ostindische Inseln"
+ custom_diff_strong_ecu:0 "@ECU Stärke Ecuador"
+ custom_diff_strong_egy:0 "@EGY Stärke Ägypten"
+ custom_diff_strong_els:0 "@ELS Stärke El Salvador"
+ custom_diff_strong_eri:0 "@ERI Stärke Eritrea"
+ custom_diff_strong_est:0 "@EST Stärke Estland"
+ custom_diff_strong_eth:0 "@ETH Stärke Äthiopien"
+
+ ###---> Minors: F <><> <><> <><>
+ custom_diff_strong_fin:0 "@FIN Stärke Finnland"
+ custom_diff_strong_vla:0 "@VLA Stärke Flanders"
+ custom_diff_strong_fri:0 "@FRI Stärke Französisch-Indochina"
+
+ ###---> Minors: G <><> <><> <><>
+ custom_diff_strong_gam:0 "@GAM Stärke Gambia"
+ custom_diff_strong_geo:0 "@GEO Stärke Georgien"
+ custom_diff_strong_gre:0 "@GRE Stärke Griechenland"
+ custom_diff_strong_grl:0 "@GRL Stärke Grönland"
+ custom_diff_strong_gxc:0 "@GXC Stärke Guangxi-Clique"
+ custom_diff_strong_gua:0 "@GUA Stärke Guatemala"
+ custom_diff_strong_gna:0 "@GNA Stärke Guinea"
+ custom_diff_strong_gbr:0 "@GBR Stärke Guyana"
+
+ ###---> Minors: H <><> <><> <><>
+ custom_diff_strong_hai:0 "@HAI Stärke Haiti"
+ custom_diff_strong_han:0 "@HAN Stärke Hannover"
+ custom_diff_strong_hon:0 "@HON Stärke Honduras"
+ custom_diff_strong_hun:0 "@HUN Stärke Ungarn"
+
+ ###---> Minors: I <><> <><> <><>
+ custom_diff_strong_ice:0 "@ICE Stärke Island"
+ custom_diff_strong_isr:0 "@ISR Stärke Israel"
+ custom_diff_strong_per:0 "@PER Stärke Iran"
+ custom_diff_strong_irq:0 "@IRQ Stärke Irak"
+ custom_diff_strong_ire:0 "@IRE Stärke Irland"
+
+ ###---> Minors: J <><> <><> <><>
+ custom_diff_strong_jam:0 "@JAM Stärke Jamaika"
+ custom_diff_strong_jor:0 "@JOR Stärke Jordan"
+
+ ###---> Minors: K <><> <><> <><>
+ custom_diff_strong_kaz:0 "@KAZ Stärke Kasachstan"
+ custom_diff_strong_ken:0 "@KEN Stärke Kenia"
+ custom_diff_strong_kor:0 "@KOR Stärke Korea"
+ custom_diff_strong_kur:0 "@KUR Stärke Kurdistan"
+
+ ###---> Minors: L <><> <><> <><>
+ custom_diff_strong_lao:0 "@LAO Stärke Laos"
+ custom_diff_strong_lat:0 "@LAT Stärke Lettland"
+ custom_diff_strong_leb:0 "@LEB Stärke Libanon"
+ custom_diff_strong_lba:0 "@LBA Stärke Libyen"
+ custom_diff_strong_lib:0 "@LIB Stärke Liberia"
+ custom_diff_strong_lit:0 "@LIT Stärke Litauen"
+ custom_diff_strong_lux:0 "@LUX Stärke Luxemburg"
+
+ ###---> Minors: M <><> <><> <><>
+ custom_diff_strong_mad:0 "@MAD Stärke Madagaskar"
+ custom_diff_strong_mcd:0 "@MCD Stärke Mazedonien"
+ custom_diff_strong_man:0 "@MAN Stärke Mandschuko"
+ custom_diff_strong_mrt:0 "@MRT Stärke Mauretanien"
+ custom_diff_strong_mex:0 "@MEK Stärke Mecklenburg"
+ custom_diff_strong_men:0 "@MEN Stärke Mengkukuo"
+ custom_diff_strong_mex:0 "@MEX Stärke Mexico"
+ custom_diff_strong_mol:0 "@MOL Stärke Moldovien"
+ custom_diff_strong_mon:0 "@MON Stärke Mongolei"
+ custom_diff_strong_mnt:0 "@MNT Stärke Montenegro"
+ custom_diff_strong_mzb:0 "@MZB Stärke Mosambik"
+
+ ###---> Minors: N <><> <><> <><>
+ custom_diff_strong_nep:0 "@NAP Stärke Neapel"
+ custom_diff_strong_nep:0 "@NEP Stärke Nepal"
+ custom_diff_strong_hol:0 "@HOL Stärke Niederlande"
+ custom_diff_strong_nzl:0 "@NZL Stärke Neuseeland"
+ custom_diff_strong_nic:0 "@NIC Stärke Nicaragua"
+ custom_diff_strong_nig:0 "@NIG Stärke Nigeria"
+ custom_diff_strong_nir:0 "@NIR Stärke Nordirland"
+ custom_diff_strong_nkr:0 "@NKR Stärke Nordkorea"
+ custom_diff_strong_nor:0 "@NOR Stärke Norwegen"
+
+ ###---> Minors: O <><> <><> <><>
+ custom_diff_strong_oma:0 "@OMA Stärke Oman"
+
+ ###---> Minors: P <><> <><> <><>
+ custom_diff_strong_pak:0 "@PAK Stärke Pakistan"
+ custom_diff_strong_pal:0 "@PAL Stärke Palästina"
+ custom_diff_strong_pan:0 "@PAN Stärke Panama"
+ custom_diff_strong_par:0 "@PAR Stärke Paraguay"
+ custom_diff_strong_pru:0 "@PRU Stärke Peru"
+ custom_diff_strong_phi:0 "@PHI Stärke Philippinen"
+ custom_diff_strong_pol:0 "@POL Stärke Polen"
+ custom_diff_strong_por:0 "@POR Stärke Portugal"
+ custom_diff_strong_pue:0 "@PRE Stärke Preußen"
+ custom_diff_strong_pue:0 "@PUE Stärke Puerto Rico"
+
+ ###---> Minors: Q <><> <><> <><>
+ custom_diff_strong_qbc:0 "@QBC Stärke Québec"
+
+ ###---> Minors: R <><> <><> <><>
+ custom_diff_strong_rom:0 "@ROM Stärke Romänien"
+ custom_diff_strong_rut:0 "@RUT Stärke Ruthenien"
+
+ ###---> Minors: S <><> <><> <><>
+ custom_diff_strong_sad:0 "@SAD Stärke Sardinien"
+ custom_diff_strong_sau:0 "@SAU Stärke Saudi Arabien"
+ custom_diff_strong_sam:0 "@SAM Stärke Samoa"
+ custom_diff_strong_sad:0 "@SAX Stärke Sachsen"
+ custom_diff_strong_smi:0 "@SMI Stärke Sapmi"
+ custom_diff_strong_sco:0 "@SCO Stärke Scotland"
+ custom_diff_strong_ser:0 "@SER Stärke Serbien"
+ custom_diff_strong_shx:0 "@SHL Stärke Schleswig-Holstein"
+ custom_diff_strong_shx:0 "@SHX Stärke Shanxi"
+ custom_diff_strong_sia:0 "@SIA Stärke Siam"
+ custom_diff_strong_sie:0 "@SIE Stärke Sierra Leone"
+ custom_diff_strong_sik:0 "@SIK Stärke Sinkiang"
+ custom_diff_strong_slo:0 "@SLO Stärke Slovakei"
+ custom_diff_strong_slv:0 "@SLV Stärke Slovenien"
+ custom_diff_strong_som:0 "@SOM Stärke Somalia"
+ custom_diff_strong_saf:0 "@SAF Stärke Südafrika"
+ custom_diff_strong_spr:0 "@SPR Stärke Spanien"
+ custom_diff_strong_sud:0 "@SUD Stärke Sudan"
+ custom_diff_strong_sur:0 "@SUR Stärke Suriname"
+ custom_diff_strong_swe:0 "@SWE Stärke Schweden"
+ custom_diff_strong_swi:0 "@SWI Stärke Schweiz"
+ custom_diff_strong_syr:0 "@SYR Stärke Syrien"
+
+ ###---> Minors: T <><> <><> <><>
+ custom_diff_strong_tan:0 "@TAN Stärke Tannu Tuva"
+ custom_diff_strong_tzn:0 "@TZN Stärke Tanzania"
+ custom_diff_strong_tib:0 "@TIB Stärke Tibet"
+ custom_diff_strong_tng:0 "@TNG Stärke Tunganistan"
+ custom_diff_strong_tun:0 "@TUN Stärke Tunesien"
+ custom_diff_strong_tur:0 "@TUR Stärke Turkei"
+
+ ###---> Minors: U <><> <><> <><>
+ custom_diff_strong_ukr:0 "@UKR @DOU Stärke Ukraine"
+ custom_diff_strong_urg:0 "@URG Stärke Uruguay"
+ custom_diff_strong_uzb:0 "@UZB Stärke Uzbekistan"
+
+ ###---> Minors: V <><> <><> <><>
+ custom_diff_strong_ven:0 "@VEN Stärke Venezuala"
+ custom_diff_strong_vin:0 "@VIN Stärke Vietnam"
+ custom_diff_strong_vnz:0 "@VNZ Stärke Venedig"
+
+ ###---> Minors: W <><> <><> <><>
+ custom_diff_strong_wls:0 "@WLS Stärke Wales"
+ custom_diff_strong_wll:0 "@WLL Stärke Wallonien"
+ custom_diff_strong_wes:0 "@WES Stärke Westsahara"
+ custom_diff_strong_wgr:0 "@WGR Stärke Westdeutschland"
+ custom_diff_strong_wur:0 "@WUR Stärke Württemberg"
+
+ ###---> Minors: X <><> <><> <><>
+ custom_diff_strong_xsm:0 "@XSM Stärke Xibei San Ma"
+
+ ###---> Minors: Y <><> <><> <><>
+ custom_diff_strong_yem:0 "@YEM Stärke Jemen"
+ custom_diff_strong_yug:0 "@YUG Stärke Joguslavien"
+ custom_diff_strong_yun:0 "@YUN Stärke Yunnan"
+
+ ###---> Minors: Z <><> <><> <><>
+ custom_diff_strong_zim:0 "@ZIM Stärke Simbabwe"
+
+ ###---> Factions <><> <><> <><>
+ custom_diff_strong_allies:0 "@USA @ENG @FRA Stärke Allierte"
+ custom_diff_strong_axis:0 "@GER @ITA @JAP Stärke Achsenmächte"
+
+ ###---> Regions (Unused) <><> <><> <><>
+ custom_diff_strong_africa:0 "Stärke Afrika"
+ custom_diff_strong_america_central:0 "Stärke Zentralamerika"
+ custom_diff_strong_america_north:0 "Stärke Nordamerika"
+ custom_diff_strong_america_south:0 "Stärke Südamerika"
+ custom_diff_strong_middle_east:0 "Stärke Naher Osten"
+ custom_diff_strong_europe_central:0 "Stärke Mitteleuropa"
+ custom_diff_strong_europe_east:0 "Stärke Osteuropa"
+ custom_diff_strong_europe_north:0 "Stärke Nordeuropa"
+ custom_diff_strong_europe_west:0 "Stärke Westeuropa"
+ custom_diff_strong_asia_east:0 "Stärke Ostasien"
+ custom_diff_strong_asia_central:0 "Stärke Zentralasien"
+
+#####-----> End of File <><> <><> <><> <><> <><>
