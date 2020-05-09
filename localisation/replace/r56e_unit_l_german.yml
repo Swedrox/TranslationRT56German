@@ -1,0 +1,11 @@
+﻿l_german:
+category_light_armor:0 "Leichte gepanzerte Fahrzeuge & Varianten"
+militia:0 "Milizen"
+militia_desc:0 "Milizen sind informelle Bodentruppen, die ohne die Anforderungen einer traditionellen Armeeeinheit in aller Eile eingesetzt werden können. Milizpersonal benötigt weder die umfangreiche Ausbildung noch die große Menge an Ausrüstung, die ein formelles Infanteriebataillon benötigt. Obwohl man sagen muss, dass sie kein Ersatz für eine traditionelle Infanterie sind, wenn es um die Effektivität im Kampf geht."
+r56_allow_militia_formation:0 "Formalisierung der Milizausbildung"
+r56_allow_militia_formation_desc:0 "Unsere Regierung wird die Bildung irregulärer Milizbataillone legalisieren, die an der Seite unserer traditionellen Armeeeinheiten kämpfen"
+r56_militia_tech:0 "Milizen"
+r56_militia_tech_desc:0 "Milizen sind informelle Bodentruppen, die ohne die Anforderungen einer traditionellen Armeeeinheit in aller Eile eingesetzt werden können. Milizpersonal benötigt weder die umfangreiche Ausbildung noch die große Menge an Ausrüstung, die ein formelles Infanteriebataillon benötigt. Obwohl man sagen muss, dass sie kein Ersatz für eine traditionelle Infanterie sind, wenn es um die Effektivität im Kampf geht."
+r56_militia_tt:0 "Aktiviert §YMilizen§!"
+mot_shocktroop:0 "Motorisierte Schocktruppen"
+mot_shocktroop_desc:0 "Motorisierte Stoßtruppen können in feindliche Linien einschlagen, um einen Durchbruch zu erreichen. Dies ist für jede Form der Tiefenschlacht fast unerlässlich und kann wesentlich dazu beitragen, die Verteidiger in Unordnung zu bringen."
