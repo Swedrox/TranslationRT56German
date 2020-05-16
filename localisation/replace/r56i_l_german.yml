@@ -1,0 +1,168 @@
+﻿#####---------------------------------------------------------------------> Mod by GreatExperiment
+
+l_german:
+
+#Ideas
+ etgi_ideas:0 "Nationaler Charakter"
+
+ r56i_laws_category_gender:0 "Rechtlicher Status von Frauen"
+ r56i_laws_gender_traditional:0 "Traditionelle Rollen"
+ r56i_laws_gender_limited:0 "Eingeschränkte Rechte"
+ r56i_laws_gender_patriarchy:0 "Erzwungenes Patriarchat"
+ r56i_laws_gender_equality:0 "Völlige Gleichberechtigung"
+
+ r56i_laws_social:0 "Soziale Ordnung"
+ r56i_laws_social_normal:0 "Kulturelle Standards"
+ r56i_laws_social_hierarchy:0 "Hierarchie"
+ r56i_laws_social_revolutionary:0 "Revolutionäre Köpfe"
+ r56i_laws_social_diversity:0 "Schmelztiegel"
+ r56i_laws_social_unity:0 "Das Wohl der Allgemeinheit"
+
+ r56i_laws_war:0 "Rechtfertigung für den Krieg"
+ r56i_laws_war_historical:0 "Lektionen aus der Geschichte"
+ r56i_laws_war_ideological:0 "Ideologischer Kampf"
+ r56i_laws_war_brinkmanship:0 "Politik des äußersten Risikos"
+ r56i_laws_war_diplomacy:0 "Globale Ordnung"
+
+ etgi_laws_foreign_relations:0 "Auswärtige Beziehungen"
+ etgi_laws_foreign_relations_d:0 "Einflusssphäre"
+ etgi_laws_foreign_relations_1:0 "Austausch von Ideen"
+ etgi_laws_foreign_relations_2:0 "Internationaler Handel"
+ etgi_laws_foreign_relations_3:0 "Geschlossene Türen"
+
+ r56i_laws_category_security:0 "Strafverfolgung"
+ r56i_laws_security_balanced:0 "Ausgewogene Herangehensweise"
+ r56i_laws_security_order:0 "Die Ordnung über alles"
+ r56i_laws_security_rights:0 "Rechte des Individuums"
+
+ r56i_laws_leadership:0 "Der Auftrag des Staates"
+ r56i_laws_leadership_politics:0 "Macht und Politik"
+ r56i_laws_leadership_cult:0 "Persönlichkeitskult"
+ r56i_laws_leadership_secular:0 "Säkulare Institutionen"
+ r56i_laws_leadership_divine:0 "Göttliche Eingebung"
+ r56i_laws_leadership_people:0 "Der Wille des Volkes"
+
+ r56i_idea_riots:0 "Zivile Unruhen"
+ r56i_idea_riots_desc:0 "Die Menschen sind verärgert und demonstrieren öffentlich, manchmal mit Gewalt."
+ r56i_idea_riots_escalate:0 "Schwere Ausschreitungen"
+ r56i_idea_riots_escalate_desc:0 "Das Volk steht dank unserer früheren gescheiterten Bemühungen am Rande einer ausgewachsenen Rebellion."
+ r56i_idea_suppress_harsh:0 "Harte Unterdrückung"
+ r56i_idea_suppress_harsh_desc:0 "Die Militärpolizei wird gegen die Randalierer eingesetzt."
+ r56i_idea_suppress_talks:0 "Laufende Verhandlungen"
+ r56i_idea_suppress_talks_desc:0 "Wir verhandeln mit einigen der führenden Demonstranten."
+ r56i_idea_suppress_spend:0 "Beschwichtigung"
+ r56i_idea_suppress_spend_desc:0 "Wir leiten Bundesmittel für die Programme, die die Randalierer verlangen."
+
+#Decisions
+ #r56i_national_character_decisions:0 "National Decisions"
+ r56i_decision_suppress_revolts:0 "Gegen die zivilen Unruhen vorgehen"
+ r56i_decision_suppress_revolts_desc:0 "Wenn der Stiefel richtig eingesetzt wird, muss sich der Hals biegen."
+ r56i_decision_talk_revolts:0 "Mit Rädelsführern verhandeln"
+ r56i_decision_talk_revolts_desc:0 "Einige wenige charismatische Personen lenken den öffentlichen Zorn. Vielleicht können sie überzeugt werden aufzuhören?"
+ r56i_decision_spend_revolts:0 "Den Forderungen der Protestierenden nachkommen"
+ r56i_decision_spend_revolts_desc:0 "Die Öffentlichkeit will Projekte und Programme. Vielleicht wird die Gewalt ein Ende haben, wenn wir einigen von ihnen zustimmen."
+
+#Tooltips
+
+r56i_tooltip_suppress_spend:0 "Entfernt den Nationalgeist §YZivile Unruhen§!\n §g'Wir werden versuchen, einen Ausweg aus dem Problem zu finden.'§!"
+r56i_tooltip_suppress_talks:0 "Entfernt den Nationalgeist §YZivile Unruhen§!\n §g'Wir werden mit den Anführern der Unruhen sprechen und sehen was getan werden kann.'§!"
+r56i_tooltip_suppress_harsh:0 "Entfernt den Nationalgeist §YZivile Unruhen§!\n §g'Wir werden die Militärpolizei aussenden, um das Nötige zu tun.'§!"
+r56i_laws_security_order_tt:0 "§WWahrscheinlichkeit von Streiks:§G -100%§!"
+
+#Events
+
+ #People are unhappy
+ r56i.event.01.title:0 "Unruhen in den Straßen"
+ r56i.event.01.description:0 "Es scheint, als sei die Öffentlichkeit etwas zu lange ignoriert worden. Verärgert über die gegenwärtige Situation und nicht mehr in der Lage diese ertragen, ist die Gewalt ausgebrochen. Ihre Forderungen sind zwar recht moderat, aber sie sind sicherlich kostspielig."
+ r56i.event.01.default:0 "Äußerst beunruhigend."
+ r56i.event.01.democratic:0 "Unsere Bürger leiden."
+ r56i.event.01.communism:0 "Unsere Brüder werden manipuliert."
+ r56i.event.01.fascism:0 "Dem Volk muss eine starke Hand gegeben werden."
+
+ #People are unhappy again
+ r56i.event.02.title:0 "Die Unruhen kehren zurück"
+ r56i.event.02.description:0 "Die Unruhen dauern immer noch an und haben sich verschlimmert. Immer mehr Intellektuelle aus unserer Gesellschaft unterstützen sie und es werden viel häufiger Forderungen gestellt, die ursprünglich als extrem angesehen wurden."
+ r56i.event.02.default:0 "Was können wir tun?"
+ r56i.event.02.democratic:0 "Sicherlich muss es eine Lösung geben?"
+ r56i.event.02.communism:0 "Das sind keine wahren Kommunisten!"
+ r56i.event.02.fascism:0 "Vielleicht sind extreme Maßnahmen erforderlich."
+
+ #Violent suppression is a success
+ r56i.event.04.title:0 "Die Niederschlagung war ein Erfolg"
+ r56i.event.04.description:0 "Die Unzufriedenen mögen zwar immer noch an ihren Überzeugungen festhalten, aber sie haben auf die harte Tour gelernt, ihre Ideen geheim zu halten. Obwohl Unruhe in der Luft liegt, haben die Bereitschafts- und Militärpolizei die Proteste aufgelöst und die Menschen sind in ihr normales Leben zurückgekehrt."
+ r56i.event.04.default:0 "Ein paar zerbrochene Eier."
+ r56i.event.04.democratic:0 "Und denken Sie daran - stimmen Sie für uns!"
+ r56i.event.04.communism:0 "Die Kosten der Revolution sind hoch."
+ r56i.event.04.fascism:0 "Lasst die Feiglinge zittern."
+
+ #Violent suppression is a failure
+ r56i.event.05.title:0 "Die Niederschlagung war ein Fehlschlag"
+ r56i.event.05.description:0 "Obwohl die Militärpolizei, die wir bei den Unruhen entsandt haben, theoretisch die Ordnung wiederherstellen könnte, schlossen sich mehrere unserer Männer, die wir zur Bewältigung der Situation entsandt hatten, den Unruhen an. Die wenigen, die loyal geblieben sind, scheinen nur den Rest der Öffentlichkeit verärgert zu haben. Es scheint als hätten wir das Feuer nur angeheizt."
+ r56i.event.05.default:0 "Wofür bezahlen wir sie?"
+ r56i.event.05.democratic:0 "Wir haben unsere Werte umsonst verraten."
+ r56i.event.05.communism:0 "Sie müssen Hilfe von außen erhalten haben."
+ r56i.event.05.fascism:0 "Wir sollten beim nächsten Mal das ECHTE Militär schicken."
+
+ #Talk suppression is a success
+ r56i.event.06.title:0 "Erfolgreiche Gespräche"
+ r56i.event.06.description:0 "Genau wie jeder andere Mensch ist ein Protestorganisator nicht unfehlbar. Vage, leere Versprechungen reichten aus, um einige der Führer zu besänftigen, während andere mit... Spenden für Friedensbemühungen aus der Staatskasse bezahlt werden mussten. Ungeachtet dessen scheinen sich die Proteste ohne weitere Organisation selbst ausgebrannt zu haben."
+ r56i.event.06.default:0 "Die Feder ist mächtig."
+ r56i.event.06.democratic:0 "Die Demokratie siegt wieder."
+ r56i.event.06.communism:0 "Die Dialektik dient uns gut."
+ r56i.event.06.fascism:0 "Die Massen sind leicht zu beschwichtigen."
+
+ #Talk suppresion is a failure
+ r56i.event.07.title:0 "Verhandlungen scheitern"
+ r56i.event.07.description:0 "Es stellt sich heraus, dass es viel einfacher ist, eine Person zu beruhigen als eine Gruppe - eine Lektion, die unser Innenminister gelernt hat, nachdem er versucht hatte, alle wichtigen Protestführer zur Auflösung zu bewegen. Da einige nicht an Versprechen glauben und andere von unseren Bestechungsversuchen angewidert sind, scheinen wir nur Einheit und Zusammenhalt zwischen den Anführern der Unruhen gesät zu haben."
+ r56i.event.07.default:0 "Warum können sie nicht bündnisfrei sein, wie wir?"
+ r56i.event.07.democratic:0 "Dies ist eine Beleidigung für unsere Demokratie."
+ r56i.event.07.communism:0 "Aber unser Staat kann alles bieten!"
+ r56i.event.07.fascism:0 "Nun, wir haben versucht, es nett anzugehen."
+
+ #Spend suppression is a success
+ r56i.event.08.title:0 "Randalierer besänftigt"
+ r56i.event.08.description:0 "Obwohl die Kosten hoch waren, sind die Menschen nun, da die Schlaglöcher in den Straßen unserer Stadt gefüllt sind und die Sozialprogramme eine gewisse Verbesserung gezeigt haben, glücklich genug, die organisierten Unruhen zu beenden. Einige beklagen sich immer noch, aber die meisten sind zufrieden."
+ r56i.event.08.default:0 "Wenn sie glücklich sind..."
+ r56i.event.08.democratic:0 "Geld hält die Welt in Schwung."
+ r56i.event.08.communism:0 "Kapital hat noch einige Verwendungszwecke."
+ r56i.event.08.fascism:0 "Die Schafe waren nie eine Bedrohung."
+
+ #Spend suppression is a failure
+ r56i.event.09.title:0 "Randalierer fordern mehr"
+ r56i.event.09.description:0 "Obwohl sie die ursprünglichen Forderungen der Protestführer erfüllt haben, haben extremere Vertreter die Macht übernommen und begonnen, noch mehr von unserem Staat zu verlangen, und das Volk, das nun durch den vermeintlichen Sieg ermutigt wird, ist eher bereit, jedem ihrer Worte zu folgen."
+ r56i.event.09.default:0 "Eine Verschwendung wertvoller Mittel."
+ r56i.event.09.democratic:0 "Verwöhnte verkommene Sozialisten."
+ r56i.event.09.communism:0 "Diese Zwangsarbeit war eine Vergeudung!"
+ r56i.event.09.fascism:0 "Wie können sie es wagen, unsere große Nation so zu beleidigen?"
+
+ #Strikes planners are found out
+
+ strikes_rt56.t:0 "Workers Planning Strikes Arrested"
+ strikes_rt56.desc:0 "Die Strafverfolgungsbehörden der Regierung haben vor kurzem einen Streikplan von Beschäftigten in vielen Fabriken im ganzen Land entdeckt. Glücklicherweise wurde der Plan aufgedeckt, und die Anführer der Ringe wurden verhaftet. Hoffentlich werden dadurch jegliche Produktionsunterbrechungen verhindert."
+ strikes_rt56.a:0 "Wir sind gegen die Quelle dieses Ungehorsams hart vorgegangen."
+
+#Event to leave faction in case of revolution
+  r56i.event.10.title:0 "Eine neue diplomatische Orientierung?"
+  r56i.event.10.description:0 "Die Einsetzung einer neuen Regierung wirft eine Reihe von Fragen bezüglich der Zukunft von [ROOT.getnameDef] auf. [ROOT.GetLeader] ist misstrauisch gegenüber der ideologischen Ausrichtung des/der/den [ROOT.GetFactionName] und befürchtet, dass eine solche Zusammenarbeit zu einem Krieg gegen Länder führen könnte, die mit der Sache [ROOT.GetRulingIdeology] und der politischen Ausrichtung der [ROOT.GetRulingParty] sympathisieren."
+  r56i.event.10.a:0 "Das waren die Verbündeten der vorherigen Regierung"
+  r56i.event.10.b:0 "Respektieren Sie unsere diplomatischen Beziehungen."
+
+
+  r56i.event.11.title:0 "[From.GetNameDef] Verlässt die/der/das [From.GetFactionName]"
+  r56i.event.11.description:0 "\nDie neue [FROM.GetAdjective] [FROM.GetRulingIdeology]-Regierung hat beschlossen, ihre diplomatische Position radikal zu ändern und sich aus den/der/das [FROM.GetFactionName] zurückzuziehen. Die Nachricht hat die Mitglieder der/des [FROM.GetFactionName] in Aufruhr versetzt, da sie sich fragen, ob andere Austritte zum Zusammenbruch ihres Bündnisses führen könnten.\n\n [FROM.GetLeader] erklärte, dass die Notwendigkeit, die Politik des Landes gemäß dem Programm der [FROM.GetRulingParty] neu auszurichten, seine Entscheidung motiviert habe. Er erklärte, dass seine Regierung alles tun werde, um [From.GetAdjective] Unabhängigkeit zu bewahren."
+  r56i.event.11.a:0 "Die Welt verändert sich."
+
+  r56i.event.12.title:0 "Eine historische Gelegenheit"
+  r56i.event.12.description:0 "Die Einsetzung unserer Regierung wirft Fragen bezüglich der Zukunft von [ROOT.GetName] auf. Für die meisten von uns ist die Antwort klar: Es ist an der Zeit, unsere Unabhängigkeit zu ergreifen. Es ist klar, dass unser Aufstieg ein deutliches Zeichen für die Rechtmäßigkeit von [ROOT.GetRulingIdeology] ist und dass wir unsere diplomatische Situation mit dem politischen Manifest der [ROOT.GetRulingParty] in Einklang bringen müssen."
+  r56i.event.12.a:0 "Endlich sind wir frei!"
+  r56i.event.12.b:0 "Das ist zu riskant"
+
+
+  r56i.event.13.title:0 "[From.GetLeader] Erklärt [From.GetAdjective] Unabhängigkeit".
+  r56i.event.13.description:0 "\nDie neue [FROM.GetAdjective] [FROM.GetRulingIdeology] Regierung hat beschlossen, ihre Unabhängigkeit einseitig zu erklären. Diese Entscheidung wurde als vollständig und kompromisslos angekündigt. Daher wird sich [FROM.GetNameDef] von allen militärischen Verpflichtungen zurückziehen und ihre Außenpolitik neu bewerten. Dies wird ihren ehemaligen Oberherrn sicherlich verärgern, da [FROM.GetLeader] klar zum Ausdruck brachte, dass er sich nicht an frühere Verträge gebunden fühle und dass dieser Tag den Beginn einer neuen Ära in der Geschichte von [FROM.GetAdjective] markieren würde."
+  r56i.event.13.a:0 "Eine weitere Revolution."
+
+  r56i.event.14.title:0 "[From.GetNameDef] Rebellen!"
+  r56i.event.14.description:0 "\nDie Übernahme von [FROM.GetRulingIdeology] hat zu einer Unabhängigkeitserklärung von [FROM.GetAdjective] durch [FROM.GetLeader] geführt. Da sie nicht gewillt sind, die etablierte Ordnung zu respektieren, könnte ihr trotziges Verhalten einen gefährlichen Präzedenzfall schaffen."
+  r56i.event.14.a:0 "Wir müssen Vergeltung üben"
+#####---------------------------------------------------------------------> End

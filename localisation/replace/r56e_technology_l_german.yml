@@ -1,0 +1,632 @@
+﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
+
+#--> All the new techs
+
+l_german:
+## trying to fix base game decimetric radar tech
+  decimetric_radar:0 "Dezimetrisches Radar"
+
+
+### Extra tech categories
+  torpedo_equipment:0 "Torpedo-Technologien"
+  refining_tech:0 "Veredelungstechnologien"
+  refining_tech_research:0 "Geschwindigkeit der Treibstoffraffinationsforschung"
+  naval_armor_tech:0 "Marinepanzerungstechnologien"
+  naval_gunnery_tech:0 "Technologien für Marinegeschütze"
+  naval_shell_tech:0 "Marine-Geschosstechnologien"
+
+
+### Extra Special Forced Tech Categories
+ r56_desert_infantry_tech:0 "Wüsteninfanterie"
+ r56_jaeger_infantry_tech:0 "Jägerinfanterie"
+ r56_jungle_infantry_tech:0 "Dschungelinfanterie"
+ r56_marines_infantry_tech:0 "Marineinfanterie"
+ r56_mountain_infantry_tech:0 "Gebirgsjäger"
+ r56_paratroops_infantry_tech:0 "Fallschirmjäger"
+ r56_shock_infantry_tech:0 "Stoßtruppen"
+
+### tech categories for focus tree interface
+ summer_clothing_tech:0 "Sommerbekleidungs-Technologien"
+ winter_clothing_tech:0 "Winterbekleidungs-Technologien"
+
+###------> Artillery   <><> <><> <><> <><> <><>
+ artillery_a:0 "Erweiterte Artillerie-Upgrade II"
+ artillery_a_desc:0 "Der erste Schuss ist für den Teufel, der zweite für Gott, und nur der dritte ist für den König."
+# artillery_b:0 "Advanced Artillery Upgrade III"
+# artillery_b_desc:0 "Do not forget your dogs of war, your big guns, which are the most respected arguments of those who would wield power."
+ artillery_c:0 "Upgrade der halbmodernen Artillerie I"
+ artillery_c_desc:0 "Feinwerkzeuge und andere Anpassungen, die an jedem Teil der Batterie vorgenommen wurden, haben zu einer allgemeinen Steigerung der Leistung und Zuverlässigkeit geführt."
+ artillery_d:0 "Upgrade der halbmodernen Artillerie II"
+ artillery_d_desc:0 "Das Gewicht unserer Einheiten wurde reduziert, was ihre Wirksamkeit erhöht."
+ artillery_e:0 "Upgrade der halbmodernen Artillerie III"
+ artillery_e_desc:0 "Artillerie mit stromlinienförmigen Geschossen, die eine höhere Geschwindigkeit erreichen können."
+#-<><><>
+ rocket_artillery_a:0 "Upgrade für fortgeschrittene Raketenartillerie"
+ rocket_artillery_a_desc:0 "Eines der Dinge, die wir mit Zuversicht sagen können, ist, dass wir viel leichtere, viel stärkere Materialien haben werden und dies wird die Kosten für unsere Raketen senken."
+ rocket_artillery_b:0 "Upgrade für fortgeschrittene Raketenartillerie II"
+ rocket_artillery_b_desc:0 "Die Raketen... können so mächtig gebaut werden, dass sie in der Lage sind, einen Menschen in die Luft zu befördern. Also versuchen Sie, nicht auf dem Mond zu landen, ok?"
+# rocket_artillery_c:0 "X"
+# rocket_artillery_c_desc:0 "X"
+ rocket_artillery_d:0 "Aufrüstung der semimodernen Raketenartillerie"
+ rocket_artillery_d_desc:0 "Raketen mit erhöhter Geschwindigkeit und Abschusskraft."
+ rocket_artillery_e:0 "Aufrüstung der semimodernen Raketenartillerie II"
+ rocket_artillery_e_desc:0 "Das Gehäuse der Einheit wurde weiterentwickelt, was zu einer Steigerung der Effizienz und Zuverlässigkeit führt."
+#-<><><>
+ antiair_a:0 "Erweiterte Flugabwehraufrüstung"
+ antiair_a_desc:0 "Warum braucht die Armee teure neue Waffen? Haben die Piloten, auf die wir im Laufe der Jahre abgeschossen haben, angefangen, sich zu beschweren?"
+ antiair_b:0 "Erweiterte Flugabwehraufrüstung II"
+ antiair_b_desc:0 "Zu meiner Linken herrschte die scharfe Explosion der Infanterieartillerie, zu meiner Rechten hörte man die sporadischen Kanonenschüsse von der Front donnern, und über mir war der Himmel klar und die Sonne hell."
+# antiair_c:0 "X"
+# antiair_c_desc:0 "X"
+ antiair_d:0 "Halbmodern Flugabwehraufrüstung"
+ antiair_d_desc:0 "Wir haben große Fortschritte bei der Verknüpfung unserer Artilleriesysteme mit dem Radar gemacht."
+ antiair_e:0 "Halbmodern Flugabwehraufrüstung II"
+ antiair_e_desc:0 "Weitere Fortschritte in der Radartechnologie und in der Vernetzung haben eine maximale Effizienz ermöglicht."
+#-<><><>
+ antitank_a:0 "Fortgeschrittenes Panzerabwehrupgrade"
+ antitank_a_desc:0 "Wenn die Panzer Erfolg haben, wird der Sieg folgen. Wenn sie versagen, sind wir verloren."
+ antitank_b:0 "Fortgeschrittenes Panzerabwehrupgrade II"
+ antitank_b_desc:0 "Unsere schwersten Geschütze werden unser Lebenswillen sein. Halten Sie sie am Laufen, egal was passiert, und beten Sie, dass ihre nicht noch größer sind."
+# antitank_c:0 "X"
+# antitank_c_desc:0 "X"
+ antitank_d:0 "Semimodernes Upgrade der Panzerabwehr-Artillerie"
+ antitank_d_desc:0 "Unsere Geschosse haben jetzt eine stark erhöhte Durchschlagskraft und Wucht erreicht."
+ antitank_e:0 "Semimodernes Upgrade der Panzerabwehr-Artillerie II"
+ antitank_e_desc:0 "Die Genauigkeit und Handhabbarkeit jedes einzelnen Schusses ist jetzt erheblich verbessert."
+
+
+###------> Infantry   <><> <><> <><> <><> <><>
+ anti_tank_infantry_weapons:0 "Tragbare Panzerabwehrwaffen"
+ infantry_at_a:0 "Infanterie-Panzerabwehrwaffe III"
+ infantry_at_a_desc:0 "Ruhig zielen, wagen es nicht zu atmen. Feuern - und dann rennen wie der Teufel."
+ infantry_at_b:0 "Infanterie-Panzerabwehrwaffe IV"
+ infantry_at_b_desc:0 "Ruhig zielen, wagen es nicht zu atmen. Feuern - und dann rennen wie der Teufel."
+ infantry_at_c:0 "Infanterie-Panzerabwehrwaffe V"
+ infantry_at_c_desc:0 "Ruhig zielen, wagen es nicht zu atmen. Feuern - und dann rennen wie der Teufel."
+#-<><><>
+ advanced_infantry_weapons_a:0 "Fortschrittliche Infanterie-Ausrüstung"
+ advanced_infantry_weapons_a_desc:0 "Die Gewehre, Gott sei Dank, die Gewehre. ."
+ advanced_infantry_weapons_c:0 "Halbmoderne Infanterie-Ausrüstung"
+ advanced_infantry_weapons_c_desc:0 "Die Gewehre, Gott sei Dank, die Gewehre. ."
+ advanced_infantry_weapons_d:0 "Moderne Infanterie-Ausrüstung"
+ advanced_infantry_weapons_d_desc:0 "Die Gewehre, Gott sei Dank, die Gewehre. ."
+#-<><><>
+ paratroopers_a:0 "Fallschirmjäger IV"
+ paratroopers_a_desc:0 "Was nach oben geht, muss auch wieder runter."
+ paratroopers_b:0 "Fallschirmjäger V"
+ paratroopers_b_desc:0 "Was nach oben geht, muss auch wieder runter."
+ paratroopers_c:0 "Fallschirmjäger VI"
+ paratroopers_c_desc:0 "Was nach oben geht, muss auch wieder runter."
+#-<><><>
+ marines_a:0 "Marineinfanterie IV"
+ marines_a_desc:0 "Es gibt nur zwei Arten von Menschen, die uns verstehen: Marineinfnaterie und der Feind. Alle anderen haben eine Meinung aus zweiter Hand."
+ marines_b:0 "Marineinfanterie V"
+ marines_b_desc:0 "Es gibt nur zwei Arten von Menschen, die uns verstehen: Marineinfnaterie und der Feind. Alle anderen haben eine Meinung aus zweiter Hand."
+ marines_c:0 "Marineinfanterie VI"
+ marines_c_desc:0 "Es gibt nur zwei Arten von Menschen, die uns verstehen: Marineinfnaterie und der Feind. Alle anderen haben eine Meinung aus zweiter Hand."
+#-<><><>
+ mountaineers_a:0 "Gebirgsjäger IV"
+ mountaineers_a_desc:0 "'Noch ein Gipfel'? Ja, das ist der Name des Berges, den wir besteigen müssen."
+ mountaineers_b:0 "Gebirgsjäger V"
+ mountaineers_b_desc:0 "'Noch ein Gipfel'? Ja, das ist der Name des Berges, den wir besteigen müssen."
+ mountaineers_c:0 "Gebirgsjäger VI"
+ mountaineers_c_desc:0 "'Noch ein Gipfel'? Ja, das ist der Name des Berges, den wir besteigen müssen."
+#-<><><>
+ support_weapons_a:0 "Unterstützungswaffen V"
+ support_weapons_a_desc:0 "Es ist uns gelungen, eine noch bessere Ausrüstung zusammenzustellen, sehr zur Erleichterung unserer Truppen an der Front."
+ support_weapons_b:0 "Unterstützungswaffen VI"
+ support_weapons_b_desc:0 "Es ist uns gelungen, eine noch bessere Ausrüstung zusammenzustellen, sehr zur Erleichterung unserer Truppen an der Front."
+ support_weapons_c:0 "Unterstützungswaffen VII"
+ support_weapons_c_desc:0 "Es ist uns gelungen, eine noch bessere Ausrüstung zusammenzustellen, sehr zur Erleichterung unserer Truppen an der Front."
+
+#-<><><>
+ night_vision_a:0 "Nachtsicht III"
+ night_vision_a_desc:0 "Die Fähigkeit, den Feind zu sehen, solange er es nicht kann, ist von größter Bedeutung. Diese neue Technologie hilft uns, dieses Ziel zu erreichen."
+
+###------> Electronics   <><> <><> <><> <><> <><>
+ future_radar:0 "AN/APS-2"
+ future_radar_desc:0 "Unser luftgestütztes Abfangradar ist jetzt recht hoch entwickelt und kann bei Einsätzen allmählich einen sichtbaren Unterschied machen."
+ future_radar_2:0 "AN/APS-4"
+ future_radar_2_desc:0 "Weitere Fortschritte in der Empfindlichkeit und Reichweite unserer Systeme haben es uns ermöglicht, noch bessere Einheiten für den Einbau in unsere Flugzeuge zu entwickeln."
+ future_radar_3:0 "AN/APS-6"
+ future_radar_3_desc:0 "Wir arbeiten weiter an der Optimierung unserer Systeme und entwickeln noch bessere Geräte für den Einbau in unsere Flugzeuge."
+#-<><><>
+ future_computing_machine:0 "Koloss-Serie"
+ future_computing_machine_desc:0 "Je größer sie sind, desto schwieriger wird die Berechnung."
+#-<><><>
+ future_computing_machine_2:0 "ENIAC"
+ future_computing_machine_2_desc:0 "Wir haben eine noch schnellere Schreib-/Lesefähigkeit integriert und können Programme zuverlässig in das System schreiben."
+#-<><><>
+ future_computing_machine_3:0 "LEO I"
+ future_computing_machine_3_desc:0 "Jetzt sind unsere Systeme so leistungsfähig, dass wir damit beginnen können, bestimmte Büroaufgaben zu automatisieren, und läuten nun eine neue Ära der Produktivität ein."
+#-<><><>
+ future_computing_machine_4:0 "Frühe Transistoren"
+ future_computing_machine_4_desc:0 "Der Bipolartransistor ist in jeder Hinsicht besser als die Vakuumröhre, und wir rechnen mit seiner raschen Einführung, der große Fortschritte in der Informatik folgen werden."
+#-<><><>
+ future_decryption:0 "Mk-1 Entschlüsselung"
+ future_decryption_desc:0 "'Es hat fünf Jahre lang funktioniert. Warum sollten wir es ändern? (Protokolliert von J. Williams, 18:45, RS8)"
+ future_encryption:0 "Mk-1 Verschlüsselung"
+ future_encryption_desc:0 "Ich glaube, sie haben begonnen, ihre Einkaufslisten zu verschlüsseln, nur um uns zu verwirren."
+ future_decryption_2:0 "Mk-2 Entschlüsselung"
+ future_decryption_2_desc:0 "124.89 12.88 45.45.907"
+ future_encryption_2:0 "Mk-2 Verschlüsselung"
+ future_encryption_2_desc:0 "Gehen Sie davon aus, dass es gefährlich ist - das ist die erste Regel. Kümmern Sie sich um die anderen Regeln, sobald Sie das Wie und Warum herausgefunden haben."
+ future_decryption_3:0 "Mk-3 Entschlüsselung"
+ future_decryption_3_desc:0 "Der heilige Gral ist für uns immer eine Liste mit den Namen von Haustieren und vielleicht auch mit Geburtstagen in unmittelbarer zeitlicher Nähe."
+ future_encryption_3:0 "Mk-3 Verschlüsselung"
+ future_encryption_3_desc:0 "Unsere Kodierungen sind jetzt so kompliziert, dass nicht einmal unsere eigenen Leute sie benutzen können."
+ #-<><><>
+ rdf1:0 "Funkpeilung" #new
+ rdf1_desc:0 "Indem wir illegale Übertragungen von Partisanen abfangen, werden wir unsere Fähigkeit zur Aufstandsbekämpfung stärken." #new
+ rdf2:0 "Verbesserte Funkpeilung" #new
+ rdf2_desc:0 "Indem wir illegale Übertragungen von Partisanen genauer abfangen, werden wir unsere Fähigkeit zur Aufstandsbekämpfung stärken." #new
+ rdf3:0 "Fortgeschrittene Funkpeilung" #new
+ rdf3_desc:0 "Durch das Abfangen illegaler Übertragungen von Partisanen mittels frühzeitiger Triangulation werden wir unsere Fähigkeit zur Aufstandsbekämpfung stärken." #new
+ rdf4:0 "Moderne Funkpeilung" #new
+ rdf4_desc:0 "Indem wir illegale Übertragungen von Partisanen durch genauere Triangulation abfangen, werden wir unsere Fähigkeit zur Aufstandsbekämpfung verbessern." #new
+ rdf5:0 "1949 Funkpeilung" #new
+ rdf5_desc:0 "Indem wir illegale Übertragungen von Partisanen durch nahezu exakte Triangulation abfangen, werden wir unsere Fähigkeit zur Aufstandsbekämpfung stärken." #new
+ rdf6:0 "1953 Funkpeilung" #new
+ rdf6_desc:0 "Wir können sie aufspüren, wo immer sie sind. Es gibt kein Verstecken, kein Weglaufen und sicherlich keine Chance, dass sie Erfolg haben werden." #new
+
+
+###------> Industrial    <><> <><> <><> <><> <><>
+ streamlined_line_a:0 "Rationalisierte Linie II"
+ streamlined_line_a_desc:0 "Der Arbeitnehmer hält seine linke Hand stets 15 cm von der Maschine entfernt. Ihr Fuß muss sich zwischen dem zentralen Hebel und dem roten..."
+ flexible_line_a:0 "Flexible Linie II"
+ flexible_line_a_desc:0 "Hören Sie das Dröhnen am Himmel? Das bedeutet, dass wir dabei sind, eine neue Linie von Grund auf aufzubauen. Schon wieder."
+ streamlined_line_b:0 "Rationalisierte Fertigung"
+ streamlined_line_b_desc:0 "Wir haben die beiden Denkschulen der rationalisierten und flexiblen Fertigung miteinander vermischt, um einen noch besseren Prozess zu schaffen."
+ streamlined_line_c:0 "Semimoderne Fertigung"
+ streamlined_line_c_desc:0 "Weitere Fortschritte im Werkzeugbau haben zu besseren Techniken und Fähigkeiten in der Fertigung geführt."
+ streamlined_line_d:0 "Moderne Fertigung"
+ streamlined_line_d_desc:0 "Unsere Fertigungskapazitäten sind heute auf dem neuesten Stand der Technik und ermöglichen die Massenproduktion von beinahe allem."
+#-<><><>
+ concentrated_industry_a:0 "Konzentrierte Industrie VI"
+ concentrated_industry_a_desc:0 "Für jede Kugel, die sie herstellen, machen wir tausend. Wir produzieren so viel, dass selbst dann, wenn unsere Jungs jeden Schuss verfehlen, der Feind im Metall ertrinkt."
+ dispersed_industry_a:0 "Verteilte Industrie VI"
+ dispersed_industry_a_desc:0 "Es ist gar nicht so schlimm, wenn man sich daran gewöhnt. Hier gibt es nur Fledermäuse, einen üblen Gestank und eine ganze Menge Typen, die sich nicht daran erinnern, wie die Sonne aussieht."
+ concentrated_industry_b:0 "Konzentrierte Industrie VII"
+ concentrated_industry_b_desc:0 "Die Megafabriken von heute stellen selbst die modernsten Anlagen noch vor wenigen Jahren in den Schatten."
+ dispersed_industry_b:0 "Verteilte Industrie VII"
+ dispersed_industry_b_desc:0 "Wir haben bedeutende Fortschritte bei unseren Bohrungen gemacht und sind nun in der Lage, riesige Anlagen unter der Erde auszuheben."
+ concentrated_industry_c:0 "Konzentrierte Industrie VIII"
+ concentrated_industry_c_desc:0 "Die vertikale Integration unserer Produktionsprozesse hat für größere Fortschritte bei unseren Kapazitäten gesorgt."
+ dispersed_industry_c:0 "Verteilte Industrie VIII"
+ dispersed_industry_c_desc:0 "Selbst bei schweren Bombenangriffen auf die Oberfläche können wir unten noch durchhalten und unsere Produktion unvermindert fortsetzen."
+ concentrated_industry_d:0 "Konzentrierte Industrie IX"
+ concentrated_industry_d_desc:0 "Wir können so gut wie jede Branche mit einer anderen kombinieren und die Vorteile der höchsten Konzentration nutzen."
+ dispersed_industry_d:0 "Verteilte Industrie IX"
+ dispersed_industry_d_desc:0 "Unsere Versorgungsketten sind diffus, aber effektiv und unsere Fabriken sind selbst gegen die heftigsten Angriffe voll abgesichert."
+#-<><><>
+ construction_a:0 "Bauwesen VI"
+ construction_a_desc:0 "Die Zunahme unserer Fähigkeit, neue "
+ excavation_a:0 "Ausgrabung VI"
+ excavation_a_desc:0 "Die Erde blutet, und es ist Ihre Aufgabe, dafür zu sorgen, dass das Blut weiter fließt."
+ construction_b:0 "Bauwesen VII"
+ construction_b_desc:0 "Wenn Sie wollen, dass es schnell und billig gebaut wird, können wir das tun. Stellen Sie nur nicht zu viele Fragen."
+ excavation_b:0 "Ausgrabung VII"
+ excavation_b_desc:0 "In diesen Hügeln gibt es noch mehr Bodenschätze, und wir werden auf jeden Fall an sie herankommen."
+ construction_c:0 "Bauwesen VIII"
+ construction_c_desc:0 "Wir können auf nahezu jedes Projekt im Handumdrehen hochskalieren. Vielleicht wird es nicht ganz stabil sein, aber es wird trotzdem die Sache erledigen."
+ excavation_c:0 "Ausgrabung VIII"
+ excavation_c_desc:0 "Maschinen wie diese hätten noch vor einem Jahrzehnt jeden zu Tode erschreckt. Für uns aber bedeuten sie nur eines: MEHR!"
+ construction_d:0 "Bauwesen IX"
+ construction_d_desc:0 "Moderne Techniken bedeuten, dass wir alles bauen können, überall und zu jeder Zeit. Das bedeutet aber nicht, dass wir diesen Bastarden mehr bezahlen werden."
+ excavation_d:0 "Ausgrabung IX"
+ excavation_d_desc:0 "Das Mark der Erde ist unser Lebensunterhalt, und ihre Erzadern werden angezapft."
+#-<><><>
+ rubber_plant_a:0 "Grundlegende Gummiraffinerie"
+ rubber_plant_a_desc:0 "Mit unserem Wissen über die Produktion von synthetischem Öl können wir jetzt künstliche Gummiprodukte herstellen."
+ rubber_plant_b:0 "Verbesserte Gummiraffinerie"
+ rubber_plant_b_desc:0 "Weitere Verbesserungen unseres synthetischen Produktionsverfahrens haben zu noch höheren Erträgen geführt. "
+ rubber_plant_c:0 "Fortgeschrittene Gummiraffinerie"
+ rubber_plant_c_desc:0 "Wir sind nun in der Lage jetzt große Mengen synthetischen Kautschuk mit unseren hochmodernen Anlagen produzieren und das zu einem sehr kostengünstigen Preis."
+ rubber_plant_d:0 "Moderne Gummiraffinerie"
+ rubber_plant_d_desc:0 "Wir sind nun in der Lage jetzt große Mengen synthetischen Kautschuk mit unseren hochmodernen Anlagen produzieren und das zu einem sehr kostengünstigen Preis."
+
+
+###------> Landing Craft   <><> <><> <><> <><> <><>
+ semi_modern_landing_craft:0 "Halbmoderne Landungsboote"
+ semi_modern_landing_craft_desc:0 "Einfach in die Knie gehen und auf das Beste hoffen."
+ modern_landing_craft:0 "Modernes Landungsboote"
+ modern_landing_craft_desc:0 "Wie viele Leute können wir überhaupt noch Platz auf diesem Ding finden?"
+
+
+###------> Resource Production  <><> <><> <><> <><> <><>
+ aluminum_production_1:0 "Aluminiumherstellung"
+ aluminum_production_1_desc:0 "Jüngste Fortschritte in der Frästechnik ermöglichen es uns nun, unsere Aluminiumproduktion zu steigern."
+ aluminum_production_2:0 "Aluminiumherstellung II"
+ aluminum_production_2_desc:0 "Fortschritte in der Frästechnik ermöglichen es uns, unsere Aluminiumproduktion moderat zu steigern."
+ aluminum_production_3:0 "Aluminiumherstellung III"
+ aluminum_production_3_desc:0 "Mit unseren neuen Frästechniken können wir unsere Aluminiumproduktion erheblich steigern."
+ #-<><><>
+ steel_production_1:0 "Stahlproduktion"
+ steel_production_1_desc:0 "Jüngste Fortschritte in der Frästechnik ermöglichen es uns nun, unsere Stahlproduktion zu steigern."
+ steel_production_2:0 "Stahlproduktion II"
+ steel_production_2_desc:0 "Fortschritte in der Frästechnik ermöglichen es uns, unsere Stahlproduktion moderat zu steigern."
+ steel_production_3:0 "Stahlproduktion III"
+ steel_production_3_desc:0 "Unsere Frästechniken sind heute beachtlich und wir können regelmäßig eine ziemlich große Menge des Metalls herstellen, wenn wir dies wünschen."
+ steel_production_4:0 "Stahlproduktion IV"
+ steel_production_4_desc:0 "Unsere Stahlproduktion ist jetzt so weit fortgeschritten, dass wir den Markt praktisch überschwemmen können, sehr zur Erleichterung und Frustration anderer Nationen."
+
+
+###------> Nuclear  <><> <><> <><> <><> <><>
+ nuke_naval:0 "Marinemacht"
+ nuke_naval_desc:0 "Wir haben die Theorie aufgestellt, dass unsere größten und leistungsstärksten Schiffe mit Kernreaktoren ausgestattet werden können. Hoffentlich können wir mit der Zeit einen Weg finden, dies Wirklichkeit werden zu lassen."
+ nukes_2:0 "Thermonukleare Experimente"
+ nukes_2_desc:0 "Es liegen Entwürfe für eine Bombe vor, die durch Kernspaltung eine noch stärkere Fusionsreaktion erzeugt. Damit sollten wir in der Lage sein, unsere Sprengkraft deutlich zu erhöhen."
+
+
+###------> Rockets  <><> <><> <><> <><> <><>
+ semi_modern_rocket_engines:0 "Internationale Raketentechnik"
+ semi_modern_rocket_engines_desc:0 "Diese neuen Raketen enthalten Ideen und Theorien, die von anderen Ländern übernommen wurden."
+ modern_rocket_engines:0 "Frühe ICBMs"
+ modern_rocket_engines_desc:0 "Wir haben damit begonnen, Raketen zu testen und die Grundlagen für Raketen zu schaffen, die in den Weltraum vordringen und so eine Nutzlast an jeden Punkt des Planeten bringen können."
+
+
+###------> Support  <><> <><> <><> <><> <><>
+ tech_engineers_a:0 "Pionierkompanie V"
+ tech_engineers_a_desc:0 "Die Pioniere der Zukunft werden dafür sorgen, dass unsere Truppen unabhängig davon, wo sie angegriffen werden, vorbereitet sind."
+ tech_engineers_b:0 "Pionierkompanie VI"
+ tech_engineers_b_desc:0 "Die Pioniere der Zukunft werden dafür sorgen, dass unsere Truppen unabhängig davon, wo sie angegriffen werden, vorbereitet sind."
+ tech_engineers_c:0 "Pionierkompanie VII"
+ tech_engineers_c_desc:0 "Die Pioniere der Zukunft werden dafür sorgen, dass unsere Truppen unabhängig davon, wo sie angegriffen werden, vorbereitet sind."
+#-<><><>
+ tech_recon_a:0 "Aufklärungskompanie V"
+ tech_recon_a_desc:0 "Tief greifende Aufklärungsoperationen, bei denen Spionage- und Kommandoausbildung miteinander vermischt werden, werden uns bei unseren taktischen Überlegungen und Entscheidungen helfen und es uns ermöglichen, unsere Entscheidungen rasch anzupassen."
+ tech_recon_b:0 "Aufklärungskompanie VI"
+ tech_recon_b_desc:0 "Tief greifende Aufklärungsoperationen, bei denen Spionage- und Kommandoausbildung miteinander vermischt werden, werden uns bei unseren taktischen Überlegungen und Entscheidungen helfen und es uns ermöglichen, unsere Entscheidungen rasch anzupassen."
+ tech_recon_c:0 "Aufklärungskompanie VIII"
+ tech_recon_c_desc:0 "Tief greifende Aufklärungsoperationen, bei denen Spionage- und Kommandoausbildung miteinander vermischt werden, werden uns bei unseren taktischen Überlegungen und Entscheidungen helfen und es uns ermöglichen, unsere Entscheidungen rasch anzupassen."
+#-<><><>
+ tech_military_police_a:0 "Militärpolizei V"
+ tech_military_police_a_desc:0 "Bei der sichereren Überwachung der besetzten Gebiete geht es ebenso um die Rückkehr zur Normalität wie um die rücksichtslose Beseitigung der Opposition. Unsere Militärpolizei muss sicherstellen, dass dieser Prozess frühzeitig beginnt, um die Sicherheit von Soldaten und Zivilisten gleichermaßen zu gewährleisten."
+ tech_military_police_b:0 "Militärpolizei VI"
+ tech_military_police_b_desc:0 "Bei der sichereren Überwachung der besetzten Gebiete geht es ebenso um die Rückkehr zur Normalität wie um die rücksichtslose Beseitigung der Opposition. Unsere Militärpolizei muss sicherstellen, dass dieser Prozess frühzeitig beginnt, um die Sicherheit von Soldaten und Zivilisten gleichermaßen zu gewährleisten."
+ tech_military_police_c:0 "Militärpolizei VII"
+ tech_military_police_c_desc:0 "Bei der sichereren Überwachung der besetzten Gebiete geht es ebenso um die Rückkehr zur Normalität wie um die rücksichtslose Beseitigung der Opposition. Unsere Militärpolizei muss sicherstellen, dass dieser Prozess frühzeitig beginnt, um die Sicherheit von Soldaten und Zivilisten gleichermaßen zu gewährleisten."
+#-<><><>
+ tech_maintenance_company_a:0 "Wartungskompanie V"
+ tech_maintenance_company_a_desc:0 "Die Erfahrungen mit der Planung für aktive Redundanz im Ersten Weltkrieg können erneuert werden, um mit modernerer Ausrüstung zu arbeiten und die Wartung zu erleichtern."
+ tech_maintenance_company_b:0 "Wartungskompanie VI"
+ tech_maintenance_company_b_desc:0 "Die Erfahrungen mit der Planung für aktive Redundanz im Ersten Weltkrieg können erneuert werden, um mit modernerer Ausrüstung zu arbeiten und die Wartung zu erleichtern."
+ tech_maintenance_company_c:0 "Wartungskompanie VII"
+ tech_maintenance_company_c_desc:0 "Die Erfahrungen mit der Planung für aktive Redundanz im Ersten Weltkrieg können erneuert werden, um mit modernerer Ausrüstung zu arbeiten und die Wartung zu erleichtern."
+#-<><><>
+ tech_field_hospital_a:0 "Feldlazarett V"
+ tech_field_hospital_a_desc:0 "Obwohl in der Feldmedizin viele Verbesserungen erzielt wurden, sind viele Fortschritte improvisiert, und uns fehlt eine etablierte Doktrin. Mit mehr Erfahrung können wir die Rolle dieser Einheiten klarer erklären und verbesserte Innovationen zum festen Bestandteil machen."
+ tech_field_hospital_b:0 "Feldlazarett VI"
+ tech_field_hospital_b_desc:0 "Obwohl in der Feldmedizin viele Verbesserungen erzielt wurden, sind viele Fortschritte improvisiert, und uns fehlt eine etablierte Doktrin. Mit mehr Erfahrung können wir die Rolle dieser Einheiten klarer erklären und verbesserte Innovationen zum festen Bestandteil machen."
+ tech_field_hospital_c:0 "Feldlazarett VII"
+ tech_field_hospital_c_desc:0 "Obwohl in der Feldmedizin viele Verbesserungen erzielt wurden, sind viele Fortschritte improvisiert, und uns fehlt eine etablierte Doktrin. Mit mehr Erfahrung können wir die Rolle dieser Einheiten klarer erklären und verbesserte Innovationen zum festen Bestandteil machen."
+#-<><><>
+ tech_logistics_company_a:0 "Logistikkompanie V"
+ tech_logistics_company_a_desc:0 "Die Entwicklung standardisierter Klassifikationen für Lieferungen wird Missverständnisse reduzieren und die Planung effizienter machen."
+ tech_logistics_company_b:0 "Logistikkompanie VI"
+ tech_logistics_company_b_desc:0 "Die Entwicklung standardisierter Klassifikationen für Lieferungen wird Missverständnisse reduzieren und die Planung effizienter machen."
+ tech_logistics_company_c:0 "Logistikkompanie VII"
+ tech_logistics_company_c_desc:0 "Die Entwicklung standardisierter Klassifikationen für Lieferungen wird Missverständnisse reduzieren und die Planung effizienter machen."
+#-<><><>
+ tech_signal_company_a:0 "Fernmeldekompanie V"
+ tech_signal_company_a_desc:0 "Unter unseren Signalspezialisten befinden sich Personen mit beispiellosem Wissen aus erster Hand über den Feldeinsatz dieser Geräte. Indem wir sie in die Erforschung der neuen Kommunikationstechnologien einbeziehen, können wir uns ihr Fachwissen zunutze machen."
+ tech_signal_company_b:0 "Fernmeldekompanie VI"
+ tech_signal_company_b_desc:0 "Unter unseren Signalspezialisten befinden sich Personen mit beispiellosem Wissen aus erster Hand über den Feldeinsatz dieser Geräte. Indem wir sie in die Erforschung der neuen Kommunikationstechnologien einbeziehen, können wir uns ihr Fachwissen zunutze machen."
+ tech_signal_company_c:0 "Fernmeldekompanie VII"
+ tech_signal_company_c_desc:0 "Unter unseren Signalspezialisten befinden sich Personen mit beispiellosem Wissen aus erster Hand über den Feldeinsatz dieser Geräte. Indem wir sie in die Erforschung der neuen Kommunikationstechnologien einbeziehen, können wir uns ihr Fachwissen zunutze machen."
+#-<><><>
+
+###------> Etat / Etax Folder Name  <><> <><> <><> <><> <><>
+ etat_folder:0 "E.I.A."
+ etat_folder_desc:0 "Erweiterte Industrie und Ausrüstung"
+ etax_folder:0 "S.F.A."
+ etax_folder_desc:0 "Sonderforschungsabteilung"
+
+
+ ETAX_TITLE_DOCTRINE_X:0 "Sonderforschungsabteilung"
+
+###------> New Doc   <><> <><> <><> <><> <><>
+
+ etax_doctrine:0 "Sonderforschungsabteilung"
+ etax_doctrine_desc:0 "Wir müssen eine Abteilung einrichten, die unsere Forschungsanstrengungen bündelt und es uns ermöglicht, unser Militär und unsere Industrie so zu bündeln, dass die Nation davon profitiert."
+
+ etax_army_focus:0 "Schwerpunkt Armee"
+ etax_army_focus_desc:0 "Die Fähigkeiten unserer Landstreitkräfte sind von größter Bedeutung und werden Vorrang vor den anderen operativen Zweigen haben."
+ etax_navy_focus:0 "Schwerpunkt Marine"
+ etax_navy_focus_desc:0 "Ohne eine fähige Marine wird eine Nation sterben. Deshalb müssen wir alle Anstrengungen unternehmen, um diesen Zweig unseres Militärs auszubauen und zu stärken."
+ etax_air_focus:0 "Schwerpunkt Luftwaffe"
+ etax_air_focus_desc:0 "Der Himmel ist die Zukunft, und deshalb ist es angebracht, dass wir uns der Aufgabe widmen, unsere Kraft zur stärksten der Welt zu machen."
+
+ etax_army_firepower:0 "Feuerkraft der Kleinwaffen"
+ etax_army_firepower_desc:0 "Eine Betonung der Feuerkraft wird uns zum Sieg führen. Diese Konzentration hat zu mächtigen Kleinwaffen und zu allgemeinen Verbesserungen ihrer Wirksamkeit geführt."
+ etax_army_firepower_2:0 "Schwere Feuerkraft"
+ etax_army_firepower_2_desc:0 "Die spezielle Forschung, die wir durchgeführt haben, hat uns in die Lage versetzt, unsere großen Geschütze erheblich zu verstärken."
+ etax_army_defense:0 "Panzerarmee"
+ etax_army_defense_desc:0 "Unsere Armee kann Schläge einstecken, die jeden anderen töten würden. Damit können wir jeden Konflikt leicht überstehen."
+ etax_army_defense_2:0 "Ausgedehnte Befestigung"
+ etax_army_defense_2_desc:0 "Der Feind mag alles, was er hat, auf uns werfen, aber die schiere Tiefe unserer Verteidigung wird ihn bis auf die Knochen zermürben."
+
+ etax_navy_firepower:0 "Fokussierte Zielerfassung"
+ etax_navy_firepower_desc:0 "Unsere Schiffe können mit einiger Anstrengung fast jedes Ziel in Reichweite treffen. Die Auswirkungen auf die Effektivität und Moral des Feindes werden verheerend sein."
+ etax_navy_firepower_2:0 "Schlagkraft"
+ etax_navy_firepower_2_desc:0 "Unsere Marine weiß, wie sie ihre Feuerkraft einzusetzen und zu bündeln hat, und kann selbst den selbstbewusstesten Gegner vernichten."
+ etax_navy_defense:0 "Dicke Schiffsrümpfe"
+ etax_navy_defense_desc:0 "Angesichts der Zunahme der Wirksamkeit feindlicher Waffen und Luftangriffe ist es nur angemessen, dass wir unsere Marine modifizieren, um dieser Bedrohung entgegenzuwirken."
+ etax_navy_defense_2:0 "Regionale Verteidigung"
+ etax_navy_defense_2_desc:0 "Zu jeder Zeit zu wissen, wo sich der Feind befindet, ist die wertvollste Art von Waffe, die man sich vorstellen kann."
+
+ etax_air_firepower:0 "Luftherrschaft"
+ etax_air_firepower_desc:0 "Nur wenige können die Lüfte, an denen unsere Flugzeuge operieren, bestreiten und die Geschwindigkeit, mit der sie den Feind abfangen können, ist unübertroffen."
+ etax_air_firepower_2:0 "Bombenoffensive"
+ etax_air_firepower_2_desc:0 "Unsere Bomber können alles verwüsten, was ihnen in die Quere kommt und nichts als Zerstörung hinterlassen."
+ etax_air_defense:0 "Mehrstufige Verteidigungszonen"
+ etax_air_defense_desc:0 "Es wurden alle Anstrengungen unternommen, um unsere Verteidigung so zu koordinieren, dass kein Stück Land und kein Vogel in der Luft ohne irgendeine Form von Schutz bleibt."
+ etax_air_defense_2:0 "Wendiger Flugzeugbau"
+ etax_air_defense_2_desc:0 "Manchmal ist Schnelligkeit wertvoller als jede Panzerung, und in einem Luftkampf erweist sie sich als der tödlichste Teil der Rechnung."
+
+ etax_the_means:0 "Die Mittel"
+ etax_the_means_desc:0 "Bei unserem Vorankommen dürfen wir nicht vergessen, dass wir unseren Prinzipien treu bleiben sollten. Wenn unsere Soldaten stolz auf unsere Sache sein können, werden sie in der Lage sein, alle Schwierigkeiten zu überstehen."
+ etax_the_ends:0 "Die Endungen"
+ etax_the_ends_desc:0 "Unser Vorteil liegt in unserer Fähigkeit, das zu tun, was andere nicht wagen. Wenn wir uns über die Grenze hinausbewegen, dann werden die uns zur Verfügung stehenden Werkzeuge grenzenlos."
+
+ etax_business_interests:0 "Geschäftsinteressen"
+ etax_business_interests_desc:0 "Durch die Entwicklung unseres Privatsektors können wir die Zahl der Fabriken, die Güter produzieren können, erhöhen."
+ etax_cost_plus:0 "Kosten-Plus"
+ etax_cost_plus_desc:0 "Solange das Geld weiterhin durch dick und dünn fließt, werden unsere Unternehmen weiterhin liefern."
+ etax_production_in_depth:0 "Versorgungskette"
+ etax_production_in_depth_desc:0 "Wir können aus einer Vielzahl von Quellen schöpfen, um unsere Güter und Ausrüstungen zu bauen, und die schiere Tiefe dieser Quellen ist so groß, dass der Feind nicht damit rechnen kann, uns abzuschneiden."
+
+ etax_unity:0 "Allgemeine Ursache"
+ etax_unity_desc:0 "Jeder kämpft für den gleichen gerechten Zweck und das hält unsere Kräfte länger und härter am Leben als jeder erwarten würde."
+ etax_broad_support:0 "Integrierte Bevölkerung"
+ etax_broad_support_desc:0 "Wir können aus allen Teilen unserer Gesellschaft schöpfen, und absolut niemand wird ausgespart. Wenn man einen Puls hat, kann man kämpfen."
+ etax_inclusive_science:0 "Wissenschaftliche Gemeinde"
+ etax_inclusive_science_desc:0 "Unsere Wissenschaftler kommen aus den unterschiedlichsten Bereichen und wir lassen uns nicht durch Ideologie oder ungerechtfertigte Parteilichkeit daran hindern voranzukommen."
+
+ etax_desperation:0 "Aufopferung"
+ etax_desperation_desc:0 "Mit etwas Mühe können wir unsere Bevölkerung davon überzeugen, mit etwas weniger auszukommen, und dabei genauso hart kämpfen."
+ etax_no_qa:0 "Eilproduktion"
+ etax_no_qa_desc:0 "Die unmittelbaren Bedürfnisse der Frontlinie erfordern, dass wir hier und da ein paar Abstriche machen. Die Qualität mag zwar geringer sein, aber am Ende wird der schiere Großteil unserer Anstrengungen überwältigend sein."
+ etax_expendable_labor:0 "Verwendbare Arbeitskräfte"
+ etax_expendable_labor_desc:0 "Die Ziegel, die unsere Mauern säumen, wurden mit Blut bezahlt, und der Zement ist mit Knochen ausgekleidet. Niemand soll sagen, wir hätten nicht den für den Sieg notwendigen Preis bezahlt."
+
+ etax_glory:0 "Ruhm"
+ etax_glory_desc:0 "Es gibt nichts edleres und wahrhaftigeres als die Kunst des Kampfes. Ein Mensch wird erst dann wirklich auf die Probe gestellt, wenn er sich in die Schlacht stürzt und die Schmiede des Krieges sein Herz formen lässt."
+ etax_purity:0 "Selektive Ränge"
+ etax_purity_desc:0 "Wir haben aus unseren Streitkräften diejenigen aussortiert, die nicht diensttauglich sind, und nur die Stärksten und Entschlossensten bleiben übrig."
+ etax_great_leap:0 "Spitzenwissenschaft"
+ etax_great_leap_desc:0 "Während andere sich damit begnügen, mit ihren kleinen Anstrengungen zu schuften, scheuen wir uns nicht, ein Risiko einzugehen und auf die Technologien zu setzen, die unsere Welt weit in der Zukunft prägen werden."
+
+ etax_grand_projects:0 "Fachingenieurwesen"
+ etax_grand_projects_desc:0 "Mit etwas besserem Zement kann man den Feind nicht besiegen. Es erfordert Feuerkraft und den Tod von oben."
+ etax_practical_projects:0 "Praktisches Ingenieurwesen"
+ etax_practical_projects_desc:0 "Unsere Kräfte konzentrieren sich auf die Grundlagen und haben Wege gefunden, um die Grundlagen der Produktion in der Lieferkette nach oben und unten zu verbessern."
+
+ etax_moonshot:0 "Zukünftige Luftwaffe"
+ etax_moonshot_desc:0 "Unsere Konzentration auf die Vorherrschaft in der Luft hat zu einigen wirklich wunderbaren Fortschritten geführt. Damit ist unsere Beherrschung des Himmels absolut unumstritten."
+ etax_super_soldiers:0 "Supersoldaten"
+ etax_super_soldiers_desc:0 "Wir haben eine kleine Droge entwickelt, die es unseren Soldaten ermöglicht, sich weiter, schneller und länger zu bewegen als es die menschliche Verfassung normalerweise erlaubt."
+ etax_the_bomb:0 "Das Projekt"
+ etax_the_bomb_desc:0 "Unsere Wissenschaftler haben ihre ganze Kraft in eine absolut erschreckende und doch brillante Idee gesteckt. Am Ende brachte sie nicht das hervor was wir anstrebten, aber durch sie haben wir es geschafft jeden Bereich der Forschung enorm voranzubringen."
+
+ etax_seashot:0 "Zukünftige Kriegsmarine"
+ etax_seashot_desc:0 "Unsere Schiffe sind erschreckend anzusehen und können mit Leichtigkeit alle feindlichen Streitkräfte bis auf die Stärksten vernichten."
+ etax_quality:0 "Qualitätsfertigung"
+ etax_quality_desc:0 "Wir haben alles getan, um die richtige Werkzeugausrüstung und strenge Tests sicherzustellen, die für eine langlebige Feldausrüstung erforderlich sind."
+ etax_great_works:0 "Große Werke"
+ etax_great_works_desc:0 "Es wurde Geld dafür aufgewendet, die Kapazität unserer Nation bis an ihre Grenzen und darüber hinaus zu steigern. Alles an unserer wirtschaftlichen und produktiven Institution ist darauf ausgerichtet, Ehrfurcht zu erwecken."
+
+###------> Jaeger   <><> <><> <><> <><> <><>
+ jaeger:0"Jäger-Infanterie"
+ jaeger_desc:0"Jäger sind Streitkräfte, die darauf spezialisiert sind, die Kälte und die Wildnis des borealen Waldes zu überleben. In der Regel sind diese Truppen in ihrem Territorium heimisch und brauchen länger für die Ausbildung.\n \n§G Dieser Einheitstyp zählt nicht zu den Spezialeinheiten§!"
+
+ jungletroop:0"Dschungel-Infanterie"
+ jungletroop_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und den Feind zu ihren eigenen Regeln herauszufordern.\n \n§G Dieser Einheitstyp zählt nicht zu den Spezialeinheiten§!"
+
+ desertinfantry:0"Wüsteninfanterie"
+ desertinfantry_desc:0"Die Kämpfe in den Wüstengebieten setzen die Truppen vielen Gefahren aus, die sich aber manchmal nicht vermeiden lassen. Indem wir unseren Soldaten eine spezielle Ausbildung für dieses Umfeld bieten, können wir diese Risiken minimieren.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten§!"
+
+ shocktroop:0"Stoßtruppen"
+ shocktroop_desc:0"Stoßtruppen können in feindliche Linien eindringen, um einen Durchbruch zu erreichen. Dies ist für jede Form von Tiefkampf fast unerlässlich und kann wesentlich dazu beitragen, die Verteidiger in Bedrängnis zu bringen."
+
+ flamethrower:0"Flammenwerfer-Unterstützung"
+ flamethrower_desc:0"Flammenwerfer können im Nahkampf eine große Hilfe sein. Es kann sehr kostspielig sein, Häuser und Befestigungen mit regulären Infanterieeinheiten zu räumen. Der Flammenwerfer wird bei solchen Aufgaben und im Nahkampf gegen weiche Einheiten im Allgemeinen eine große Hilfe sein."
+
+ jaegers:0"Jäger-Infanterie I"
+ jaegers_desc:0"Jaegers are forces that specialize in surviving the cold and the wilderness of the boreal forest. Usually these troops are native to their territory and take longer to train.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten§!"
+ jaegers2:0"Jäger-Infanterie II"
+ jaegers2_desc:0"Ist es kalt draußen, oder bin das nur ich?"
+ jaegers3:0"Jäger-Infanterie III"
+ jaegers3_desc:0"Ist es kalt draußen, oder bin das nur ich?"
+ jaegers4:0"Jäger-Infanterie IV"
+ jaegers4_desc:0"Ist es kalt draußen, oder bin das nur ich?"
+ jaegers5:0"Jäger-Infanterie V"
+ jaegers5_desc:0"Ist es kalt draußen, oder bin das nur ich?"
+ jaegers6:0"Jäger-Infanterie VI"
+ jaegers6_desc:0"Ist es kalt draußen, oder bin das nur ich?"
+
+ jungletroops:0"Dschungel-Infanterie I"
+ jungletroops_desc:0"Jäger sind Streitkräfte, die darauf spezialisiert sind, die Kälte und die Wildnis des borealen Waldes zu überleben. In der Regel sind diese Truppen in ihrem Territorium heimisch und brauchen länger für die Ausbildung.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten§!"
+ jungletroops2:0"Dschungel-Infanterie II"
+ jungletroops2_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden."
+ jungletroops3:0"Dschungel-Infanterie III"
+ jungletroops3_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden."
+ jungletroops4:0"Dschungel-Infanterie IV"
+ jungletroops4_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden."
+ jungletroops5:0"Dschungel-Infanterie V"
+ jungletroops5_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden."
+ jungletroops6:0"Dschungel-Infanterie VI"
+ jungletroops6_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden."
+
+ shocktroops:0"Stoßtruppen I"
+ shocktroops_desc:0"Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Feindes schwer anzugreifen, um an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben im Vergleich zur regulären Infanterie einen höheren Durchbruch und härteren Angriff. Allerdings haben Stoßtruppen auch einen höheren Materialverbrauch und eine erhöhte Erholungszeit."
+ shocktroops2:0"Stoßtruppen II"
+ shocktroops2_desc:0"Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Feindes schwer anzugreifen, um an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben im Vergleich zur regulären Infanterie einen höheren Durchbruch und härteren Angriff. Allerdings haben Stoßtruppen auch einen höheren Materialverbrauch und eine erhöhte Erholungszeit."
+ shocktroops3:0"Stoßtruppen III"
+ shocktroops3_desc:0"Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Feindes schwer anzugreifen, um an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben im Vergleich zur regulären Infanterie einen höheren Durchbruch und härteren Angriff. Allerdings haben Stoßtruppen auch einen höheren Materialverbrauch und eine erhöhte Erholungszeit."
+ shocktroops4:0"Stoßtruppen IV"
+ shocktroops4_desc:0"Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Feindes schwer anzugreifen, um an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben im Vergleich zur regulären Infanterie einen höheren Durchbruch und härteren Angriff. Allerdings haben Stoßtruppen auch einen höheren Materialverbrauch und eine erhöhte Erholungszeit."
+ shocktroops5:0"Stoßtruppen V"
+ shocktroops5_desc:0"Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Feindes schwer anzugreifen, um an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben im Vergleich zur regulären Infanterie einen höheren Durchbruch und härteren Angriff. Allerdings haben Stoßtruppen auch einen höheren Materialverbrauch und eine erhöhte Erholungszeit."
+ shocktroops6:0"Stoßtruppen VI"
+ shocktroops6_desc:0"Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Feindes schwer anzugreifen, um an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben im Vergleich zur regulären Infanterie einen höheren Durchbruch und härteren Angriff. Allerdings haben Stoßtruppen auch einen höheren Materialverbrauch und eine erhöhte Erholungszeit."
+
+ desertinfantry_at:0"Wüsteninfanterie I"
+ desertinfantry_at_desc:0"Die Kämpfe in den Wüstengebieten setzen die Truppen vielen Gefahren aus, die sich aber manchmal nicht vermeiden lassen. Indem wir unseren Soldaten eine spezielle Ausbildung für dieses Umfeld bieten, können wir diese Risiken minimieren.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten§!"
+ desertinfantry_at2:0"Wüsteninfanterie II"
+ desertinfantry_at2_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen."
+ desertinfantry_at3:0"Wüsteninfanterie III"
+ desertinfantry_at3_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen."
+ desertinfantry_at4:0"Wüsteninfanterie IV"
+ desertinfantry_at4_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen."
+ desertinfantry_at5:0"Wüsteninfanterie V"
+ desertinfantry_at5_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen."
+ desertinfantry_at6:0"Wüsteninfanterie VI"
+ desertinfantry_at6_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen."
+
+
+ tech_flamethrower:0"Flammenwerfer I"
+ tech_flamethrower_desc:0"Flammenwerfer sind im Nahkampf sehr nützlich und können sehr effektiv in der städtischen Kriegsführung und gegen feste Befestigungen eingesetzt werden. Sie fügen Ihren Divisionen auch einen beträchtlichen weichen Angriff hinzu."
+ tech_flamethrower2:0"Flammenwerfer II"
+ tech_flamethrower2_desc:0"Flammenwerfer sind im Nahkampf sehr nützlich und können sehr effektiv in der städtischen Kriegsführung und gegen feste Befestigungen eingesetzt werden. Sie fügen Ihren Divisionen auch einen beträchtlichen weichen Angriff hinzu."
+ tech_flamethrower3:0"Flammenwerfer III"
+ tech_flamethrower3_desc:0"Flammenwerfer sind im Nahkampf sehr nützlich und können sehr effektiv in der städtischen Kriegsführung und gegen feste Befestigungen eingesetzt werden. Sie fügen Ihren Divisionen auch einen beträchtlichen weichen Angriff hinzu."
+ tech_flamethrower4:0"Flammenwerfer IV"
+ tech_flamethrower4_desc:0"Flammenwerfer sind im Nahkampf sehr nützlich und können sehr effektiv in der städtischen Kriegsführung und gegen feste Befestigungen eingesetzt werden. Sie fügen Ihren Divisionen auch einen beträchtlichen weichen Angriff hinzu."
+
+###------> Improved Equipment   <><> <><> <><> <><> <><>
+ ETAT_TITLE_STEEL_PRODUCTION:0 "Ressourcenproduktion."
+ ETAT_TITLE_CLOTHING:0 "Bekleidung"
+ ETAT_TITLE_SPECIALIST_EQUIPMENT:0 "Spezialisierte Ausrüstung"
+ ETAT_TITLE_MODIFIWAFIONS:0 "Modifikationen"
+
+ fabric:0 "Stoff"
+ fabric_desc:0 "Für Kleidung verwendete Stoffe"
+ PRODUCTION_MATERIALS_FABRIC:0 "Stoff"
+ PRODUCTION_MATERIALS_FABRIC_desc:0 "Für Kleidung verwendete Stoffe"
+
+ plate_skirt:0 "Panzerschürzen"
+ plate_skirt_desc:0 "Die Anbringung von Panzerschürzen wird unseren Panzern und Halbkettenfahrzeugen einen gewissen Schutz gegen die neuen Panzerabwehrhandwaffe bieten, unsere Einheiten aber zusätzlich belasten."
+ bed_spring_skirt:0 "Käfigpanzerung"
+ bed_spring_skirt_desc:0 "Indem wir die Metallplatten durch eine Drahtgitterpanzerung ersetzen, werden wir die Panzerung verbessern und das zusätzliche Gewicht der früheren Aufrüstung entfernen."
+ plate_skirt_desc:0 "Die Anbringung von Panzerschürzen wird unseren Panzern und Halbkettenfahrzeugen einen gewissen Schutz gegen die neuen Panzerabwehrhandwaffe bieten, unsere Einheiten aber zusätzlich belasten."
+ bed_spring_skirt_2:0 "Verbesserte Panzerschürzen"
+ bed_spring_skirt_2_short:0 "Ver. Panzerschürzen"
+ bed_spring_skirt_2_desc:0 "Indem wir die Metallplatten durch noch leichtere Materialien ersetzen, werden wir die Panzerung verbessern und das zusätzliche Gewicht der früheren Nachrüstung beseitigen."
+ bed_spring_skirt_3:0 "Halbmoderne Panzerschürzen"
+ bed_spring_skirt_3_short:0 "SM. Armour Skirts"
+ bed_spring_skirt_3_desc:0 "Indem wir die Metallplatten durch noch leichtere Materialien ersetzen, werden wir die Panzerung verbessern und das zusätzliche Gewicht der früheren Nachrüstung beseitigen."
+ bed_spring_skirt_4:0 "Moderne Panzerschürzen"
+ bed_spring_skirt_4_short:0 "Mod. Panzerschürzen"
+ bed_spring_skirt_4_desc:0 "Indem wir die Metallplatten durch noch leichtere Materialien ersetzen, werden wir die Panzerung verbessern und das zusätzliche Gewicht der früheren Nachrüstung beseitigen."
+
+ sniper_rifle:0 "Scharfschützenteam"
+ sniper_rifle_desc:0 "Die Hinzufügung einer Scharfschützeneinheit in jedem Zug wird die Aufklärungs- und Angriffsfähigkeit der Einheit effektiv erhöhen."
+ sniper_rifle_2:0 "Verbesserte Scharfschützenteam"
+ sniper_rifle_2_desc:0 "Wir haben die Gewehre und die Ausbildung, die unseren Scharfschützenteams zur Verfügung stehen, verbessert, wodurch ihre Wirksamkeit erheblich gesteigert werden konnte."
+ sniper_rifle_3:0 "Halbmoderne Scharfschützenteam"
+ sniper_rifle_3_desc:0 "Die umfangreichen Erfahrungen und Rückmeldungen unserer Scharfschützenteams haben es uns ermöglicht, noch bessere Ausrüstung herzustellen."
+ sniper_rifle_4:0 "Moderne Scharfschützenteam"
+ sniper_rifle_4_desc:0 "Unsere Teams verfügen über die allerbeste Ausrüstung und setzen nicht weniger als die modernste Ausrüstung ein."
+
+ flamethrower:0 "Flammenwerfer"
+ flamethrower_desc:0 "Die Entwicklung von Flammenwerfern wird es unseren Truppen ermöglichen, in der städtischen Kriegsführung und gegen Festungen effektiver zu sein. Aber mit einem Tank voller Treibstoff auf dem Rücken und bereit zur Explosion zu sein, kann katastrophale Folgen haben."
+ flamethrower_squad:0 "Flammenwerfer-Trupp"
+ flamethrower_2:0 "Fortgeschrittene Flammenwerfer"
+ flamethrower_2_desc:0 "Fortschritte bei der Panzerung und Gewichtsreduzierung haben die Sicherheit und Wirksamkeit unserer Flammenwerferteams verbessert."
+ flamethrower_3:0 "Halbmoderne Flammenwerfer"
+ flamethrower_3_desc:0 "Unsere Teams sind sehr erfahren und haben uns ein umfassendes Feedback über die Art der Ausrüstung gegeben, die sie benötigen. Wir haben diese Vorschläge in unsere Produktionslinien integriert, was zu einer Verbesserung der Kampfeffizienz geführt hat."
+
+ ARMOUR_TITLE_CAMO:0 "FARBE"
+ painting:0 "Flache Oberfläche" #new
+ painting_desc:0 "Flache Farbe aus der Fabrik." #new
+ painting2:0 "Fabriktarnung" #new
+ painting2_desc:0 "Neue Tarnung für unsere Panzer. Diese neue Farbe wird direkt in der Fabrik aufgetragen und ermöglicht eine bessere Verteidigung und Infiltration aus dem Hinterhalt." #new
+ painting3:0 "Schlachtfeldtarn" #new
+ painting3_desc:0 "Neue Tarnung für unsere Panzer. Wenn wir unserer Armee gestatten, die Fabriktarnung mit ihrem eigenen Design zu modifizieren, wird die Verteidigung und Infiltration von Panzerangriffen aus dem Hinterhalt verbessert." #new
+ painting4:0 "Halbmoderne Tarnung" #new
+ painting4_desc:0 "Neue Tarnung für unsere Panzer. Wir haben die Anwendung von Fertiganstrichen im Feld erleichtert und die Haltbarkeit des ersten Fabrikanstrichs erhöht."
+ painting5:0 "Modernes Tarnmuster" #new
+ painting5_desc:0 "Neue Tarnung für unsere Panzer. Die Einsatzmöglichkeiten sind flexibel und robust und können fast allem standhalten, was der Feind auf sie wirft."
+
+ INFANTRY_TITLE_CLOTHING:0 "KLEIDUNG"
+ camo:0 "Grundlegende Uniformen"
+ camo_desc:0 "Uniformen in Vollfarbe nach dem Vorbild der Uniformen des Ersten Weltkriegs."
+ camo1942:0 "Fortgeschrittenes Tarnmuster"
+ camo1942_desc:0 "Neues Tarndesign, das es unseren Truppen ermöglicht, bei Hinterhalten oder Infiltrationen weniger auffindbar zu sein."
+ camo1948:0 "Halbmodernes Tarnmuster"
+ camo1948_desc:0 "Neues Tarndesign, das leichter und auch noch raffinierter ist und Hinterhalte und Infiltrationen ermöglicht."
+ camo1955:0 "Modernes Tarnmuster"
+ camo1955_desc:0 "Jetzt sehen Sie es, jetzt nicht mehr."
+ winter_clothes_gw:0 "Winterbekleidung"
+ winter_clothes_gw_desc:0 "Winterkleidung aus Wolle. Nicht wirklich effektiv, aber besser als nichts."
+ winter_clothes_1939:0 "Verbesserte Winterbekleidung"
+ winter_clothes_1939_desc:0 "Anständigere Winterkleidung. Aus warmer, mit Watte gepolsterter Jacke."
+ winter_clothes_1941:0 "Fortgeschrittene Winterbekleidung"
+ winter_clothes_1941_desc:0 "Hochentwickelte Winterkleidung aus natürlicher, warmer Wolle und synthetischem Pelz, die mit früh wasserabweisendem Material beschichtet und weiß gefärbt ist."
+ winter_clothes_1944:0 "Moderne Winterbekleidung"
+ winter_clothes_1944_desc:0 "Moderne, wendbare Winterkleidung aus warmem Synthetikgewebe, die mit einer herausnehmbaren, wasserabweisenden Windstopper-Jacke beschichtet ist. In weiß, schwarz und braun lackiert, um im Kampf effektiver zu sein. Sie wird unsere Soldaten entlasten und sie warm und trocken halten."
+ jngdst_clothes_gw:0 "Wüsten- und Dschungelkleidung" #new
+ jngdst_clothes_gw_desc:0 "Wüsten- und Dschungelkleidung aus Baumwolle. Nicht wirklich effektiv, aber besser als nichts." #new
+ jngdst_clothes_1939:0 "Verbesserte Wüsten- und Dschungelkleidung" #new
+ jngdst_clothes_1939_desc:0 "Verbesserte Wüsten- & Dschungelkleidung. Hergestellt aus dünner Baumwolle. Es wurden Schutzbrillen hinzugefügt, um Soldaten zu helfen, die in sandiger Umgebung kämpfen." #new
+ jngdst_clothes_1941:0 "Fortgeschrittene Wüsten- und Dschungelkleidung" #new
+ jngdst_clothes_1941_desc:0 "Hochentwickelte Wüsten- und Dschungelkleidung aus natürlicher, dünner Baumwolle, die mit einer speziellen Beschichtung versehen ist und schneller trocknet, um Soldaten bei Kämpfen in heißer/nasser Umgebung zu unterstützen." #new
+ jngdst_clothes_1944:0 "Moderne Wüsten- und Dschungelkleidung" #new
+ jngdst_clothes_1944_desc:0 "Moderne Wüsten- und Dschungelkleidung aus besonders leichtem Spezialgewebe und beschichtet mit hitzeabweisender Beschichtung. In hellbraun, schwarz und braun gefärbt, um im Kampf effektiver zu sein. Sie wird unsere Soldaten entlasten und sie trocken und sauber halten." #new
+
+ AIR_TITLE_DROPTANK:0 "Abwurftank"
+ droptank40:0 "Abwurftank I"
+ droptank40_desc:0 "Das Hinzufügen von externen Tanks für unsere Flugzeuge wird ihre Reichweite erhöhen."
+ droptank44:0 "Abwurftank II"
+ droptank44_desc:0 "Größerer und leichterer externer Tank."
+ droptank45:0 "Abwurftank III"
+ droptank45_desc:0 "Aktuellster Abwurftank. Er wird die Reichweite des Flugzeugs verbessern, benötigt aber einen Strahlreaktor, um sein Gewicht auszugleichen."
+ droptank55:0 "Abwurftank IV"
+ droptank55_desc:0 "Unsere Tanks sind jetzt leichter und können eine noch größere Menge an Kraftstoff aufnehmen."
+
+ ###------> Misc.   <><> <><> <><> <><> <><>
+
+ r56_tooltip_SRD_unlock:0 "Schaltet die Sonderforschungsabteilung frei"
+
+ elite_forces_02:0 "Elitetruppen II"
+ elite_forces_02_desc:0 "Nur die Besten der Besten werden zu Spezialeinheiten. Die Soldaten, die es durch die Ausbildung schaffen, werden stärker und schneller sein und härter kämpfen als alle anderen."
+ elite_forces_03:0 "Elitetruppen III"
+ elite_forces_03_desc:0 "Nur die Besten der Besten werden zu Spezialeinheiten. Die Soldaten, die es durch die Ausbildung schaffen, werden stärker und schneller sein und härter kämpfen als alle anderen."
+
+TITLE_EXP_ROCKETS_SUBTITLE:0 "Raketentechnik"
+
+icbm_missile_equipment_1:0 "Nukleare ICBM"
+icbm_missile_equipment_1_desc:0 ""
+
+nukes_3:0 "Taktische Kernwaffen"
+nukes_3_desc:0 ""
+nuke_rocket_engines:0 "Nukleare ICBM"
+nuke_rocket_engines_desc: ""
+
+modern_AA_01:0 "Modern Luftabwehrsystems"
+modern_AA_01_desc:0 ""
+modern_AA_02:0 "Modern Luftabwehrsystems II"
+modern_AA_02_desc:0 ""
+modern_AA_03:0 "Modern Luftabwehrsystems III"
+modern_AA_03_desc:0 ""
+
+modern_fc_radar_01:0 "Modernes FC Radar"
+modern_fc_radar_01_desc:0 ""
+modern_fc_radar_02:0 "Modernes FC Radar II"
+modern_fc_radar_02_desc:0 ""
+
+modern_sonar_01:0 "Modernes Sonar"
+modern_sonar_01_desc:0 ""
+modern_sonar_02:0 "Modernes Sonar II"
+modern_sonar_02_desc:0 ""
+modern_sonar_03:0 "Modernes Sonar III"
+modern_sonar_03_desc:0 ""
+
+modern_torpedoes_01:0 "Moderne Torpedos"
+modern_torpedoes_01_desc:0 ""
+modern_torpedoes_02:0 "Moderne Torpedos II"
+modern_torpedoes_02_desc:0 ""
+modern_torpedoes_03:0 "Moderne Torpedos III"
+modern_torpedoes_03_desc:0 ""
+#####---------------------------------------------------------------------> End
