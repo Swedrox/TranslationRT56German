@@ -51,6 +51,10 @@
  undecided:0 "Undecided"
  army_connections:0 "Army Connections"
  nationalistic_tendencies:0 "Nationalistic Tendencies"
+ fierce_patriot:0 "Fierce Patriot"
+ liberal_grandee:0 "Liberal Grandee"
+ compromised_beliefs:0 "Compromised Beliefs"
+ all_business:0 "All Business"
  
 ##Australia
  aboriginal_journalist:0 "Aboriginal Journalist"
@@ -63,3 +67,7 @@
 
  wary_of_the_high_command:0 "Wary of the High Command"
  himmler_terrorizing_monomaniac:0 "Terrorizing Monomaniac"
+
+#Adviors 
+intervention_advocate:0 "Intervention Advocate"
+law_enforcement_militarizer_3:0 "Police Militarizer\n(Genius)"
