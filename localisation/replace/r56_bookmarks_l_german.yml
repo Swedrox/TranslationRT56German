@@ -4,7 +4,6 @@
  #Keep in mind countries that don't appear here might use their localization from the base game or country-specific files.
 
  ###---> Currently Used <><> <><> <><>
-
  GRE_GATHERING_STORM_DESC:0 "Für Griechenland endete der Erste Weltkrieg 1918 nicht. Der katastrophale Krieg mit der Türkei und die schrecklichen Auswirkungen des nationalen Spaltungskonflikts haben in der griechischen Nation viele Wunden hinterlassen. Die Weltwirtschaftskrise, Arbeitslosigkeit, soziale und politische Instabilität und der Aufstieg des Radikalismus haben das kleine Land Griechenland vor einen Scheideweg gebracht, an dem es über seine eigene Zukunft entscheiden, die vielen Probleme überwinden und nach vorne blicken kann, wie es das Erbe verlangt."
 
  HOL_GATHERING_STORM_DESC:0 "Die Niederlande befinden sich derzeit mitten in einer tiefen Krise. Das Land wurde etwas später als die meisten anderen Länder von der Großen Depression getroffen und leidet daher derzeit unter deren schlimmsten Folgen. Die Arbeitslosigkeit ist so hoch wie nie zuvor, und die Regierung hat bisher nicht reagiert und es vorgezogen, an einer Politik des ausgeglichenen Haushalts und des Vertrauens in den Goldstandard festzuhalten. Hoffentlich verschiebt sich die Wirtschaftsdoktrin der Regierung derzeit aufgrund des Drucks von der Straße. Erschwerend kommt hinzu, dass Deutschland aufrüstet und die Regierung weiß, dass es äußerst schwierig sein wird, diesmal neutral zu bleiben, wenn Europa erneut brennt."
@@ -13,7 +12,9 @@
 
  SIA_GATHERING_STORM_DESC:0 "1932 setzte ein Staatsstreich der absoluten Monarchie ein Ende, die erste Verfassung wurde verabschiedet und die Khana Ratsadon (Volkspartei) übernahm die Macht. Dennoch nahm die Armee in der politischen Arena eine immer wichtigere Rolle ein: Sie stürzte den Premierminister und ersetzte ihn durch Phraya Phahonphonphonphayuhasena. Da das von Plaek Phibunsongkhram verkörperte Schreckgespenst des Faschismus innerhalb des Militärs an Unterstützung zu gewinnen scheint, vertieft sich die Spaltung zwischen den Flügeln der Partei. Die vormaligen , die vormals Brüder waren, sind zu Rivalen geworden, und nur einer wird die Geschicke des Landes lenken dürfen."
 
- IRE_GATHERING_STORM_DESC:0 "Irland befindet sich seit vielen Jahren in einer schwierigen Situation. Nach der Erlangung der Unabhängigkeit von Großbritannien hat Irland in einem nicht zu enden wollenden Handelskrieg mit dem Vereinigten Königreich zu kämpfen und die Frage der Verfassung bleibt abzuwarten."
+ TUR_GATHERING_STORM_DESC:0 "Nachdem der Erste Weltkrieg den Untergang des Osmanischen Reiches bedeutete, sah die Zukunft der Türkei düster aus. Aber die Türkei hat sich wie ein Phönix aus den Flammen des türkischen Unabhängigkeitskrieges erhoben. Unter der Führung von Mustafa Kemal Atatürk und seiner kemalistischen Ideologie sieht die Türkei stark und sicher aus. Aber ihr Volk ist müde und braucht den Frieden. Es wird einer weiteren großen Veränderung bedürfen, um diesen schlafenden Löwen zu wecken."
+
+ LUX_GATHERING_STORM_DESC:0 "Das Großherzogtum Luxemburg ist ein Binnenstaat, der in den letzten Jahren viel durchgemacht hat. Immer wieder kam es zu Invasionen aus dem Ausland, und dennoch steht das kleine Land immer noch zwischen den Riesen. Angesichts des Sturms, der derzeit aufzieht... ist es für Luxemburg an der Zeit, sich vorzubereiten und eine feste Haltung einzunehmen."
 
  ###---> Currently Unused <><> <><> <><>
  BEL_GATHERING_STORM_DESC:0 "Belgien mag wie ein unbedeutendes Territorium zwischen Frankreich und Deutschland erscheinen, aber es ist ein dicht industrialisiertes Land, das wertvolle Ressourcen aus seiner Kolonie Kongo gewinnt. Das Land erholt sich gerade von der Weltwirtschaftskrise, Infrastrukturprojekte sind in vollem Gange, und die industrielle Produktion erholt sich langsam. Auf der politischen Bühne sucht eine grössere Zahl von Wählern in extremistischen Reden nach Lösungen. Léon Degrelle gewinnt von Tag zu Tag an Popularität und könnte die traditionellen Koalitionen der demokratischen Parteien bedrohen. Inzwischen sind auch die flämischen Nationalisten aktiv und verbreiten Zwietracht in den unteren Rängen des Militärs..."
@@ -32,6 +33,8 @@
 
  ICE_GATHERING_STORM_DESC:0 "Die dänisch-isländische Verbandsakte, ein am 1. Dezember 1918 unterzeichnetes und für 25 Jahre gültiges Abkommen mit Dänemark, erkannte Island als einen völlig souveränen und unabhängigen Staat in einer Personalunion mit Dänemark an. Die isländische Regierung richtete eine Botschaft in Kopenhagen ein und ersuchte Dänemark, in ihrem Namen bestimmte Verteidigungs- und auswärtige Angelegenheiten vorbehaltlich einer Konsultierung mit dem Althing durchzuführen."
 
+IRE_GATHERING_STORM_DESC:0 "Irland befindet sich seit vielen Jahren in einer schwierigen Situation. Nach der Erlangung der Unabhängigkeit von Großbritannien hat Irland in einem nicht enden wollenden Handelskrieg mit dem Vereinigten Königreich gekämpft und die Frage der Verfassung bleibt abzuwarten."
+
  LAT_GATHERING_STORM_DESC:0 "Lettland steht an einem wichtigen Scheideweg. In unserem Osten hat sich unser alter Herrscher, die Russen, in den Osten reformiert. Sowjetunion blickt hungrig in den Westen. Im Westen hat sich ein wiedererstarkendes Deutschland neu organisiert und scheint mehr denn je bereit zu sein, die baltischen Staaten zu vernichten. In den nächsten Jahren geht es für Lettland um Leben und Tod. Werden wir uns mit einem der beiden Giganten verbünden, oder werden wir einen neuen Weg einschlagen? Das kann nur die Zeit zeigen, aber die Zeit wird knapp."
 
  SWI_GATHERING_STORM_DESC:0 "Seit der Wiener Konferenz von 1815 über internationale Belange nach der Niederlage Napoleons ist die Schweizerische Eidgenossenschaft verpflichtet, bei Konflikten zwischen anderen Nationen neutral zu sein. Selbst nach dem Aufstieg der Faschisten in Deutschland, Italien und sogar in Österreich. Können sich die Schweizer weiter zu ihrer Neutralität bekennen? Oder werden sie sich in einem möglichen zukünftigen Konflikt für eine Seite entscheiden müssen...?"
@@ -48,4 +51,6 @@
  GATHERING_STORM_NAME:0 "Aufziehender Sturm (empfohlen)"
  BLITZKRIEG_NAME:0 "Die Hölle loslassen"
 
+ FE_HISTORICAL:0 "Historische KI-Prioritäten"
+ FE_HISTORICAL_TOOLTIP:0 "Die KI wird §YNationale Schwerpunkte§! in historischer Reihenfolge neben den historischen Auswahlmöglichkeiten in §YEreignissen§! und §YEntscheidungen§! auswählen. Wählen Sie dies, wenn Sie möchten, dass andere Länder ihren historischen Weg enger verfolgen."
  #####-----> End of File <><> <><> <><> <><> <><>
