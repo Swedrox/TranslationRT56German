@@ -1,0 +1,16 @@
+﻿l_german:
+ wtt_germany.641.t:0 "[GER.GetName] Wiedereingliederung von Eupen-Malmedy"
+ wtt_germany.63.desc:0 "Die Regierung [GER.GetAdjective] hat ein Gesetz erlassen, das die Wiedereingliederung von Elsass-Lothringen, Luxemburg und Eupen-Malmedy in [GER.GetName] vorsieht. Die massenhafte Einberufung unserer Bevölkerung hat bereits begonnen..."
+
+ wtt_germany.80.t:0 "[GER.GetName] Forderungen auf Südjütland"
+ wtt_germany.80.desc:0 "Die Regierung [GER.GetAdjective] hat uns ein Ultimatum gestellt und die Rückgabe von Südjütland an sie gefordert. Dieses Land ging in den 1860er Jahren an Deutschland verloren und wurde mit dem Versailler Vertrag zurückgegeben. In diesem Land leben viele Dänen, die sich über die Rückgabe nicht freuen werden".
+ wtt_germany.80.a:0 "Um unsere Nation zu schützen, müssen wir uns fügen."
+ wtt_germany.80.b:0 "Wir werden unseren überragenden Grund und Boden nicht aufgeben."
+
+ wtt_germany.81.t:0 "[FROM.GetName] Rückkehr von Nordschleswig"
+ wtt_germany.81.d:0 "Die [FROM.GetAdjective]-Regierung hat sich bereit erklärt, Nordschleswig an uns zurückzugeben. Heute Morgen haben sich die letzten dänischen Garnisonen und Beamten eilig aus dem Land zurückgezogen, gefolgt von einem Strom von Flüchtlingen, die versuchen, die neue Grenze zu überqueren, bevor sie fest wird."
+ wtt_germany.81.a:0 "Endlich ist unsere Nordgrenze wiederhergestellt.!"
+
+ wtt_germany.82.t:0 "[FROM.GetName] Zurückweisungen unseres Ultimatums"
+ wtt_germany.82.d:0 "Die [FROM.GetAdjective]-Regierung hat klargestellt, dass sie Nordschleswig nicht an uns zurückgeben wird und jede Handlung für uns es zurückzugewinnen  wäre ein kriegerischer Akt."
+ wtt_germany.82.a:0 "Dann herrscht Krieg."

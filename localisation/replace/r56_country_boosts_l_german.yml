@@ -119,6 +119,7 @@ l_german:
  custom_diff_strong_kaz:0 "@KAZ Stärke Kasachstan"
  custom_diff_strong_ken:0 "@KEN Stärke Kenia"
  custom_diff_strong_kor:0 "@KOR Stärke Korea"
+ custom_diff_strong_ksv:0 "@KSV Stärke Kosovo"
  custom_diff_strong_kur:0 "@KUR Stärke Kurdistan"
 
  ###---> Minors: L <><> <><> <><>
@@ -180,6 +181,7 @@ l_german:
  custom_diff_strong_sad:0 "@SAD Stärke Sardinien"
  custom_diff_strong_sau:0 "@SAU Stärke Saudi Arabien"
  custom_diff_strong_sam:0 "@SAM Stärke Samoa"
+ custom_diff_strong_sad:0 "@SAX Starke Sardinien"
  custom_diff_strong_sad:0 "@SAX Stärke Sachsen"
  custom_diff_strong_smi:0 "@SMI Stärke Sapmi"
  custom_diff_strong_sco:0 "@SCO Stärke Scotland"

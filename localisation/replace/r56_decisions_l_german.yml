@@ -3,6 +3,9 @@
  the_return_of_the_old_guard_category:0 "Die Rückkehr der alten Garde"
  hold_the_neutrality_national_referendum:0 "Reaktionäre Regierung bilden"
 
+ r56_alone_faction_leader:0 "Verbündete finden"
+ r56_alone_faction_leader_desc:0 "Ein Scheitern bei der Suche nach Verbündeten würde unsere diplomatische Position ad absurdum führen und uns zwingen, uns für neue diplomatische Möglichkeiten zu öffnen."
+
  ENG_restore_the_UK:0 "Großbritannien wiedervereinigen"
  ENG_restore_the_UK_desc:0 "Wir müssen die Teilung beenden, die verräterischen Waliser und Schotten vernichten und die britische Einheit wiederherstellen"
  unite_britain:0 "Wiederherstellung der britischen Einheit"
@@ -99,3 +102,18 @@
  democratic_political_violence:0 "Politische Gewalt anstiften"
  communist_political_violence:0 "Politische Gewalt anstiften"
  fascism_political_violence:0 "Politische Gewalt anstiften"
+
+ try_to_recruit_lithuanian_officers:0 "Versuchen Sie litauische Offiziere zu rekrutieren"
+ try_to_recruit_estonian_officers:0 "Versuchen sie estnische Offiziere zu rekrutieren"
+ try_to_recruit_latvian_officers:0 "Versuchen sie lettische Offiziere zu rekrutieren"
+
+
+ try_to_recruit_norwegian_officers:0 "Versuchen sie norwegische Offiziere zu rekrutieren"
+ try_to_recruit_finnish_officers:0 "Versuchen sie finnische Offiziere zu rekrutieren"
+ try_to_recruit_swedish_officers:0 "Versuchen sie schwedische Offiziere zu rekrutieren"
+ try_to_recruit_danish_officers:0 "Versuchen sie dänische Offiziere zu rekrutieren"
+
+ try_to_recruit_mongol_officers:0 "Versuchen sie mongolische Offiziere zu rekrutieren"
+ try_to_recruit_mengjiang_officers:0 "Versuchen Sie, Offiziere aus Mengjiang zu rekrutieren"
+
+ r56_declare_independence:0 "Unabhängigkeit erklären"
