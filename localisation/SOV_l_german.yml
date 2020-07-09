@@ -1,0 +1,259 @@
+﻿l_german:
+
+ SOV_anti_bolshevik_revolt:0 "Anti-bolschewistischer Aufstand"
+ SOV_put_down_the_ukrainian_revolt:0 "Den ukrainischen Aufstand niederschlagen"
+
+ soviet_focus:0 "Sowjetischer Nationalfokus"
+ SOV_Lenin_Cult:0 "Lenin-Kult"
+ SOV_Lenin_Cult_desc:0 "Wir müssen die Hingabe an die Religion durch die Hingabe an den Staat ersetzen."
+ SOV_New_Soviet_Woman:0 "Neue Sowjetfrau"
+ SOV_New_Soviet_Woman_desc:0 "Wir haben enorme Fortschritte auf dem Weg zur Gleichstellung der Geschlechter in unserer Gesellschaft gemacht. Lassen Sie uns diesen Weg fortsetzen und die Frauen auffordern, auch im Kampf zu dienen. Wir können sie für Unterstützungsaufgaben an vorderster Front und in einigen begrenzten Kampfstellungen einsetzen, um gesunde Männer zum Kämpfen freizusetzen. Nur mit wahrer Gleichberechtigung und echter Hingabe an die Sache können wir der Aggression fremder Mächte widerstehen."
+
+ SOV_Trotskyite_Coup:0 "Trotzkistischer Putsch"
+ SOV_Trotskyite_Coup_desc:0 ""
+ SOV_Organize_Labor:0 "Arbeit organisieren"
+ SOV_Organize_Labor_desc:0 ""
+ trotsky_check:0 "Bereits rebelliert"
+
+ SOV_tank_improvements_idea:0 "Panzer-Verbesserungen"
+ SOV_mass_tank_procution_idea:0 "Panzer-Massenproduktion"
+
+ SOV_Integrate_Labor_Into_The_Military:0 "Arbeiter in das Militär integrieren"
+ SOV_Integrate_Labor_Into_The_Military_desc:0 "Jeder dient. Einige benutzen Gewehre, andere benutzen Hämmer. Die Arbeiter müssen lernen, beides zu benutzen."
+ SOV_A_Gun_In_Every_Hand:0 "In jeder Hand eine Gewehr"
+ SOV_A_Gun_In_Every_Hand_desc:0 "Die Kraft kommt aus dem Lauf eines Gewehrs. Wir müssen dafür sorgen, dass wir genügend Waffen für die Befreiung des Proletariats der Welt vorrätig haben."
+ SOV_New_Infantry_Equipment:0 "Neue Infanterieausrüstung"
+ SOV_New_Infantry_Equipment_desc:0 "Mit modernisierter Ausrüstung werden unsere ruhmreichen Soldaten die Werkzeuge erhalten, die sie brauchen, um die Welt von kapitalistischer Unterdrückung zu befreien."
+ SOV_Red_Mountaineers:0 "Rote Gebirgsjäger"
+ SOV_Red_Mountaineers_desc:0 "Wir müssen mit einem Truppenausbildungsprogramm beginnen, um den Kampf in gebirgigem Gelände zu beherrschen. Diese Gebirgsjäger, die in den rauesten Umgebungen ausgebildet werden, werden unsere Befreiung von der Welt anführen."
+ SOV_Jungle_Training:0 "Dschungel-Ausbildung"
+ SOV_Jungle_Training_desc:0 "Wir müssen Methoden entwickeln und unsere Soldaten so ausbilden, dass sie in der Lage sind, in tropischer Umgebung Krieg zu führen. Das Proletariat in den Tropen ist befreiungsbedürftig, genauso wie diejenigen, die in England und Frankreich ausgebeutet werden."
+ SOV_Nationwide_Wargame:0 "Landesweite Kriegsspiele"
+ SOV_Nationwide_Wargame_desc:0 "Mit einem massiven Kriegsspiel, das sich über die gesamte Breite der UdSSR erstreckt, werden wir in der Lage sein, Erfahrungen zu sammeln, die notwendig sind, um in der heutigen Zeit effektiv Krieg zu führen."
+ SOV_Work_On_Logistics:0 "Unsere logistischen Fähigkeiten verbessern"
+ SOV_Work_On_Logistics_desc:0 "Soldaten müssen ständig mit Lebensmitteln und Munition versorgt werden, um auf dem Schlachtfeld effektiv zu sein. Wir müssen ein Elitekorps von Offizieren organisieren, um sicherzustellen, dass die Armee immer die benötigten Vorräte erhält. Alexander Wassiljewski ist ein immens kompetenter Befehlshaber, der über die notwendigen Fähigkeiten verfügt, um diese neue Elitekorps von Personal zusammenzustellen."
+ SOV_Military_Machine:0 "Militärische Maschine"
+ SOV_Military_Machine_desc:0 "Die sowjetische Militärmaschinerie wird weiterhin Waffen produzieren, bis zu dem Tag, an dem das gesamte Proletariat von der Unterdrückung befreit ist."
+ SOV_Develop_Resources:0 "Ressourcen erschließen"
+ SOV_Develop_Resources_desc:0 "Die Industrie braucht Erze und andere Ressourcen, um Waffen für das Militär herzustellen, wir müssen neue Minen eröffnen, um diesen Bedarf zu decken."
+ SOV_more_tech:0 "In Wissenschaft investieren"
+ SOV_more_tech_desc:0 "Wir müssen weiterhin an die Grenzen des menschlichen Wissens gehen. Mit der Wissenschaft können wir eine bessere Gesellschaft für die Menschen schaffen."
+ SOV_The_Working_Man:0 "Der Arbeiter"
+ SOV_The_Working_Man_desc:0 "Der arbeitende Mensch ist der Inbegriff der trotzkistischen Revolution. Wenn er seinen Platz in der glorreichen Revolution nicht kennt, werden unsere Hoffnungen und Träume zu einem unglücklichen Ende kommen."
+ SOV_Restrict_Political_Expression:0 "Politische Meinungsäußerung einschränken"
+ SOV_Restrict_Political_Expression_desc:0 "Während die Redefreiheit und andere politische Freiheiten große Annehmlichkeiten sind, erfordern moderne Zeiten andere Maßnahmen. Diejenigen, die zur Rebellion ermutigen und Dissens erzeugen, müssen zur Strecke gebracht und aus der Bevölkerung entfernt werden."
+ SOV_One_Dream_One_China:0 "Ein Traum, ein China"
+ SOV_One_Dream_One_China_desc:0 "Wir werden der wahren chinesischen Regierung helfen, die Bauern von verschiedenen Kriegsherren zu befreien, die in den letzten Jahren an die Macht gekommen sind. Der oberste Kriegsherr, Chiang Kai Shek, wird ein harter Gegner sein, wenn er an die Macht kommt, deshalb werden wir bei diesem Unterfangen militärische Unterstützung leisten."
+ SOV_Return_Of_Japanese_Occupied_China:0 "Rückkehr des japanisch besetzten China verhandeln"
+ SOV_Return_Of_Japanese_Occupied_China_desc:0 "Wir werden den Streit zwischen Japanern und Chinesen schlichten und eine gerechte Lösung des Konflikts zwischen beiden Parteien herbeiführen. Wir werden den Ausgang des Verfahrens garantieren und für einen reibungslosen Ablauf sorgen. Genosse Trotzki lässt sich nicht zum Narren halten."
+ SOV_Indian_Communism:0 "Indischer Kommunismus"
+ SOV_Indian_Communism_desc:0 "Wir werden die Verbreitung kommunistischer Ideen unter den indischen Bauern fördern, um ihnen zu helfen, sich von ihren dekadenten britischen Oberherren zu befreien."
+ SOV_Free_The_Peasants:0 "Die Bauern befreien"
+ SOV_Free_The_Peasants_desc:0 "Wir werden helfen, Indien zu industrialisieren und die Menschen aus den Farmen heraus und in neu gebaute Fabriken zu bringen."
+ SOV_Independence_For_India:0 "Unabhängigkeit für Indien"
+ SOV_Independence_For_India_desc:0 "Indien wird endlich Unabhängigkeit von dem abscheulichen imperialistischen Imperium Großbritannien erhalten."
+ SOV_World_Revolution:0 "Weltrevolution"
+ SOV_World_Revolution_desc:0 "Die Bauern und Arbeiter der Welt müssen von kapitalistischer und faschistischer Unterdrückung befreit werden. Doch wenn wir das tun wollen, müssen wir vorsichtig sein. Die Regierungen dieser Nationen werden es nicht zu schätzen wissen, wenn wir unsere Ideologie verbreiten und offene Rebellionen in ihren eigenen Hinterhöfen fördern."
+ SOV_Expansion_of_Communism:0 "Expansion des Kommunismus"
+ SOV_Expansion_of_Communism_desc:0 "Wir werden mehr Menschen ermutigen, das Licht des Kommunismus zu sehen, indem wir ihnen zeigen, welche Vorteile er bietet."
+ SOV_European_Sphere:0 "Die europäische Sphäre"
+ SOV_European_Sphere_desc:0 "Wenn mehr Menschen unsere kommunistische Ideologie akzeptieren, werden die Grenzen unserer Nation wachsen. Eines Tages werden wir weder Nationen noch Grenzen brauchen und unter einer zentralisierten Regierung leben. Die Zukunft der gesamten menschlichen Rasse steht auf dem Spiel."
+ SOV_Get_New_Communists_On_Board:0 "Neue Kommunisten an Bord holen"
+ SOV_Get_New_Communists_On_Board_desc:0 "Um angehende Kommunisten zu umwerben, müssen wir ihnen zeigen, dass der Kommunismus wirklich das beste System ist, um den arbeitenden Menschen ein qualitativ hochwertiges Leben zu sichern. Als solches werden wir beginnen, eine bedeutende Produktion für Konsumgüter und den allgemeinen Konsum zu produzieren."
+ SOV_Dawn_Of_A_Better_World:0 "Aufbruch in eine bessere Welt"
+ SOV_Dawn_Of_A_Better_World_desc:0 "Wir müssen danach streben, eine einzige, alle einschließende Menschheitsnation aufzubauen, die von einer einzigen kommunistischen Regierung zum Wohle aller regiert wird. Auch wenn dies noch in weiter Ferne liegt, müssen wir weiter auf dieses Ziel hinarbeiten, auch wenn dieser Traum so weit entfernt scheint wie eh und je."
+ SOV_Perpetual_Warfare:0 "Zustand der immerwährenden Kriegsführung"
+ SOV_Perpetual_Warfare_desc:0 "Wir werden so lange kämpfen, bis jeder letzte Tropfen Blut, jede Kugel, jede Bombe, jedes Stückchen Nahrung im Kampf für die Freiheit der gesamten Menschheit verbraucht ist."
+ SOV_The_Polish_Question:0 "Die polnische Frage"
+ SOV_The_Polish_Question_desc:0 "Die Polen haben uns immer gehasst, und es ist an der Zeit, ihrer Frechheit ein Ende zu setzen. Polen würde lieber die Welt zerstört sehen, bevor sie uns erlauben, das Proletariat zu befreien oder die Deutschen an der totalen europäischen Eroberung zu hindern."
+ SOV_3_Way_Parition_Of_Poland:0 "Teilung Polens"
+ SOV_3_Way_Parition_Of_Poland_desc:0 "Wir werden Polen mit den Nur mit einer stark ausgeweiteten Panzerproduktion können wir unsere Feinde besiegen. Auf den Westen! Für das Vaterland!Deutschen spalten, um das Unrecht von Versailles wiedergutzumachen. Den Tschechen wird auch ein Teil des Territoriums für humanitäre Zwecke zugewiesen, so dass Juden und Flüchtlinge sich entscheiden können, dorthin zu gehen, wenn sie es wünschen, denn wir tun schließlich nur, was richtig ist."
+ SOV_Stalin_Cult:0 "Stalinkult"
+ SOV_Stalin_Cult_desc:0 "Die Förderung von Genosse Stalins Personenkult wird dazu beitragen, unserer Regierung Legitimität zu verleihen und die Effizienz der Arbeitnehmer zu erhöhen. Das sowjetische Volk braucht nach vielen stürmischen Jahren eine Periode der Stabilität, und diese darf ihm nicht verwehrt werden!"
+
+ SOV_sing_katyusha_sing:0 "Sing Katjuscha sing!"
+ SOV_sing_katyusha_sing_focus:0 "Sing Katjuscha Sing!"
+ SOV_sing_katyusha_sing_focus_desc:0 "Die Feinde von [ROOT.GetnameDef] werden bald ein Lied singen, das sie nie vergessen werden."
+
+ SOV_copy_yaroslav_rubber_factory:0 "Kopiere die Jaroslav-Gummifabrik"
+ SOV_copy_yaroslav_rubber_factory_desc:0 "Das Jaroslav-Kautschukwerk wurde auf der Grundlage von Technologien errichtet, die Anfang der 1930er Jahre aus den Vereinigten Staaten importiert wurden, und gehörte zu den besten der Welt, als es gebaut wurde. Es war auch eine unserer einzigen Kautschukquellen. Um die Anforderungen der Kriegsanstrengungen zu erfüllen, müssen in der UdSSR mehr größere Kautschukwerke gebaut werden."
+ SOV_tank_programs:0 "Panzer-Programme"
+ SOV_mass_tank_production:0 "Panzer-Massenproduktion"
+ SOV_mass_tank_production_desc:0 "Nur mit einer stark ausgeweiteten Panzerproduktion können wir unsere Feinde besiegen. Auf den Westen! Für das Vaterland!"
+ SOV_establish_tankograd:0 "Gründung von Tankograd"
+ SOV_establish_tankograd_desc:0 "Indem wir das Personal und die Ausrüstung des Kirow-Panzerwerks und anderer Werke mit dem Tscheljabinsker Traktorenwerk verbinden, können wir einen gigantischen Komplex bilden, der sich auf die Produktion von gepanzerten Fahrzeugen konzentriert, Tankograd"
+ SOV_tank_improvements:0 "Panzer-Verbesserungen"
+ SOV_tank_improvements_desc:0 "Die Schrägpanzerung wird es uns ermöglichen, die Effizienz der Panzerung unserer Panzer zu erhöhen, ohne ihr Gewicht zu erhöhen. In Kombination mit einer leistungsstarken Kanone werden wir in der Lage sein, die gewaltigsten Panzer einzusetzen, die es je gegeben hat."
+ SOV_cat_killers:0 "Katzenmörder"
+ SOV_cat_killers_desc:0 "Mit spezialisierten Panzerjägern werden wir diese lästigen Raubkatzen endlich loswerden."
+
+ SOV_Go_With_Molotov:0 "Litnov durch Molotov ersetzen"
+ SOV_Go_With_Molotov_desc:0 "Wir müssen den Deutschen zeigen, dass wir bereit sind, mit ihnen zusammenzuarbeiten. Um dies zu tun, müssen wir als Signal an Hitler das Ministerium der Juden säubern."
+ SOV_French_Soviet_Reapproachment:0 "Französisch-sowjetische Annäherung"
+ SOV_French_Soviet_Reapproachment_desc:0 "Es ist klar, dass die Nazis versuchen werden, unser Land zum Lebensraum zu machen, wir müssen die Beziehungen zu Frankreich verbessern, um die Bedrohung durch den Faschismus einzudämmen."
+ SOV_Help_For_France:0 "Unterstützung für Frankreich"
+ SOV_Help_For_France_desc:0 "Wir müssen unsere neuen französischen Freunde bei ihren Bemühungen um den Aufbau der Militärindustrie unterstützen, damit sie nicht unter faschistische Angriffe geraten.."
+ SOV_Reconcile_French_Comintern:0 "Französische Komintern vereinbaren"
+ SOV_Reconcile_French_Comintern_desc:0 "Wir sollten unsere ideologischen Differenzen mit den französischen Kommunisten beiseite legen und gemeinsam auf gemeinsame Ziele hinarbeiten."
+ SOV_French_Soviet_Treaty:0 "Französisch-sowjetischer Vertrag"
+ SOV_French_Soviet_Treaty_desc:0 "Unsere Panzerforschung stagniert, wenn wir uns mit den Franzosen zusammentun, können wir wieder mit hochmodernen Entwürfen aufwarten."
+ SOV_Assist_The_Czechs:0 "Unterstützung der Tschechen"
+ SOV_Assist_The_Czechs_desc:0 "Wir müssen unseren Mitslawen helfen, dem Nazi-Angriff zu widerstehen. Wir werden Ingenieure und andere Berater entsenden, die ihnen helfen, sich auf die Invasion vorzubereiten."
+ SOV_Guarantee_For_Czechoslovakia:0 "Die Tschechoslowakei garantieren"
+ SOV_Guarantee_For_Czechoslovakia_desc:0 "Wir müssen die nationalsozialistische Expansion auf Schritt und Tritt verhindern. Wir müssen den Tschechen und der Welt sagen, dass ihre Souveränität von der mächtigen Sowjetunion geschützt wird."
+ SOV_Pressure_Poland:0 "Druck auf Polen üben"
+ SOV_Pressure_Poland_desc:0 "Wir können zwei Fliegen mit einer Klappe schlagen. Wir brauchen einen Versorgungskorridor in die Tschechoslowakei, um in Kriegszeiten Truppen zu entsenden, und wir müssen auch das Unrecht der Versailen beheben, das wird beides erledigen."
+ SOV_Socialism_In_One_Country:0 "Sozialismus in einem Land"
+ SOV_Socialism_In_One_Country_desc:0 "Unser großer Führer hat gesagt, dass er daran glaubt, sich auf den Sowjet-Sozialismus zu konzentrieren. Nur wenn die Sowjetunion stark ist, kann sie ein Leuchtfeuer des Kommunismus für die Zukunft sein. Es ist an der Zeit, sich dieser Vision zu verpflichten."
+ SOV_Warm_Water_Ports:0 "Warmwasser-Häfen"
+ SOV_Warm_Water_Ports_desc:0 "Um unsere Schwarzmeerflotte zu erweitern, müssen wir den Zugang über die Bosporusstraße sicherstellen. Die Türkei ist ein unzuverlässiger Nachbar und die Amerikaner und andere sind sich einig, dass das sowjetische Volk den Zugang zum Mittelmeer verdient. Konstantinopel gehört uns!"
+ SOV_Trotsky_Was_Right:0 "Trotzki hatte Recht"
+ SOV_Trotsky_Was_Right_desc:0 "Man muss ein großer Mann sein, um zuzugeben, wann er sich geirrt hat. Zum Glück ist [SOV.GetLeader] ein solcher Mann. Es wurde ihm klar gemacht, dass die einzige Hoffnung für die Zukunft das aggressive Wachstum des Kommunismus im Ausland ist. Wir müssen bei der Befreiung des Proletariats der Welt an vorderster Front stehen."
+ SOV_Support_Greek_Communists:0 "Unterstützen Sie die griechischen Kommunisten"
+ SOV_Support_Greek_Communists_desc:0 "Wir haben dringende Mitteilungen von Kommunisten in Griechenland erhalten, die uns verzweifelt um Hilfe bitten. Wir müssen tun, was wir können, um zu helfen, denn ihre Sache ist unsere Sache."
+ SOV_Northern_Neighbors:0 "Nordische Nachbarn"
+ SOV_Northern_Neighbors_desc:0 "Die nordischen Völker im Norden leben auf einem Land, das reich an natürlichen Ressourcen ist. Wir müssen die Bedürftigen umverteilen und die skandinavische Halbinsel von kapitalistischer Unterdrückung befreien."
+ SOV_A_New_Soviet_Military:0 "Ein neues sowjetisches Militär"
+ SOV_A_New_Soviet_Military_desc:0 "Die Rote Armee muss reformiert werden, um mit den Waffenarsenalen des Faschismus und Kapitalismus konkurrieren zu können. Nur dann können die Arbeiter der Welt befreit werden."
+ SOV_A_Modernes_Militär:0 "Ein modernes Militär
+ SOV_A_Modern_Military_desc:0 "Wir müssen unseren Soldaten eine bessere Ausrüstung zur Verfügung stellen, damit sie auf dem Schlachtfeld den Sieg erringen können".
+ SOV_Early_APCs:0 "Forschung frühe APC-Modelle".
+ SOV_Early_APCs_desc:0 "Wir arbeiten an der Entwicklung effizienter Einsatzfahrzeuge für gepanzerte Infanterieeinheiten. Vorerst reichen Halbkettenfahrzeuge aus."
+ SOV_Modern_Military_Research:0 "Fortgeschrittene militärische Forschungseinrichtungen".
+ SOV_Modern_Military_Research_desc:0 "Wissenschaft und Technologie sind der Schlüssel zur Zukunft. Ohne die fortschrittlichen Waffen von morgen wird das Feuer der Revolution ausgemerzt werden".
+ SOV_NKVD_Intelligence:0 "NKVD-Geheimdienst einrichten".
+ SOV_NKVD_Intelligence_desc:0 "Jetzt wird der NKVD über ausländische Aktivitäten berichten, sowohl Freund als auch Feind.
+ SOV_German_Scientists:0 "Deutsche Raketenforschung infiltrieren".
+ SOV_German_Scientists_desc:0 "Der NKVD hat Dokumente erhalten, die dazu beitragen werden, unsere Raketentechnologie auf eine Stufe mit den Nazis zu stellen.
+ SOV_Das_Mig_Projekt:0 "Das Mig-Projekt".
+ SOV_The_Mig_Project_desc:0 "Wir haben Raketenentwürfe erhalten. Wir haben unsere Konstrukteure über diese neuen Entwicklungen informiert, und sie haben uns neue Flugzeugmodelle mit diesen neuen Düsentriebwerken versprochen.
+ SOV_Manhattan:0 "Infiltrieren Sie das Manhattan-Projekt".
+ SOV_Manhattan_desc:0 "Der NKWD hat entdeckt, dass die westlichen Alliierten heimlich in New Mexico an neuen Superwaffen gearbeitet haben. Wir müssen uns ihre Daten beschaffen, damit wir nicht in der Kälte stehen bleiben!"
+ SOV_Our_Own_B29:0 "Unsere eigene B29"
+ SOV_Our_Own_B29_desc:0 "Der amerikanische B-29-Bomber ist eine Superwaffe, von der wir nicht hoffen können, sie zu schlagen oder abzufangen. Wir haben Informationen über die Flugzeuge erhalten und müssen mit dem Bau unserer eigenen beginnen, bevor wir sie zu Tausenden über Moskau sehen!
+
+  SOV_France_In_The_Comintern:0 "Laden Sie Frankreich zur Komintern ein".
+ SOV_France_In_The_Comintern_desc:0 "Jetzt, da wir eine gemeinsame Basis mit unseren französischen kommunistischen Brüdern gefunden haben, sollten wir sie einladen, sich unseren Reihen im Kampf für die Freiheit des Proletariats anzuschließen.
+ SOV_Czechoslovakia_In_The_Comintern:0 "Die Tschechoslowakei in die Komintern einladen".
+ SOV_Czechoslovakia_In_The_Comintern:0 "Wir sollten unsere tschechischen Freunde in die Komintern einladen, sie werden von unserem Schutz profitieren und wir können die Ausbreitung des deutschen Einflusses in Mitteleuropa verhindern.
+ SOV_Red_Marines:0 "Rote Marineinfanteristen"
+ SOV_Red_Marines_desc:0 "Wir sollten unsere jungen Marinesoldaten zu den besten der Welt ausbilden. In der Vergangenheit haben wir es zugelassen, dass unsere Spezialkräfteprogramme hinter anderen in der Welt zurückbleiben. Das können wir nicht länger hinnehmen."
+ SOV_Red_Paratroopers:0 "Rote Fallschirmjäger"
+ SOV_Red_Paratroopers_desc:0 "Unsere Fallschirmjäger, mit überlegener Ausbildung und Taktik, werden vom Himmel regnen und unseren Feinden unsagbare Zerstörung bringen.
+ SOV_Russian_Democracy:0 "Demokratie in der UdSSR".
+ SOV_Russian_Democracy_desc:0 "Das Volk hat begonnen, nach Demokratie zu schreien. Es ist nun die Aufgabe der Regierungsorganisationen, den Forderungen des Volkes nachzukommen und Wahlen abzuhalten. Wir müssen dies tun, bevor das Land durch Spaltung und Revolution auseinander gerissen wird.
+ SOV_A_Fascist_State:0 "Das Wachstum des Faschismus fördern".
+ SOV_A_Fascist_State_desc:0 "Ein starker Staat ist notwendig, um das Volk vor ausländischer Aggression zu schützen, aber der Kommunismus ist nicht die Antwort. Wir müssen uns von diesem gottlosen Regime lösen und eine neue Art von Regierung annehmen".
+ SOV_Normalize_Relations_With_The_West:0 "Normalisierung der Beziehungen zum Westen".
+ SOV_Normalize_Relations_With_The_West_desc:0 "Wir müssen diplomatische Beziehungen mit westlichen Nationen entwickeln und versuchen, die Ereignisse der Vergangenheit hinter uns zu lassen.
+ SOV_American_Cooperation:0 "Amerikanische Zusammenarbeit".
+ SOV_American_Cooperation_desc:0 "Von einer Demokratie zur anderen können uns die Amerikaner eine Menge Hilfe bei der wirtschaftlichen Entwicklung geben, während wir versuchen, Russland in die Moderne zu führen.
+ SOV_American_Industrial_Assistance:0 "Amerikanische industrielle Unterstützung".
+ SOV_American_Industrial_Assistance_desc:0 "Während wir weiterhin gute Beziehungen zu den Amerikanern entwickeln, boomt die Wirtschaft. Unternehmen von hier und dort haben begonnen, in beiden Ländern zu investieren.
+ SOV_Moving_Forward:0 "Vorwärts bewegen".
+ SOV_Moving_Forward_desc:0 "Wir müssen in die wissenschaftliche Zusammenarbeit mit anderen demokratischen Regierungen auf der ganzen Welt investieren. Sicherlich werden wir gemeinsam viel leichter in der Lage sein, uns gegen Bedrohungen zu verteidigen als allein".
+ SOV_New_World_Order:0 "Eine neue Weltordnung".
+ SOV_New_World_Order_desc:0 "Die alte Weltordnung, die auf Imperium und Monarchie aufgebaut ist, ist um uns herum verrottet und bröckelt. Die Deutschen versuchen, die Welt für die arische Rasse umzustrukturieren, während die Imperialisten schnell ins Hintertreffen geraten. Die wahren Demokratien der Welt müssen sich bei der Verteidigung von Freiheit und Freiheit für alle Menschen zusammenschließen".
+ SOV_Improve_TransSiberian_Railway:0 "Verbesserung der Transsibirischen Eisenbahn".
+ SOV_Improve_TransSiberian_Railway_desc:0 "Wir sollten weiterhin Eisenbahnlinien entwickeln, die die östlichen und westlichen Teile des Landes miteinander verbinden, einschließlich der transibirischen Eisenbahn und der damit verbundenen Eisenbahnen. Wir müssen in der Lage sein, Lieferungen und andere Fracht zu Verteidigungszwecken effizient über Land zu transportieren.
+ SOV_Develop_Oil_Concern:0 "Ölkonzern entwickeln".
+ SOV_Develop_Oil_Concern_desc:0 "Wir müssen in mehr Ausbeutung und den Bau von mehr Raffinerien investieren, um unsere massiven Ölvorkommen in den Caucases auszunutzen".
+ SOV_Look_Eastward:0 "Blick nach Osten"
+ SOV_Look_Eastward_desc:0 "Wir müssen den Angriffskrieg im Osten führen. Es ist an der Zeit, unsere Macht in dieser Region zu festigen und unsere Verteidigung vorzubereiten.
+ SOV_Non_Aggression_With_Japan:0 "Nicht-Angriffspakt mit Japan".
+ SOV_Non_Aggression_With_Japan_desc:0 "Wir können uns mit den Japanern verständigen, um Gewalt und unnötiges Blutvergießen zu verhindern.
+ SOV_End_Of_Non_Aggression_With_Japan:0 " Aufhebung des Nichtangriffspakts mit Japan".
+ SOV_End_Of_Non_Aggression_With_Japan_desc:0 "Die Verständigung, zu der wir mit Japan gekommen sind, war fehlerhaft. Wir hätten eine solche Vereinbarung nicht eingehen dürfen. Es ist an der Zeit, den Japanern zu sagen, dass wir aussteigen wollen."
+ SOV_Develop_The_Ural_Moutain_Region:0 "Die Ural-Bergregion entwickeln".
+ SOV_Develop_The_Ural_Moutain_Region_desc:0 "Das Uralgebirge verfügt über zahlreiche Mineralvorkommen, die wir ausbeuten können und die armen Bauern Arbeitsplätze bringen und Erze in verschlafene Fabriken.
+ SOV_Further_Development_of_Ural_Mountain_Mining_Facilities:0 "Einrichtungen im Uralgebirge".
+ SOV_Further_Development_of_Ural_Mountain_Mining_Facilities_desc:0 "Mehr Erz ist besser als weniger Erz".
+ SOV_Increase_Productivity:0 "Erhöhung der Arbeiterproduktivität".
+ SOV_Increase_Productivity_desc:0 "Wir müssen unsere Arbeiter ermutigen, härter zu arbeiten und Selbstzufriedenheit zum Wohle des Kollektivs zu leugnen. Sie müssen wissen, dass ihre Nation von ihnen abhängt!"
+ SOV_Comforts_For_The_People:0 " Komfort für das Volk"
+ SOV_Comforts_For_The_People_desc:0 "Wir haben die Menschen bis an ihre Grenzen gebracht, um unserem Land eine glänzende Zukunft zu ermöglichen. Jetzt ist es an der Zeit, dass sie die Früchte ihrer Arbeit genießen können. Wir werden unsere Konsumgüterindustrien ausbauen, um unseren Menschen die dringend benötigten Annehmlichkeiten zu bieten.
+ SOV_Military_Expansion:0 "Militärische Expansion".
+ SOV_Military_Expansion_desc:0 "Wir werden das Militär ausbauen, um uns gegen ausländische Aggressionen zu verteidigen. Während die kapitalistischen Länder intrigieren und Reichtum horten, werden wir fleißig Waffen horten, um unser Volk zu verteidigen".
+ SOV_Establish_Mobile_Construction_Units:0 "Aufstellung mobile Baueinheiten".
+ SOV_Establish_Mobile_Construction_Units_desc:0 "Wir müssen Gruppen von patriotischen Bürgern organisieren, die in Kriegszeiten für die Reparatur von Infrastruktur und Industrie zur Verfügung stehen.
+ SOV_Weapons_Of_War:0 "Kriegswaffen"
+ SOV_Weapons_Of_War_desc:0 "Einige Männer kämpfen mit Gewehren, während andere ihren Verstand benutzen. Aber eines ist sicher, alle müssen dienen."
+ SOV_Education_Initiative:0 "Bildungsinitiative".
+ SOV_Education_Initiative_desc:0 ""
+ SOV_Mass_Immunizations:0 "Massenimpfungen".
+ SOV_Mass_Immunizations_desc:0 """
+ SOV_Social_Welfare:0 "Soziale Wohlfahrt
+ SOV_Social_Welfare_desc:0 ""
+ SOV_Liberalize_Our_Regime:0 "Unser Regime liberalisieren".
+ SOV_Liberalize_Our_Regime_desc-Desc:0 ""
+ SOV_Founding_the_UN:0 "Gründung der UNO".
+ SOV_Founding_the_UN_desc:0 ""
+ SOV_Scientific_Cooperation:0 "Wissenschaftliche Zusammenarbeit
+ SOV_Scientific_Cooperation_desc:0 ""
+ SOV_Fascist_Counter_Coup:0 "Faschistischer Gegen-Coup
+ SOV_Fascist_Counter_Coup_desc:0 ""
+
+ socialism_in_one_country:0 "Sozialismus in einem Land".
+ socialism_in_one_country_desc:0 "[SOV.GetLeader] glaubt, dass die Sowjetunion nur dann marxistische Revolution im Ausland verbreiten sollte, wenn sie stark ist.
+ world_trotskyite_revolution:0 "Trotzkistische Weltrevolution"
+ world_trotskyite_revolution_desc:0 "Es braucht einen großen Mann, um zuzugeben, wann er Unrecht hatte, [SOV.GetLeader] ist solch ein Mann. Lasst uns die Feuer der Revolution entfachen!"
+ bolshevik_militarist:0 "Bolschewistischer Militarist"
+ bolshevik_militarist_desc:0 "Trotzki glaubt an eine kommunistische Weltrevolution. Er ist ein Mann mit Visionen, der glaubt, genug ist genug, die arbeitenden Menschen der Welt werden nicht länger versklavt werden!
+
+ NKVD_Agency:0 "Nachrichtendienst NKVD
+ NKVD_Agency_desc:0 "Wir werden überall Spione einsetzen. Wann immer ein Wort in einer Botschaft oder einer Forschungseinrichtung geäußert wird, werden wir davon hören".
+ women_in_the_military_focus:0 "Soldatinnen"
+ women_in_the_military_focus_desc:0 "Frauen können an vorderster Front in Unterstützungsrollen und in begrenzten Kampfrollen dienen. Dadurch werden die benötigten Arbeitskräfte frei und unsere Männer werden vielleicht noch härter kämpfen.
+ home_of_revolution2:0 "Heimat der Revolution".
+ home_of_revolution2_desc:0 "Genossen, mit der Niederlage der abscheulichen trotzkistischen Gegenrevolutionäre konnten wir uns auf die Verteidigung der Revolution konzentrieren. Unser Ziel, unsere Hoffnung, unsere Losung ist Sozialismus in einem Land. Wir werden hier in der Sowjetunion eine reiche sozialistische Utopie aufbauen, und der Rest der Welt wird sie unweigerlich annehmen.
+ home_of_revolution3:0 "Heim_der_Revolution"
+ home_of_revolution3_desc:0 "Genossen, mit der Niederlage der abscheulichen trotzkistischen Gegenrevolutionäre konnten wir uns auf die Verteidigung der Revolution konzentrieren. Unser Ziel, unsere Hoffnung, unsere Losung ist Sozialismus in einem Land. Wir werden hier in der Sowjetunion eine reiche sozialistische Utopie aufbauen, und der Rest der Welt wird sie unweigerlich annehmen.
+ Aleksanr_Vasilevsky:0 "Alexsandr Vasilvesky"
+ Aleksanr_Vasilevsky_desc:0 ""
+ communist_world:0 "Kommunistische Welt"
+ communist_world_desc:0 ""
+ Push_Them_Hard:0 "Drängt sie hart"
+ Push_Them_Hard_desc:0 ""
+ communist_menace:0 "Kommunistische Bedrohung"
+ communist_menace_desc:0 ""
+ communist_paradise:0 "Kommunistisches Paradies"
+ communist_paradise_desc:0 ""
+ Consumer_Goods:0 "Konsumgüter"
+ Consumer_Goods_desc: ""
+ Productivity_Increase: "Produktivitätssteigerung"
+ Productivity_Increase_desc: ""
+ Military_Training: "Militärische Ausbildung"
+ Military_Training_desc: ""
+ worker_conscripts: "Wehrpflichtige"
+ worker_conscripts_desc: ""
+ SOV_weapons: "Sowjetische Waffen"
+ SOV_weapons_desc: ""
+ proliferation_of_disease: "Ausbreitung von Krankheiten"
+ proliferation_of_disease_desc: ""
+ low_literacy_rate: "Niedrige Alphabetisierungsrate"
+ low_literacy_rate_desc: ""
+ a_higher_standard_of_living: "Ein höherer Lebensstandard"
+ a_higher_standard_of_living_desc: ""
+ mobile_construction_brigades: "Mobile Baubrigaden"
+ mobile_construction_brigades_desc: ""
+ peace_before_war: "Frieden vor dem Krieg"
+
+ SOV_Russian_Empire:0 "Russisches Kaiserreich"
+ SOV_demo:0 "Russische Föderation"
+ SOV_monarchist_tag:0 "Russisches Kaiserreich"
+
+
+ SOV_vladimir_kotelnikov:0 "Vladimir Kotelnikov"
+ SOV_gribowski:0 "Gribowski"
+ #Aircraft Design Bureau 301
+ SOV_okb_301:0 "OKB-301"
+ SOV_okb_19:0 "Schwetsow Designbüro"
+ SOV_rubin_design_bureau:0 "Rubin Design Büro"
+ SOV_shipyard_189:0 "Schiffswerft 189"
+ SOV_sevastopol_shipyard:0 "Sewastopol-Werft"
+ SOV_zalyv_shipyard:0 "Zalyv-Werft"
+ SOV_factory_232:0 "Fabrik 232"
+ SOV_uralmash:0 "Uralmash"
+ SOV_tankograd:0  "Werk Tscheljabinsk Kirow 100"
+ SOV_plant_37:0 "Werk 37"
+ SOV_voronezh_komintern_factory:0 "Woronescher Komintern-Fabrik"
