@@ -1,5 +1,16 @@
 ﻿l_german:
 
+#ANCAP
+
+ANCAP_democratic:0 "Freihandelszone"
+ANCAP_neutrality:0 "Freihandelszone"
+ANCAP_democratic_DEF:0 "DIe Freihandelszone"
+ANCAP_democratic_ADJ:0 "'FHZ'"
+ANCAP_neutrality_DEF:0 "Die Freihandelszone"
+ANCAP_fascism:0 "Freihandelszone"
+ANCAP_fascism_DEF:0 "Die Freihandelszone"
+ANCAP_communism:0 "Freie Wirtschaftszone des Volkes" #I throw up just thinking about it
+
  #ARA
  ARA_UNIFIED_neutrality:0 "Arabische Föderation"
  ARA_UNIFIED_fascism:0 "Arabisches Kalifat"
