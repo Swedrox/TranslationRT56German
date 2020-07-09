@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
 GER_deutsche_forschungsanstalt_fur_segelflug:0 "DFS"
 GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt für Segelflug"
 #Focuses
@@ -373,8 +373,7 @@ GER_deutsche_forschungsanstalt_fur_segelflug_desc:0 "Deutsche Forschungsanstalt 
  germany.1002.b:0 "Das Gebiet gehört uns!"
  germany.1002.c:0 "Die Slowakei verdient es, sie zu behalten."
  r56_GER_first_vienna_award_tt:0 "§Abhängig von Ihrer Wahl wird der Erster Wiener Schiedsspruch ausgelöst, wenn Ungarn nicht die Südslowakei besitzt.§!"
- r56_GER_first_vienna_award_II_tt:0 "§RDiese Wahl wird den Erster Wiener Schiedsspruch
-gleich danach auslösen, wenn Ungarn nicht die Südslowakei besitzt.§!"
+ r56_GER_first_vienna_award_II_tt:0 "§RDiese Wahl wird den Erster Wiener Schiedsspruch gleich danach auslösen, wenn Ungarn nicht die Südslowakei besitzt.§!"
 
  erwache_news.1.t:0 "Spanien lehnt deutsche Forderungen ab!"
  erwache_news.1.d:0 "Spanien hat die deutsche Forderung nach einer "defensiven Besetzung" des Landes offiziell abgelehnt. Spanien ist nun in den Kriegszustand gegen Deutschland eingetreten und hat seine Streitkräfte an der Grenze versammelt."
