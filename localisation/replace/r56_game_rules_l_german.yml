@@ -93,6 +93,7 @@
  RULE_OPTION_COMMUNIST_GER_AI_DESC:0 "Die deutsche KI wird versuchen, die rote Flamme zu entzünden und zum Kommunismus zu konvertieren, was entweder zu einer Zusammenarbeit mit den Sowjets oder zu einem eigenen Einflussbereich führt.\n§R Diese Option funktioniert nur, wenn der Road to 56 Fokusbaum  ausgewählt ist. Wenn der Standard-Fokusbaum ausgewählt wird, wählt die KI einen zufälligen Pfad.§!"
  RULE_OPTION_FASCIST_HISTORICAL_GER_AI_DESC:0 "Die deutsche KI wird das Rheinland remilitarisieren und seinen Lebensraum erweitern und geschichtsnah verfolgen, indem sie den entsprechenden Weg im nationalen Schwerpunktbaum beschreitet."
  RULE_OPTION_MONARCHIST_GER_AI_DESC:0 "Die deutsche KI wird versuchen, den Kaiser zu rehabilitieren und das Deutsche Reich wiederherzustellen, was zu vertrauten Bündnissen und territorialen Erweiterungen führen wird  in dem es den entsprechenden Weg im nationalen Fokusbaum beschreitet.\n§YDiese Option passt sich an, je nachdem, welchen Fokusbaum Sie ausgewählt haben.§!\n§Benötigt die Erweiterung Waking the Tiger, wenn Sie den Standard-Fokusbaum ausgewählt haben.§!"
+
  #-> ITA: Italy <><>
  ITA_AI_BEHAVIOR:0 "@ITA Italien"
  RULE_OPTION_FASCIST_HISTORICAL_ITA_AI_DESC:0 "Die italienische KI (versucht) in Äthiopien zu siegen und ihre langsame militärische Expansion in Europa weiterführen, bevor sie sich schließlich mit Deutschland verbündet, indem sie den entsprechenden Weg im nationalen Fokusbaum beschreitet."
@@ -119,7 +120,6 @@
 
  #-> SWE: Sweden
  SWE_AI_BEHAVIOR:0 "@SWE Schweden"
- RULE_OPTION_DEMOCRATIC_HISTORICAL:0 "Demokratisch - Historisch"
  RULE_OPTION_DEMOCRATIC_HISTORICAL_AI_DESC:0 "Schweden wird versuchen, neutral zu bleiben."
  RULE_OPTION_COMMUNIST_SWE_AI_DESC:0 "KI wird die Kommunisten an die Macht bringen"
  RULE_OPTION_FASCIST_SWE_AI_DESC:0 "KI wird die schwedischen Nazis an die Macht bringen"
@@ -127,11 +127,11 @@
 
  #-> TUR: Turkey <><>
  TUR_AI_BEHAVIOR:0 "@TUR Türkei
- RULE_OPTION_DEMOCRATIC_TUR_AI_DESC:0 "Die türkische KI wird dem Erbe Atatürks folgen, sich aber nach dem immer stärker werdenden feindlichen Einfluss in Europa schließlich auf eine Demokratie zubewegen und sich den Alliierten anschließen.
- RULE_OPTION_COMMUNIST_TUR_AI_DESC:0 "Die türkische KI wird Hüsnü aus dem Exil entlassen, was zu einer vollwertigen kommunistischen Revolution führt, gefolgt entweder von einer Zusammenarbeit mit den Sowjets oder ihrem eigenen Einflussbereich.
- RULE_OPTION_FASCIST_TUR_AI_DESC:0 "Die türkische KI wird faschistische Offiziere unterstützen, was zu einer faschistischen Diktatur und einer engen Zusammenarbeit mit Deutschland sowie zu einer möglichen Mitgliedschaft in der Achse führt.
+ RULE_OPTION_DEMOCRATIC_TUR_AI_DESC:0 "Die türkische KI wird dem Erbe Atatürks folgen, sich aber nach dem immer stärker werdenden feindlichen Einfluss in Europa schließlich auf eine Demokratie zubewegen und sich den Alliierten anschließen."
+ RULE_OPTION_COMMUNIST_TUR_AI_DESC:0 "Die türkische KI wird Hüsnü aus dem Exil entlassen, was zu einer vollwertigen kommunistischen Revolution führt, gefolgt entweder von einer Zusammenarbeit mit den Sowjets oder ihrem eigenen Einflussbereich."
+ RULE_OPTION_FASCIST_TUR_AI_DESC:0 "Die türkische KI wird faschistische Offiziere unterstützen, was zu einer faschistischen Diktatur und einer engen Zusammenarbeit mit Deutschland sowie zu einer möglichen Mitgliedschaft in der Achse führt."
  RULE_OPTION_ATATATURK_HISTORICAL:0 "Atatürks Vermächtnis - Historisch".
- RULE_OPTION_ATATATURK_HISTORICAL_TUR_AI_DESC:0 "Die türkische KI wird das Vermächtnis Atatürks stärken und sich auf die Neutralität konzentrieren, indem sie mehrere Pakte mit anderen Nationen unterzeichnet.
+ RULE_OPTION_ATATATURK_HISTORICAL_TUR_AI_DESC:0 "Die türkische KI wird das Vermächtnis Atatürks stärken und sich auf die Neutralität konzentrieren, indem sie mehrere Pakte mit anderen Nationen unterzeichnet."
 
  ###---> Map Fragmentation <><> <><> <><>
  RULE_GROUP_GAME_SETUP:0 "Kartenfragmentierung"
@@ -255,15 +255,6 @@
  RULE_ALLOW_NATIONAL_CHARACTERS_ALLOWED_DESC:0 "Es steht den Ländern frei, nationale Merkmale zu verwenden"
  RULE_ALLOW_NATIONAL_CHARACTERS_BLOCKED_DESC:0 "Länder dürfen keine nationalen Merkmale verwenden"
  NATIONAL_CHARACTERS_BLOCKED:0 "Nationale Merkmale deaktiviert"
-
- RULE_EXTRA_OPERATIVES:0 "Number of Operatives"
- RULE_OPTION_DEFAULT_EXTRA_OPERATIVES_DESC:0 "The number of spies will follow the default settings."
- RULE_OPTION_ONE_EXTRA:0 "One Extra Operative"
- RULE_OPTION_ONE_EXTRA_DESC:0 "Each country with an intelligence agency will get an extra operative."
- RULE_OPTION_TWO_EXTRA:0 "Two Extra Operatives"
- RULE_OPTION_TWO_EXTRA_DESC:0 "Each country with an intelligence agency will get two extra operatives."
- RULE_OPTION_THREE_EXTRA:0 "Three Extra Operatives"
- RULE_OPTION_THREE_EXTRA_DESC:0 "Each country with an intelligence agency will get three extra operatives."
 
  RULE_EXTRA_OPERATIVES:0 "Anzahl der Operatoren".
  RULE_OPTION_DEFAULT_EXTRA_OPERATIVES_DESC:0 "Die Anzahl der Spione wird den Standardeinstellungen folgen".

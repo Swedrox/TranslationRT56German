@@ -15,7 +15,7 @@
  anti_air_equipment_3:0 "Leichte Flugabwehrkanonen 43"
  anti_air_equipment_3_short:0 "Leichte Flak 43"
  anti_air_equipment_3_desc:1 "Ein hochmodernes mobiles Flakgeschütz mit größerer Reichweite und Feuerkapazität, das selbst die schnellsten und am höchsten fliegenden feindlichen Flugzeuge bekämpfen kann."
- anti_air_equipment_x:0 Leichte Flugabwehrkanonen 48"
+ anti_air_equipment_x:0 "Leichte Flugabwehrkanonen 48"
  anti_air_equipment_x_short:0 "Leichte Flak 48"
  anti_air_equipment_x_desc:0 "Eine neu gestaltete mobile Flakgeschütz mit Autoloader mit Aufrüstmöglichkeiten in der Zukunft."
 

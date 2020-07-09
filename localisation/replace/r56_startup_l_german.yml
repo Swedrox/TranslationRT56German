@@ -4,7 +4,7 @@ l_german:
 
  ###---> Welcome to the Road! <><> <><> <><>
  r56.startup.event.01.title: "Willkommen zu Road to 56!"
- r56.startup.event.01.description: "Hallo und Grüße vom 56er-Team!\n\nBitte helfe uns, dein Spielerlebnis so optimal wie möglich zu gestalten, indem du angibst, ob diese Sitzung für ein Mehrspieler-Spiel vorgesehen ist oder nicht. Es hilft uns wirklich dabei alles auszubalancieren und dein leiden zu verringern.\n\n Wichtiger Hinweis: Diese Mod wird offiziell jeden Monat um den 7./8. des Monats (je nach Zeitzone) aktualisiert. Wir empfehlen dir die meisten Spiele/Kampagnen vor diesen Terminen zu beenden, da die meisten unserer Aktualisierungen dazu neigen, Spielstände zu verändern. Vielen Dank für dein Verständnis.\n\n\n Danke, dass du unseren Mod gespielst und noch dir einen wundervollen Tag!"
+ r56.startup.event.01.description: "Hallo und Grüße vom Road to 56er-Team!\n\nBitte helfe uns, dein Spielerlebnis so optimal wie möglich zu gestalten, indem du angibst, ob diese Sitzung für ein Mehrspieler-Spiel vorgesehen ist oder nicht. Es hilft uns wirklich dabei alles auszubalancieren und dein leiden zu verringern.\n\n Wichtiger Hinweis: Diese Mod wird offiziell jeden Monat um den 7./8. des Monats (je nach Zeitzone) aktualisiert. Wir empfehlen dir die meisten Spiele/Kampagnen vor diesen Terminen zu beenden, da die meisten unserer Aktualisierungen dazu neigen, Spielstände zu verändern. Vielen Dank für dein Verständnis.\n\n\n Danke, dass du unseren Mod gespielst und noch dir einen wundervollen Tag!"
  r56.startup.event.01.option_yes: "Mehrspieler"
  r56.startup.event.01.option_no: "Einzelspieler"
 

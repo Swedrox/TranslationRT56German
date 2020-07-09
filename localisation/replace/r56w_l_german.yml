@@ -101,7 +101,7 @@ l_english:
 
 #Someone Found a Puppet
  r56w.event.51.t:0 "Etwas Flauschiges kommt auf diese Weise"
- r56w.event.51.d:0 "Greatexperiment hat vor kurzem beschlossen, einen Urlaub in Großbritannien zu machen. Bei einem Spaziergang stieß er auf eine ziemlich seltsame und schrecklich verdächtige Marionette, die sich hinter einer Telefonzelle versteckte. \n\n\n\ "Ich sollte diesem Ding wirklich Magie einflößen, damit es das Land erobert und absolute Verwüstung anrichtet", sagte sich Greatexperiment."
+ r56w.event.51.d:0 "Greatexperiment hat vor kurzem beschlossen, einen Urlaub in Großbritannien zu machen. Bei einem Spaziergang stieß er auf eine ziemlich seltsame und schrecklich verdächtige Marionette, die sich hinter einer Telefonzelle versteckte. \n\n\n "Ich sollte diesem Ding wirklich Magie einflößen, damit es das Land erobert und absolute Verwüstung anrichtet", sagte sich Greatexperiment."
  r56w.event.51.a:0 "Ja, warum nicht?"
  r56w.event.51.b:0 "Nein. Wirf es in den Fluss."
 
@@ -117,8 +117,7 @@ l_english:
 
 #Comet Tank sighted
 r56w.event.101.t:0 "Kometenpanzer gesichtet!"
-r56w.event.101.desc:0 "Während er zu nahe an die Grenze der Militärbasis Bovington heranfuhr, wurde eine experimentelle Variante unseres neuen Comet-Panzers versehentlich von einigen Zivilisten gesichtet, die vorbeikamen. Wir müssen schnell handeln, um sicherzustellen, dass die Angelegenheit mit der notwendigen Diskretion behandelt wird. Die Parlamentarier sind verständlicherweise verärgert, und der Panzerfahrer wird sicherlich zurechtgewiesen werden.
-Wenn lockere Lippen Schiffe versenken, können sie auch Panzerungen durchbohren."
+r56w.event.101.desc:0 "Während er zu nahe an die Grenze der Militärbasis Bovington heranfuhr, wurde eine experimentelle Variante unseres neuen Comet-Panzers versehentlich von einigen Zivilisten gesichtet, die vorbeikamen. Wir müssen schnell handeln, um sicherzustellen, dass die Angelegenheit mit der notwendigen Diskretion behandelt wird. Die Parlamentarier sind verständlicherweise verärgert, und der Panzerfahrer wird sicherlich zurechtgewiesen werden.Wenn lockere Lippen Schiffe versenken, können sie auch Panzerungen durchbohren."
 r56w.event.101.a:0 "Lassen Sie uns ein paar Telefonate führen."
 
 ###------> Tooltips <><> <><> <><> <><> <><>
