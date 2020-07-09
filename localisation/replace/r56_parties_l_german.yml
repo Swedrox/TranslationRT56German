@@ -1,8 +1,12 @@
 ﻿l_english:
 
  #NEW
+ anarcho_capitalism:0 "Anarcho-Kapitalismus"
+ anarcho_capitalism_desc:0 "§YAnarcho-Kapitalismus§! ist eine Absage an den §Zentralisierten Staat§! selbst zugunsten von §Selbstbesitz, Privateigentum und freien Märkten§!"
+ anarcho_capitalism_n:0 "Anarcho-Kapitalismus"
+ anarcho_capitalism_n_desc:0 "§YAnarcho-Kapitalismus§! ist eine Absage an den §Zentralisierten Staat§! selbst zugunsten von §Selbstbesitz, Privateigentum und freien Märkten§!"
  corporatism:0 "Korporatismus"
- corporatism_desc:0 "Gemäß der korporatistischen Ideologie würden Arbeitnehmer und Arbeitgeber in Industrie- und Berufskorporationen organisiert sein, die ihre Interessen auf staatlicher Ebene vertreten. Der Korporatismus verfügt über eine grundlegende Demokratie, aber das Volk ist durch mehrere Hierarchiestufen stark von den Führern des Landes getrennt."
+ corporatism_desc:0 "Gemäß der §Ykorporatistischen§! Ideologie würden Arbeitnehmer und Arbeitgeber in Industrie- und Berufskorporationen organisiert sein, die ihre Interessen auf staatlicher Ebene vertreten. Der Korporatismus verfügt über eine grundlegende Demokratie, aber das Volk ist durch mehrere Hierarchiestufen stark von den Führern des Landes getrennt."
  centrism_democratic:0 "Demokratischer Zentrismus"
  centrism_democratic_desc:0 "§YZentrismus§! ist eine Regierungsform, die §YLösungen nach gesundem Menschenverstand§! erreichen will, die aktuelle und zukünftige Bedürfnisse angemessen berücksichtigen, die das §Öffentliche Vertrauen§! unterstützen und dem §Gemeinsamen Wohl§! dienen, unter Berücksichtigung von Risiko und Kapazität im Zusammenhang mit diesen Bedürfnissen."
  absolute_monarchism:0 "Absolutismus"

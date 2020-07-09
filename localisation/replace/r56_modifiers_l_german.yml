@@ -3,7 +3,7 @@
 #--> All the modifiers created by new buildings/techs
 
 l_german:
-
+   neutrality_acceptance:0 "Akzeptanz der autoritären Diplomatie"
    naval_armor_tech_research:0 "Geschwindigkeit der Marine-Rüstungsforschung"
    naval_gunnery_tech_research:0 "Forschungsgeschwindigkeit der Marinegeschütze"
    modifier_production_speed_steel_mill_factor:0 "§YStahlwerk§! Baugeschwindigkeit"
