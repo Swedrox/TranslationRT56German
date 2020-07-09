@@ -9,3 +9,4 @@ l_german:
    modifier_production_speed_steel_mill_factor:0 "§YStahlwerk§! Baugeschwindigkeit"
    modifier_production_speed_aluminum_mill_factor:0 "§YAluminiumhütte§! Baugeschwindigkeit"
    modifier_production_speed_rubber_refinery_factor:0 "§YGummiraffinerie§! Baugeschwindigkeit"
+   darien_gap:0 "Tapón del Darién"

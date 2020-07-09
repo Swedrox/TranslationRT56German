@@ -18,7 +18,7 @@
  marxism_desc:0 "Marxistische Politik, die ein breites Spektrum wirtschaftlicher und historischer Ansichten umfasst, versucht, die Theorien von Karl Marx auf die politische Praxis anzuwenden. Klassenkampf und die Notwendigkeit des Übergangs zu einer Gesellschaft, die auf dem gemeinsamen Besitz der Produktionsmittel beruht, kennzeichnen diese Ideologien."
  leninism:0 "Leninismus"
  leninism_desc:0 "Der Leninismus ist eine politische Ideologie, die auf marxistischem Gedankengut basiert und versucht, einen sozialistischen Staat durch eine Avantgardepartei zu errichten, die eine Revolution zum Sturz der kapitalistischen Gesellschaft anführt. Einmal an der Macht, regiert die Partei durch ein System, in dem die Politik für interne Debatten offen ist, bis eine Entscheidung getroffen wurde."
- stalinism:0 "Stalinism"
+ stalinism:0 "Stalinismus"
  stalinism_desc:0 "Der Stalinismus, der als eine Regierungsform identifiziert wird, der marxistisch-leninistische Politik anwendet und weiterentwickelt, betont die rasche Industrialisierung und Kollektivierung sowie die Notwendigkeit eines starken, autoritativen sozialistischen Staates zur Säuberung aller konterrevolutionären Elemente."
  anti_revisionism:0 "Anti-Revisionismus"
  anti_revisionism_desc:0 "Als Reaktion auf die vielen Ideologien, die behaupten, Nachfolger des Marxismus zu sein, tritt der Anti-Revisionismus dafür ein, Schlüsselelemente der ursprünglichen revolutionären Theorie beizubehalten. Hauptsächlich gegen die Eingliederung kapitalistischer Wirtschaftselemente in sozialistische Staaten, wird die Ideologie sowohl durch das, was sie nicht ist, als auch durch das, was sie ist, definiert."
@@ -43,6 +43,7 @@
  moderatism_desc:1 "Moderatismus ist eine Regierungsform, die die Extreme der Linken und Rechten vermeidet, indem sie eine gemäßigte Position oder Handlungsweise einnimmt."
  centrism:1 "Zentrismus"
  centrism_desc:1 "Der Zentrismus ist eine Regierungsform, die Lösungen auf der Grundlage des gesunden Menschenverstandes erreichen will, die den gegenwärtigen und zukünftigen Bedürfnissen angemessen Rechnung tragen, das Vertrauen der Öffentlichkeit stärken und dem Gemeinwohl dienen, wobei Risiken und Kapazitäten im Zusammenhang mit diesen Bedürfnissen berücksichtigt werden."
+
  GER_fascism_party:0 "NSDAP"
  GER_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
  GER_communism_party:0 "KPD"

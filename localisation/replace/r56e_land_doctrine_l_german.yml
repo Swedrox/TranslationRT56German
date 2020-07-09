@@ -1,6 +1,7 @@
 ﻿l_german:
 volkssturm:0 "Den Volkssturm verstärken" #Vanilla Overide
 #New Localisation
+cat_r56_guerilla_warfare:0 "Doktrin der asymmetrischen Kriegsführung"
 r56_guerilla_warfare:0 "Asymmetrische Kriegsführung"
 r56_guerilla_warfare_desc:0 "Wir müssen die Arbeitsweise unserer Streitkräfte stark verändern. Tatsache ist, dass die Armeen, mit denen wir möglicherweise in den Krieg ziehen würden, uns weit überlegen sind. Wir müssen einen asymmetrischen Ansatz in der Kriegsführung wählen, wenn wir jemals eine Chance haben wollen."
 r56_double_envelopment:0 "Plötzliche Einschließung"

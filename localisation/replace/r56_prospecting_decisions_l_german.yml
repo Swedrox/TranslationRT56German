@@ -72,17 +72,29 @@
  develop_dushanzi_oil_field_with_soviet_help:0 "Mit sowjetischer Hilfe das Ölfeld von Duschanzi erschließen"
  develop_nauru_phosphate_deposits:0 "Nauru-Phosphat-Lagerstätten erschließen"
  exploit_central_albanian_chrom_deposits:0 "Zentralalbanische Chromvorkommen ausbeuten"
+ exploit_dubova_chromium_deposits:0 "Dubova-Chrom-Lagerstätten ausbeuten"
  exploit_cypriot_chromium_deposits:0 "Ausbeutung zypriotischer Chromvorkommen"
  exploit_sierra_leonean_chromium_deposits:0 "Ausbeutung sierra-leoneanischer Chromvorkommen"
  develop_zambales_chromium_deposits:0 "Zambales-Chrom-Lagerstätten erschließen"
-  expand_luzon_chromium_deposits:0 "Luzon-Chrom-Lagerstätten erweitern"
+ expand_luzon_chromium_deposits:0 "Luzon-Chrom-Lagerstätten erweitern"
  develop_malay_aluminium_deposits:0 "Malaysische Bauxitvorkommen erschließen"
  develop_kuantan_aluminium_deposits:0 "Kuantan-Aluminium-Vorkommen erschließen"
  develop_kamysh_burunsky_iron_deposits:0 "Kamysh-Burunsky Eisenvorkommen erschließen"
  exploit_amazonian_rubber:0 "Amazonas-Kautschuk nutzen"
  develop_kolymas_tungsten_mines_in_alaskinskaya:0 " Ausbau der Wolframminen von Kolyma in Alaskinskaja"
-
-
+ develop_saguenay_aluminium_industry:0 "Entwicklung der Saguenay-Aluminiumindustrie"
+ expand_the_ljubija_iron_mine:0 "Erweiterung der Eisenmine von Ljubija"
+ expand_the_erzberg_iron_mine:0 "Erweiterung des Erzberger Eisenerzbergwerks"
+ expand_the_mittersil_tungsten_mine:0 "Erweiterung der Wolframmine Mittersill"
+ reopen_montbelleux_tunsten_mine:0 "Wiedereröffnung der Wolframmine in Montbelleux"
+ exploit_togolese_chromium:0 "Ausbeutung togoischen Chroms"
+ develop_oloibiri_oil_field:0 "Ausbeutung des Oloibiri Ölfeldes"
+ exploit_bomi_hills_iron_ore:0 "Das Eisenerz von Bomi Hills erschließen"
+ expand_marmpa_mining:0 "Den Bergbau in Marampa erweitern."
+ exploit_orenoque_iron:0 "Das Eisenerz von Orenoque abbauen"
+ exploit_cerro_san_isidro_iron:0 "Das Eisenerz von Cerro San Isidro ausbeuten"
+ stimulate_colorado_tungsten_production:0 "Anregung der Wolframproduktion in Colorado"
+ exploit_virginia_oil_field:0 "Förderung des Öls in Lee County"
 
  open_kajaran_mine_wtt:0 "Öffnen der Kajaran-Mine" #Änderungseffekt, wenn Kupfer hinzugefügt wird
  extract_northern_armenia_deposits_wtt:0 "Ausbeutung des Aluminiums in Nordarmenien"
@@ -111,6 +123,7 @@
  open_ilga_tin_tunsten_mine_wtt:0 " Eröffnung der Zinn-Wolfram-Mine Ilga"
  develop_eastern_desert_desert_tungsten_mining_wtt:0 " Erschließung des östlichen Wüstenwolframabbaus"
  open_puy_les_vignes_tunsten_mine_wtt:0 "Eröffnung der Puy-les-Vignes-Wolfram-Mine"
+ reopen_leucamp_tunsten_mine_wtt:0 "Wiedereröffnung der Wolframmine in Leucamp"
  expand_namaqualand_tungsten_mine_wtt:0 " Erweiterung der Wolframmine in Namaqualand"
  expand_south_rhodesia_tungsten_mine_wtt:0 " Erweiterung der Wolframmine in Südrhodesien"
  expand_nigeria_tungsten_mine_wtt:0 " Erweiterung der Wolframmine in Nigeria"
@@ -158,8 +171,30 @@
  exploit_amazonian_rubber_wtt:0 " Amazonas-Kautschuk ausbeuten"
  develop_saguenay_aluminium_industry_wtt:0 "Die Saguenay-Aluminiumindustrie entwickeln"
  develop_kolymas_tungsten_mines_in_alaskinskaya_wtt:0 "Erschließung der Kolyma-Wolfram-Minen in Alaskinskaja"
+ expand_the_ljubija_iron_mine_wtt:0 "Erweiterung der Eisenmine von Ljubija"
+ expand_the_erzberg_iron_mine_wtt:0 "Erweiterung des Erzberger Eisenerzbergwerks"
+ expand_the_mittersil_tungsten_mine_wtt:0 "Erweiterung der Wolframmine Mittersill"
+ reopen_montbelleux_tunsten_mine_wtt:0 "Wiedereröffnung der Wolframmine in Montbelleux"
+ build_sibenik_aluminium_plant_wtt:0 "Bau des Aluminiumwerks in Sibenik"
+ develop_oloibiri_oil_field_wtt:0 "Ausbeutung des Oloibiri Ölfeldes"
+ exploit_bomi_hills_iron_ore_wtt:0 "Das Eisenerz von Bomi Hills erschließen"
+ expand_marmpa_mining_wtt:0 "Den Bergbau in Marampa erweitern"
+ exploit_orenoque_iron_wtt:0 "Das Eisenerz von Orenoque abbauen"
+ exploit_cerro_san_isidro_iron_wtt:0 "Das Eisenerz von Cerro San Isidro ausbeuten"
+ stimulate_colorado_tungsten_production_wtt:0 "Anregung der Wolframproduktion in Colorado"
+ exploit_virginia_oil_field_wtt:0 "Förderung des Öls in Lee County"
 
 
+ expand_basque_steel_works_wtt:0 "Erweiterung der baskischen Stahlwerke"
+ expand_western_aragon_steel_works_wtt:0 "Erweiterung der Stahlwerke in West-Aragon"
+ expand_granada_steel_works_wtt:0 "Stahlwerke in Granada erweitern"
+ develop_salamanca_tungsten_deposits_wtt:0 "Erschließung der Wolframvorkommen von Salamanca"
+ develop_valladolid_tungsten_deposits_wtt:0 "Valladolid-Wolfram-Lagerstätten erschließen"
+ develop_galicia_tungsten_deposits_wtt:0 "Erschließung der galicischen Wolframvorkommen"
+ expand_extremadura_tungsten_mines_wtt:0 "Erweiterung der Wolframminen in Extremadura"
+ expand_madrid_bauxite_mines_wtt:0 "Bauxit-Minen in Madrid erweitern"
+ exploit_togolese_chromium_wtt:0 "Ausbeutung togoischen Chroms"
+ build_sibenik_aluminium_plant:0 "Bau des Aluminiumwerks in Sibenik"
 
  #ADAPTATION OF wtt
  r56_develop_north_sakhalin_oil_deposits:0 "North Sakhalin Oilfelder erschließen"
@@ -185,7 +220,17 @@
  develop_cornwall_tungsten_deposits_2:0 "Die Hemerdon-Mine erweitern"
  r56_developvelopment_cornwall_tungsten_deposits_1:0 "Wiedereröffnung der Hemerdon-Mine"
  r56_develop_development_cornwall_tungsten_deposits_2:0 "Die Hemerdon-Mine erweitern"
- develop_saguenay_aluminium_industry:0 "Die Saguenay-Aluminiumindustrie ausbauen"
+
+#Adaptation of LaR
+ expand_basque_steel_works2:0 "Erweiterung der baskischen Stahlwerke"
+ expand_western_aragon_steel_works2:0 "Erweiterung der Stahlwerke in West-Aragon"
+ expand_granada_steel_works2:0 "Stahlwerke in Granada erweitern"
+ develop_salamanca_tungsten_deposits2:0 "Erschließung der Wolframvorkommen von Salamanca"
+ develop_valladolid_tungsten_deposits2:0 "Valladolid-Wolfram-Lagerstätten erschließen"
+ develop_galicia_tungsten_deposits2:0 "Erschließung der galicischen Wolframvorkommen"
+ expand_extremadura_tungsten_mines2:0 "Erweiterung der Wolframminen in Extremadura"
+ expand_madrid_bauxite_mines2:0 "Bauxit-Minen in Madrid erweitern"
+
 
  #Flags
  kelham_hills_oil_field_developed:0 "Das Ölfeld Kelham Hills ist erschlossen".

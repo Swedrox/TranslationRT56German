@@ -14,6 +14,7 @@ l_german:
   naval_armor_tech:0 "Marinepanzerungstechnologien"
   naval_gunnery_tech:0 "Technologien für Marinegeschütze"
   naval_shell_tech:0 "Marine-Geschosstechnologien"
+  damage_control_tech:0 "Technologien zur Schadenskontrolle"
 
 
 ### Extra Special Forced Tech Categories
@@ -418,13 +419,13 @@ l_german:
 
 ###------> Jaeger   <><> <><> <><> <><> <><>
  jaeger:0"Jäger-Infanterie"
- jaeger_desc:0"Jäger sind Streitkräfte, die darauf spezialisiert sind, die Kälte und die Wildnis des borealen Waldes zu überleben. In der Regel sind diese Truppen in ihrem Territorium heimisch und brauchen länger für die Ausbildung.\n \n§G Dieser Einheitstyp zählt nicht zu den Spezialeinheiten§!"
+ jaeger_desc:0"Jäger sind Streitkräfte, die darauf spezialisiert sind, die Kälte und die Wildnis des borealen Waldes zu überleben. In der Regel sind diese Truppen in ihrem Territorium heimisch und brauchen länger für die Ausbildung.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
 
  jungletroop:0"Dschungel-Infanterie"
- jungletroop_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und den Feind zu ihren eigenen Regeln herauszufordern.\n \n§G Dieser Einheitstyp zählt nicht zu den Spezialeinheiten§!"
+ jungletroop_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und den Feind zu ihren eigenen Regeln herauszufordern.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
 
  desertinfantry:0"Wüsteninfanterie"
- desertinfantry_desc:0"Die Kämpfe in den Wüstengebieten setzen die Truppen vielen Gefahren aus, die sich aber manchmal nicht vermeiden lassen. Indem wir unseren Soldaten eine spezielle Ausbildung für dieses Umfeld bieten, können wir diese Risiken minimieren.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten§!"
+ desertinfantry_desc:0"Die Kämpfe in den Wüstengebieten setzen die Truppen vielen Gefahren aus, die sich aber manchmal nicht vermeiden lassen. Indem wir unseren Soldaten eine spezielle Ausbildung für dieses Umfeld bieten, können wir diese Risiken minimieren.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
 
  shocktroop:0"Stoßtruppen"
  shocktroop_desc:0"Stoßtruppen können in feindliche Linien eindringen, um einen Durchbruch zu erreichen. Dies ist für jede Form von Tiefkampf fast unerlässlich und kann wesentlich dazu beitragen, die Verteidiger in Bedrängnis zu bringen."
@@ -433,30 +434,30 @@ l_german:
  flamethrower_desc:0"Flammenwerfer können im Nahkampf eine große Hilfe sein. Es kann sehr kostspielig sein, Häuser und Befestigungen mit regulären Infanterieeinheiten zu räumen. Der Flammenwerfer wird bei solchen Aufgaben und im Nahkampf gegen weiche Einheiten im Allgemeinen eine große Hilfe sein."
 
  jaegers:0"Jäger-Infanterie I"
- jaegers_desc:0"Jaegers are forces that specialize in surviving the cold and the wilderness of the boreal forest. Usually these troops are native to their territory and take longer to train.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten§!"
+ jaegers_desc:0"Jaegers are forces that specialize in surviving the cold and the wilderness of the boreal forest. Usually these troops are native to their territory and take longer to train.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  jaegers2:0"Jäger-Infanterie II"
- jaegers2_desc:0"Ist es kalt draußen, oder bin das nur ich?"
+ jaegers2_desc:0"Ist es kalt draußen, oder bin das nur ich? \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  jaegers3:0"Jäger-Infanterie III"
- jaegers3_desc:0"Ist es kalt draußen, oder bin das nur ich?"
+ jaegers3_desc:0"Ist es kalt draußen, oder bin das nur ich? \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  jaegers4:0"Jäger-Infanterie IV"
- jaegers4_desc:0"Ist es kalt draußen, oder bin das nur ich?"
+ jaegers4_desc:0"Ist es kalt draußen, oder bin das nur ich? \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  jaegers5:0"Jäger-Infanterie V"
- jaegers5_desc:0"Ist es kalt draußen, oder bin das nur ich?"
+ jaegers5_desc:0"Ist es kalt draußen, oder bin das nur ich? \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  jaegers6:0"Jäger-Infanterie VI"
- jaegers6_desc:0"Ist es kalt draußen, oder bin das nur ich?"
+ jaegers6_desc:0"Ist es kalt draußen, oder bin das nur ich? \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
 
  jungletroops:0"Dschungel-Infanterie I"
- jungletroops_desc:0"Jäger sind Streitkräfte, die darauf spezialisiert sind, die Kälte und die Wildnis des borealen Waldes zu überleben. In der Regel sind diese Truppen in ihrem Territorium heimisch und brauchen länger für die Ausbildung.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten§!"
+ jungletroops_desc:0"Jäger sind Streitkräfte, die darauf spezialisiert sind, die Kälte und die Wildnis des borealen Waldes zu überleben. In der Regel sind diese Truppen in ihrem Territorium heimisch und brauchen länger für die Ausbildung.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  jungletroops2:0"Dschungel-Infanterie II"
- jungletroops2_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden."
+ jungletroops2_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden. \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  jungletroops3:0"Dschungel-Infanterie III"
- jungletroops3_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden."
+ jungletroops3_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden. \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  jungletroops4:0"Dschungel-Infanterie IV"
- jungletroops4_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden."
+ jungletroops4_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden. \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  jungletroops5:0"Dschungel-Infanterie V"
- jungletroops5_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden."
+ jungletroops5_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden. \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  jungletroops6:0"Dschungel-Infanterie VI"
- jungletroops6_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden."
+ jungletroops6_desc:0"Dschungelspezialisten werden ausgebildet, um den harten Bedingungen des Dschungelkrieges standzuhalten und mit dem häufigen Versorgungsengpass fertig zu werden. \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
 
  shocktroops:0"Stoßtruppen I"
  shocktroops_desc:0"Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Feindes schwer anzugreifen, um an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben im Vergleich zur regulären Infanterie einen höheren Durchbruch und härteren Angriff. Allerdings haben Stoßtruppen auch einen höheren Materialverbrauch und eine erhöhte Erholungszeit."
@@ -472,17 +473,17 @@ l_german:
  shocktroops6_desc:0"Stoßtruppen werden eingesetzt, um die Verteidigungslinien des Feindes schwer anzugreifen, um an bestimmten Stellen einen Durchbruch zu erzielen. Diese Einheiten haben im Vergleich zur regulären Infanterie einen höheren Durchbruch und härteren Angriff. Allerdings haben Stoßtruppen auch einen höheren Materialverbrauch und eine erhöhte Erholungszeit."
 
  desertinfantry_at:0"Wüsteninfanterie I"
- desertinfantry_at_desc:0"Die Kämpfe in den Wüstengebieten setzen die Truppen vielen Gefahren aus, die sich aber manchmal nicht vermeiden lassen. Indem wir unseren Soldaten eine spezielle Ausbildung für dieses Umfeld bieten, können wir diese Risiken minimieren.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten§!"
+ desertinfantry_at_desc:0"Die Kämpfe in den Wüstengebieten setzen die Truppen vielen Gefahren aus, die sich aber manchmal nicht vermeiden lassen. Indem wir unseren Soldaten eine spezielle Ausbildung für dieses Umfeld bieten, können wir diese Risiken minimieren.\n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  desertinfantry_at2:0"Wüsteninfanterie II"
- desertinfantry_at2_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen."
+ desertinfantry_at2_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen. \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  desertinfantry_at3:0"Wüsteninfanterie III"
- desertinfantry_at3_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen."
+ desertinfantry_at3_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen. \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  desertinfantry_at4:0"Wüsteninfanterie IV"
- desertinfantry_at4_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen."
+ desertinfantry_at4_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen. \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  desertinfantry_at5:0"Wüsteninfanterie V"
- desertinfantry_at5_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen."
+ desertinfantry_at5_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen. \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
  desertinfantry_at6:0"Wüsteninfanterie VI"
- desertinfantry_at6_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen."
+ desertinfantry_at6_desc:0"Die sandigen Berge der Wüste können für Ihre reguläre Infanterie tückisch sein. Um in dieser Umgebung zurechtzukommen, können Sie Wüsteninfanterie ausbilden, um in der Wüste die Oberhand zu gewinnen. \n \n§GDieser Einheitstyp zählt nicht zu den Spezialeinheiten sondern erfordert stattdessen 5 Unterstützungsausrüstungen pro Bataillon§!"
 
 
  tech_flamethrower:0"Flammenwerfer I"
