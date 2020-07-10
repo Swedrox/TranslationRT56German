@@ -1,0 +1,65 @@
+﻿l_german:
+
+#News
+r56.news_event.1.t:0 "Mussolini entmachtet"
+r56.news_event.1.desc:0 "Nach der Niederlage Italiens in Äthiopien und dem jüngsten Friedensabkommen zwischen der italienischen und äthiopischen Regierung haben sich in fast allen italienischen Großstädten  massive Proteste gebildet, die die Absetzung Mussolinis als Ministerpräsident Italiens forderten und auch zu Wahlen aufriefen. Victor Emanuel III. hat Mussolini als italienischen Premierminister abgesetzt und General Pietro Badoglio zum amtierenden Premierminister für den Notfall ernannt, was mit massiven sozialen Unruhen und der Möglichkeit massiver Unruhen einherging.  Später stürmte ein Mob in Rom das dortige Hauptquartier der faschistischen Partei und fand Mussolini an einer selbst zugefügten Schusswunde tot auf."
+r56.news_event.1.a:0 "Italienische militärische Inkompetenz schlägt wieder zu!"
+
+#1938 world cup
+r56.news_event.2.t:0 "1938 Fußballweltmeisterschaft"
+r56.news_event.2.desc:0 "Die Weltmeisterschaft fand vor kurzem in Frankreich statt. Dies war die dritte Ausgabe des Turniers. Fünfzehn Mannschaften nahmen an einem Turnier im Knock-Stil teil.\n \n \n [SWI.GetName] verärgerte [GER.GetName] in der ersten Runde, obwohl die [SWI.GetName] in der nächsten Runde durch die [HUN.GetName] ausgeschieden sind.  Das [HUN.GetAdjective]-Team schaffte es bis ins Finale, musste sich aber letztendlich [ITA.GetName] geschlagen geben.Dies ist der zweite Turniersieg von [ITA.GetName].\n \n Die Weltmeisterschaft war für viele eine angenehme Ablenkung, um sich von den Sturmwolken abzulenken, die sich über dem Globus bilden."
+r56.news_event.2.a:0 "Lasst es uns in vier Jahren wieder tun!"
+r56.news_event.2.b:0 "Ehre für alle [ITA.GetAdjective]en Helden"
+
+r56.news_event.3.t:0 "Albanien tritt der Komintern bei"
+r56.news_event.3.d:0 "Der Vorsitzende der Kommunistischen Partei Albaniens, Enver Hoxha, beschloss, einen Antrag auf Beitritt zur Komintern zu stellen. Die Sowjetunion akzeptierte den Antrag auf Mitgliedschaft Albaniens und das ehemalige Königreich Albanien ist nun Teil der Dritten Internationale. Da beide Länder die gleichen Ideen und Ambitionen teilen, scheint ihre Freundschaft solide zu sein, und Albanien sieht eine glänzende Zukunft für seinen Platz in Europa voraus."
+r56.news_event.3.a:0 "Ein weiterer Sieg für die kommunistischen Ideale!"
+#was news 336
+r56.news_event.4.t:0 "Albanien tritt der Achse bei!"
+r56.news_event.4.d:0 "Deutschland akzeptierte den Antrag Albaniens auf Beitritt zur Achse. Sie stehen nun gemeinsam gegen den Kommunismus und die demokratischen Nationen. König Zog brachte den Willen zum Ausdruck, der ganzen Welt die Macht seines Landes zu zeigen. Das Vereinigte Königreich und Frankreich äußerten sich besorgt über den Aufstieg des Faschismus in Europa, und sie werden an die deutschen Beamten an die Regeln des Versailler Vertrags erinnert, die Deutschland respektieren muss. Es scheint, dass die Demokratien des Westens nicht gegen Deutschland und Albanien zu reagieren scheinen."
+r56.news_event.4.a:0 "Jetoni Shqipërinë!"
+
+#Mythical Event, Prob would had been held in South America due to FIFA internal politics.
+#1942 world cup
+r56.news_event.6.t:0 "1942 Fußballweltmeisterschaft"
+r56.news_event.6.desc:0 "Die Weltmeisterschaft fand kürzlich in [URG.GetName] statt. Dies war die vierte Auflage des Turniers. Sechzehn Mannschaften nahmen an einem Turnier im Knock-Style teil. \n \n Die zurückkehrenden Champions [ITA.GetName] wurden in der zweiten Runde vom Gastgeber besiegt. Der Lauf der Gastgeber endete jedoch im Halbfinale, da sie von [GER.GetName] geschlagen wurden. Das Team von [GER.GetAdjective] würde im Finale durch einen Sieg gegen [BRA.GetName] in einem spannungsgeladenen Spiel den Sieg erringen. Es war das erste Mal, dass [GER.GetName] das Turnier gewann.\n \n \n Die Weltmeisterschaft war für viele eine angenehme Ablenkung. Sie lenkte die Gemüter von der angespannten politischen Situation ab, die sich auf der ganzen Welt entwickelte."
+r56.news_event.6.a:0 "Lasst es uns in vier Jahren wieder tun!"
+r56.news_event.6.b:0 "Ehre für alle [GER.GetAdjective]e"
+
+#Brazil took imperialism
+r56.news_event.7.t:0 "[BRA.Getleader] übernimmt die Macht in Brasilien"
+r56.news_event.7.d:0 "Nachrichten heute Morgen, die weite Teile Lateinamerikas schockierten, als D. Pedro III. die Kontrolle über die brasilianische Regierung und das Militär übernahm. Die plötzliche Wende in der Regierungsführung kam für viele internationale Beobachter und sogar für einige brasilianische Bürger überraschend. Obwohl viele innerhalb der brasilianischen Politik sagten, dass ein solcher Wechsel angesichts der internen Kämpfe, die das Land in den letzten zehn Jahren durchlebt hat, zu erwarten sei, weiß niemand, wohin diese neue Regierung gehen wird. Viele vermuten jedoch, dass sie eine sofortige Expansion anstreben wird."
+r56.news_event.7.a:0 "Beunruhigende Entwicklung"
+r56.news_event.7.b:0 "Ordnung und Fortschritt!"
+
+#Pargauy coup
+r56.news_event.8.t:0 "Militärputsch in Paraguay"
+r56.news_event.8.d:0 "Nach dem letztjährigen Chaco-Krieg, den Paraguay für sich entscheiden konnte, behielt die Regierung Paraguays weiterhin die schwache Führung von Eusebio Ayala, aber [PAR.Getleader] hat nach einer Zeit im Exil einen Staatsstreich inszeniert. [PAR.Getleader] hat schnell ein viel stabileres Militärregime errichtet. Die paraguayische Regierung wird sich nach der Absetzung vieler Ayala-Loyalisten höchstwahrscheinlich nun umorganisieren müssen."
+r56.news_event.8.a:0 "Interessante Entwicklung"
+r56.news_event.8.b:0 "Es musste getan werden"
+
+
+#Pargauy civil war
+r56.news_event.9.t:0 "Bürgerkrieg in Paraguay"
+r56.news_event.9.d:0 "Nach dem letztjährigen Chaco-Krieg, den Paraguay gewinnen konnte, behielt die Regierung Paraguays noch immer die schwache Führung von Eusebio Ayala, aber Oberst Rafael Franco hat versucht, einen Staatsstreich zu orchestrieren, nachdem er einige Zeit im Exil außerhalb des Landes verbracht hatte. Der Staatsstreich war ein Versuch, ein viel stärkeres Militärregime zu errichten. Obwohl der Staatsstreich nicht wie geplant ablief, wurde Eusebio Ayala auf den möglichen Putschversuch aufmerksam gemacht und hat andere politische Parteien zur Bewaffnung gegen das Militär mobilisiert. \n\n\n Es scheint, dass dieser politische Streit nur mit Blut beigelegt werden kann"
+r56.news_event.9.a:0 "Lässt auf ein schnelles Ende hoffen."
+r56.news_event.9.b:0 "Wir werden siegen!"
+
+#Generic tree warns neighbor of expansive policy
+r56.news_event.10.t:0 "[From.Getname] proklamiert Expansionspolitik"
+r56.news_event.10.d:0 "\nHeute in der Hauptstadt von [From.Getname]. [From.Getleader] sagte den Menschen seiner Nation, dass sie über ihre Grenzen hinaus nach Ruhm und Glück blicken müssen. Dass sie die Grenzen erweitern müssen, die das Land gegenwärtig hemmt. [From.Getleader] erwähnte auch viele der wahrgenommenen Übertretungen, die [Root.Getname] gegen [From.Getname] begangen hat. Ob es sich dabei jedoch nur um harte Worte handelt oder ob sich solche Ambitionen in einem Konflikt materialisieren werden, bleibt abzuwarten. Die Nachbarn von [From.Getname] sind jedoch besorgt über einen möglichen Konflikt in der Region. Viele hoffen auf eine diplomatische Lösung für [From.Getname]'s Probleme mit seinen Nachbarn."
+r56.news_event.10.a:0 "Beunruhigend, gelinde gesagt."
+
+#Hondrous going fascist
+r56.news_event.11.t:0 "Übernahme der United Fruit Company in Honduras"
+r56.news_event.11.d:0 "Die United Fruit Company ist seit 1899 in Honduras tätig, als sie sieben lokale Bananenproduzenten erwarb und mit dem Export von Bananen nach New Orleans begann. Seitdem hat sich die United Fruit Company zunehmend in die honduranische Politik eingemischt, obwohl dieser jüngste Schritt des Unternehmens eine Eskalation ihres Engagements im Land darstellt. Es scheint, dass die United Fruit Company das kleine lateinamerikanische Land vollständig übernommen hat.\n\n\nWas dies für den Rest Mittelamerikas bedeutet, weiß niemand."
+r56.news_event.11.a:0 "Das bedeutet Ärger"
+r56.news_event.11.b:0 "Wenigstens werden Bananen billig sein"
+r56.news_event.11.c:0 "Es ist einfach nur ein Geschäft."
+
+#Hondrous going ancap
+r56.news_event.12.t:0 "'Freihandelszone' gegründet in Zentralamerika."
+r56.news_event.12.d:0 "\nSeit der Übernahme von Hondras durch die United Fruit Companies verlief das Geschäft für das Unternehmen von Samuel Zemurray gut. Obwohl es unter der Oberfläche scheint, gab es eine Unzufriedenheit über die Rücksichtslosigkeit des Geschäftsmannes und die vollständige Kontrolle des Staatsunternehmens. Seit heute Morgen hat eine Gruppe von mächtigen, breiten Mitgliedern der United Fruit Company Zemurray in einem Staatsstreich gestürzt. Sie haben schnell eine neue Regierung eingesetzt, die nach ihren Worten das "ideale" Umfeld für Unternehmen haben wird. Die Putschisten haben privaten Unternehmen die vollständige Kontrolle über die tägliche Arbeit im Land überlassen. Der erste radikale Schritt, den sie unternommen haben, um dieses Ziel zu erreichen, war die Privatisierung der Armee und der Strafverfolgungsbehörden unter konkurrierenden Agenturen für Restitutionstransfer und Rückerstattung."
+r56.news_event.12.a:0 "Ein interessantes Experiment."
+r56.news_event.12.b:0 "Befreie den Markt, befreie das Volk!"
+r56.news_event.12.c:0 "Ein ekelhaftes Gebilde"

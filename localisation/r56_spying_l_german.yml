@@ -1,0 +1,23 @@
+﻿l_german:
+
+r56_spying_event.1.t:0 "Ausländische Agenten schließen sich uns an"
+r56_spying_event.1.desc:0 "Wenn Regierungen fallen, bleiben Spione. Da sie bereit sind, derselben Sache zu dienen, haben sie beschlossen, sich uns anzuschließen und sind nun bereit, für uns zu spionieren."
+r56_spying_event.1.a:0 "Ein weiterer Tag im Schatten."
+
+r56_spying_event.2.t:0 "Die [ROOT.GetAgency] empfiehlt einen ungewöhnlichen Rekruten"
+r56_spying_event.2.desc:0 "\nUnser Geheimdienst hat eine potenzielle Wiederaufnahme eines Interessanten Rekruten. Er ist zwar nicht besonders geschickt, aber sein Hintergrund könnte ihn zu einem wertvollen Aktivposten machen. Er diente als Offizier in der österreichisch-ungarischen Armee, arbeitete in den 1920er und frühen 1930er Jahren in Brasilien, bevor er nach Deutschland zurückkehrte."
+r56_spying_event.2.a:0 "Stellen Sie ihn ein."
+r56_spying_event.2.b:0 "Ein qualifizierter Rekrut wäre vorzuziehen."
+
+r56_spying_event.3.t:0 "Semen Semenov absolvierte sein Studium am MIT"
+r56_spying_event.3.desc:0 "Nach Jahren des Studiums in den Vereinigten Staaten wurde Agent Semenov zu einem "Biber", indem er am MIT graduierte (dies ist der Spitzname, den sie ihren ehemaligen Studenten gaben). Er ist nun bereit, im Land als Ingenieur zu arbeiten. Er nutzte seine Studien, um Kontakte zu wissenschaftlichen Kreisen zu knüpfen und sollte in der Lage sein, sich mit den neuesten amerikanischen Innovationen zu befassen."
+r56_spying_event.3.a:0 "Ausgezeichneter Tovaritch!"
+
+r56_spying_event.4.t:0 "Ilie Cătărău kehrt zurück."
+r56_spying_event.4.desc:0 "Nachdem er jahrelang durch die Welt gewandert war und nach eigenen Angaben auch König eines polynesischen Stammes wurde, kehrte Ilie Cătărău in das Land zurück. Er war bereits 1914 bei einigen Operationen in Ungarn aktiv und weigerte sich, Moldawien Treue zu schwören, als es seine Unabhängigkeit erklärte. Dieser Mann mit einem sehr ereignisreichen Leben hat seiner komplizierten Biographie vielleicht noch weitere Bände hinzuzufügen..."
+r56_spying_event.4.a:0 "Ausgezeichnet!"
+
+r56_spying_event.5.t:0 "Kommunistische Agenten rekrutiert"
+r56_spying_event.5.desc:0 "Der Sache der Revolution treu ergeben, sind neue Rekruten bereit, im Schatten zu dienen."
+r56_spying_event.6.t:0 "Kommunistische Agenten rekrutiert"
+r56_spying_event.6.desc:0 "Der Sache der Revolution treu ergeben, sind neue Rekruten bereit, im Schatten zu dienen."
