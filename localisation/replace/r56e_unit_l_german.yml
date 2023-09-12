@@ -1,5 +1,7 @@
 ﻿l_german:
 category_light_armor:0 "Leichte gepanzerte Fahrzeuge & Varianten"
+category_flying_boat:0 "Seefernaufklärer"
+category_medium_maritime:0 "Mittelschwere Seebomber"
 militia:0 "Milizen"
 militia_desc:0 "Milizen sind informelle Bodentruppen, die ohne die Anforderungen einer traditionellen Armeeeinheit in aller Eile eingesetzt werden können. Milizpersonal benötigt weder die umfangreiche Ausbildung noch die große Menge an Ausrüstung, die ein formelles Infanteriebataillon benötigt. Obwohl man sagen muss, dass sie kein Ersatz für eine traditionelle Infanterie sind, wenn es um die Effektivität im Kampf geht."
 r56_allow_militia_formation:0 "Formalisierung der Milizausbildung"

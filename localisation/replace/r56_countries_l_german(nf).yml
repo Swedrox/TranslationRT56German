@@ -1,5 +1,27 @@
 ﻿l_german:
 
+ #ARM
+ ARM_fascism:0 "Vereinigte Republik Armenien"
+ ARM_fascism_DEF:0 "die Vereinigte Republik Armenien"
+ ARM_neutrality:0 "Königreich Armenien"
+ ARM_neutrality_DEF:0 "das Königreich Armenien"
+ ARM_communism:1 "Armenische Sozialistische Sowjetrepublik"
+ ARM_communism_DEF:1 "die Armenische Sozialistische Sowjetrepublik"
+
+ #ALB
+ ALB_fascism:0 "Großkönigreich Albanien"
+ ALB_fascism_DEF:0 "das Großkönigreich Albanien"
+ ALB_neutrality:0 "Königreich von Albanien"
+ ALB_neutrality_DEF:0 "das Königreich von Albanien"
+ ALB_communism:0 "Sozialistische Volksrepublik Albanien"
+ ALB_communism_DEF:0 "die Sozialistische Volksrepublik Albanien"
+
+ #AFG
+ AFG_fascism:0 "Khanat Afghanistan"
+ AFG_fascism_DEF:0 "das Khanat Afghanistan"
+ AFG_neutrality:0 "Königreich von Afghanistan"
+ AFG_neutrality_DEF:0 "das Königreich von Afghanistan"
+
  #AHV
  AHV_democratic:0 "Ålandinseln"
  AHV_democratic_DEF:0 "Die Ålandinseln"
@@ -84,35 +106,103 @@
  AUS_democratic_ADJ:0 "Österreichisch"
  AUS_communism_ADJ:0 "Österreichisch"
 
+ #AZR
+ AZR_fascism:0 "Reich des ewigen Feuers"
+ AZR_fascism_DEF:0 "das Reich des ewigen Feuers"
+ AZR_neutrality:0 "Aserbaidschanische Demokratische Republik"
+ AZR_neutrality_DEF:0 "die Aserbaidschanische Demokratische Republik"
+ AZR_communism:1 "Aserbaidschanische Sozialistische Sowjetrepublik"
+ AZR_communism_DEF:1 "die Aserbaidschanische Sozialistische Sowjetrepublik"
+
+ #ADU
+ ADU_fascism:0 "Caliphate of Córdoba"
+ ADU_fascism_DEF:0 "the Caliphate of Córdoba"
+ ADU_democratic:0 "Republic of Andalusia"
+ ADU_democratic_DEF:0 "the Republic of Andalusia"
+ ADU_neutrality:0 "Caliphate of Córdoba"
+ ADU_neutrality_DEF:0 "the Caliphate of Córdoba"
+ ADU_communism:0 "People's Republic of Andalusia"
+ ADU_communism_DEF:0 "the Andalusian People's Republic"
+ ADU_fascism_ADJ:0 "Córdoban"
+ ADU_democratic_ADJ:0 "Andalusian"
+ ADU_neutrality_ADJ:0 "Córdoban"
+ ADU_communism_ADJ:0 "Andalusian"
+
  #BAV
  BAV_communism:0 "Bayerische Räterepublik"
- BAV_democratic:0 "Freistaat Bayern"
- BAV_neutrality:0 "Königreich Bayern"
- BAV_fascism:0 "Bayern"
  BAV_communism_DEF:0 "Die Bayerische Räterepublik"
+ BAY_fascism:0 "Königreich Bayern"
+ BAY_fascism_DEF:0 "das Königreich Bayern"
+ BAV_democratic:0 "Freistaat Bayern"
  BAV_democratic_DEF:0 "Der Freistaat Bayern"
- BAV_neutrality_DEF:0 "Königreich Bayern"
- BAV_fascism:0 "Bayern"
- BAV_fascism_DEF:0 "Bayern"
+ BAV_neutrality:0 "Königreich Bayern"
+ BAV_neutrality_DEF:0 "das Königreich Bayern"
+ BAY_communism_ADJ:0 "Bayerisch"
+ BAY_fascism_ADJ:0 "Bayerisch"
+ BAY_democratic_ADJ:0 "Bayerisch"
  BAV_neutrality_ADJ:0 "Bayerisch"
 
+ #BAD
+ BAD_communism:0 "Badische Räterepublik"
+ BAD_communism_DEF:0 "die Badische Räterepublik"
+ BAD_fascism:0 "Freistaat Baden"
+ BAD_fascism_DEF:0 "der Freistaat Baden"
+ BAD_democratic:0 "Republik Baden"
+ BAD_democratic_DEF:0 "die Republik Baden"
+ BAD_neutrality:0 "Großherzogtum Baden"
+ BAD_neutrality_DEF:0 "das Großherzogtum Baden"
+ BAD_communism_ADJ:0 "badisch"
+ BAD_fascism_ADJ:0 "badisch"
+ BAD_democratic_ADJ:0 "badisch"
+ BAD_neutrality_ADJ:0 "badisch"
+
  #BAH
- BAH_fascism:0 "Bahamas"
- BAH_fascism_DEF:0 "Bahamas"
- BAH_democratic:0 "Bahamas"
+ BAH_fascism:0 "Staatenbund der Bahamas"
+ BAH_fascism_DEF:0 "der Staatenbund der Bahamas"
+ BAH_democratic:0 "Bahamische Republik"
  BAH_democratic_DEF:0 "Die Bahamische Republik"
  BAH_communism:0 "Sozialistische Republik Bahamas"
  BAH_communism_DEF:0 "Die Sozialistische Republik Bahamas"
- BAH_neutrality:0 "Bahamas"
- BAH_neutrality_DEF:0 "Bahamas"
+ BAH_neutrality:0 "Staatenbund der Bahamas"
+ BAH_neutrality_DEF:0 "der Staatenbund der Bahamas"
  BAH_fascism_ADJ:0 "Bahamian"
  BAH_democratic_ADJ:0 "Bahamisch"
  BAH_neutrality_ADJ:0 "Bahamisch"
  BAH_communism_ADJ:0 "Bahamisch"
 
+ #BAN
+ BAN_fascism:1 "Bundesstaat Bangladesch"
+ BAN_fascism_DEF:1 "der Bundesstaat Bangladesch"
+ BAN_democratic:0 "Republik Bangladesch"
+ BAN_democratic_DEF:0 "die Republik Bangladesch"
+ BAN_communism:1 "Volksrepublik Bangladesch"
+ BAN_communism_DEF:1 "die Volksrepublik Bangladesch"
+ BAN_fascism_ADJ:1 "bangladeschisch"
+ BAN_communism_ADJ:1 "bangladeschisch"
+
+  #BAS
+  BAS_fascism:1 "Freistaaten der Antillen"
+  BAS_fascism_DEF:1 "the Freistaaten der Antillen"
+  BAS_democratic:1 "Republik Antillen"
+  BAS_democratic_DEF:1 "the Republik Antillen"
+  BAS_neutrality:1 "Antillen-Föderation"
+  BAS_neutrality_DEF:1 "the Antillen-Föderation"
+  BAS_communism:1 "Antillean Commune"
+  BAS_communism_DEF:1 "the Antillean Commune"
+  BAS_fascism_ADJ:1 "Antillean"
+  BAS_democratic_ADJ:0 "Antillean"
+  BAS_neutrality_ADJ:0 "Antillean"
+  BAS_communism_ADJ:0 "Antillean"
+
  #BEL
  BEL_communism:0 "Belgische Volksrepublik"
  BEL_communism_DEF:0 "Die belische Volksrepublik"
+ BEL_fascism:0 "Königreich Belgien"
+ BEL_fascism_DEF:0 "das Königreich Belgien"
+ BEL_democratic:0 "Königreich Belgien"
+ BEL_democratic_DEF:0 "das Königreich Belgien"
+ BEL_neutrality:0 "Königreich Belgien"
+ BEL_neutrality_DEF:0 "das Königreich Belgien"
 
  #BLZ
  BLZ_fascism:0 "Belize"
@@ -127,6 +217,43 @@
  BLZ_democratic_ADJ:0 "Belizianisch"
  BLZ_neutrality_ADJ:0 "Belizianisch"
  BLZ_communism_ADJ:0 "Belizianisch"
+
+ #BLR
+ BLR_fascism:0 "Weißrussische Volksrepublik"
+ BLR_fascism_DEF:0 "die Weißrussische Volksrepublik"
+ BLR_democratic:0 "Weißrussische Volksrepublik"
+ BLR_democratic_DEF:0 "die Weißrussische Volksrepublik"
+ BLR_neutrality:0 "Weißrussische Volksrepublik"
+ BLR_neutrality_DEF:0 "die Weißrussische Volksrepublik"
+ BLR_communism:1 "Weißrussische Sozialistische Sowjetrepublik"
+ BLR_communism_DEF:0 "die Weißrussische Sozialistische Sowjetrepublik"
+ BLR_communism_ADJ:0 "weißrussisch"
+
+ #BRD
+ BRD_fascism:1 "Republik Burundi"
+ BRD_fascism_DEF:1 "die Republik Burundi"
+ BRD_democratic:0 "Republik Burundi"
+ BRD_democratic_DEF:0 "die Republik Burundi"
+ BRD_neutrality:1 "Republik Burundi"
+ BRD_neutrality_DEF:1 "die Republik Burundi"
+ BRD_fascism_ADJ:0 "burundisch"
+ BRD_democratic_ADJ:0 "burundisch"
+ BRD_neutrality_ADJ:0 "burundisch"
+ BRD_communism_ADJ:0 "burundisch"
+ BRD_ADJ:0 "burundisch"
+
+ #BRM
+ BRM_democratic:0 "Union von Burma"
+ BRM_democratic_DEF:0 "die Union von Burma"
+ BRM_neutrality:1 "Königreich Burma"
+ BRM_neutrality_DEF:1 "das Königreich Burma"
+ BRM_neutrality_ADJ:1 "burmesisch"
+
+ #BRI
+ BRI_neutrality:0 "Freie Bretonische Republik"
+ BRI_neutrality_DEF:0 "die Freie Bretonische Republik"
+ BRI_fascism:0 "Keltische Nation der Bretagne"
+ BRI_fascism_DEF:0 "die Keltische Nation der Bretagne"
 
  #BOL
  BOL_fascism:0 "Falangistisches Bolivien"
@@ -156,6 +283,18 @@
  BOT_neutrality_ADJ:0 "Botswananisch"
  BOT_communism_ADJ:0 "Botswananisch"
 
+ #BOS
+ BOS_fascism:1 "Islamischer Staat von Bosnien"
+ BOS_fascism_DEF:1 "der Islamischer Staat von Bosnien"
+ BOS_democratic:1 "Bosnien-Herzegowina"
+ BOS_democratic_DEF:1 "Bosnien-Herzegowina"
+ BOS_neutrality:0 "Königreich Bosnien"
+ BOS_neutrality_DEF:0 "das Königreich Bosnien"
+ BOS_communism:1 "Sozialistische Republik Bosnien und Herzegowina"
+ BOS_communism_DEF:1 "die Sozialistische Republik Bosnien und Herzegowina"
+ BOS_democratic_ADJ:0 "Bosnisch-Herzegowinisch"
+ BOS_communism_ADJ:0 "Bosnisch-Herzegowinisch"
+
  #BRA
  BRA_fascism:0 "Föderative Republik Brasilien"
  BRA_fascism_DEF:0 "Die Föderative Republik Brasilien"
@@ -173,26 +312,83 @@
  BUL_democratic_DEF:0 "Das Zarentum Bulgarien"
  BUL_fascism:0 "Zarentum Bulgarien"
  BUL_fascism_DEF:0 "Das Zarentum Bulgarien"
+ BUL_communism:0 "Volksrepublik Bulgarien"
+ BUL_communism_DEF:0 "die Volksrepublik Bulgarien"
+
+ #BUR
+ BUR_communism:0 "Burjatisch-Mongolische Sozialistische Sowjetrepublik"
+ BUR_communism_DEF:0 "die Burjatisch-Mongolische Sozialistische Sowjetrepublik"
+ BUR_fascism:0 "Burjatisch-Mongolischer Staat"
+ BUR_fascism_DEF:0 "der Burjatisch-Mongolischer Staat"
+ BUR_democratic:0 "Republik Burjat-Mongolei"
+ BUR_democratic_DEF:0 "die Republik Burjat-Mongolei"
+ BUR_neutrality:0 "Burjatisch-Mongolischer Staat"
+ BUR_neutrality_DEF:0 "der Burjatisch-Mongolischer Staat"
+ BUR_communism_ADJ:0 "Burjatisch-Mongolisch"
+ BUR_fascism_ADJ:0 "Burjatisch-Mongolisch"
+ BUR_democratic_ADJ:0 "Burjatisch-Mongolisch"
+ BUR_neutrality_ADJ:0 "Burjatisch-Mongolisch"
+
+ #BHU
+ BHU_fascism:0 "Dug Yul"
+ BHU_fascism_DEF:0 "Dug Yul"
+ BHU_neutrality:0 "Königreich Bhutan"
+ BHU_neutrality_DEF:0 "das Königreich Bhutan"
+ BHU_democratic:0 "Königreich Bhutan"
+ BHU_democratic_DEF:0 "das Königreich Bhutan"
+ BHU_communism:0 "Union des Roten Drachen"
+ BHU_communism_DEF:0 "die Union des Roten Drachen"
+ BHU_fascism_ADJ:0 "dugisch"
 
  #CAR
- CAR_fascism:0 "Königreich Afrika"
- CAR_fascism_DEF:0 "Das Königreich Afrika"
+ CAR_fascism:0 "Zentralafrikanisches Reich"
+ CAR_fascism_DEF:0 "Das Zentralafrikanisches Reich"
  CAR_democratic:0 "Zentralafrikanische Republik"
  CAR_democratic_DEF:0 "Zentralafrikanische Republik"
  CAR_neutrality:0 "Zentralafrikanische Republik"
  CAR_neutrality_DEF:0 "Zentralafrikanische Republik"
- CAR_communism:0 "Sozialistische Republik Afrika"
- CAR_communism_DEF:0 "Die Sozialistische Republik Afrika"
- CAR_fascism_ADJ:0 "Afrikaner"
- CAR_democratic_ADJ:0 "Afrikaner"
- CAR_neutrality_ADJ:0 "Afrikaner"
- CAR_communism_ADJ:0 "Afrikaner"
+ CAR_communism:0 "Sozialistische Republik Zentralafrika"
+ CAR_communism_DEF:0 "Die Sozialistische Republik Zentralafrika"
+ CAR_fascism_ADJ:0 "zentralafrikanisch"
+ CAR_democratic_ADJ:0 "zentralafrikanisch"
+ CAR_neutrality_ADJ:0 "zentralafrikanisch"
+ CAR_communism_ADJ:0 "zentralafrikanisch"
+
+ #CAT
+ CAT_democratic:0 "Freie Katalanische Republik"
+ CAT_democratic_DEF:0 "the Freie Katalanische Republik"
+ CAT_neutrality:0 "Republik Katalonien"
+ CAT_neutrality_DEF:0 "die Republik Katalonien"
+ CAT_communism:0 "Katalanische Volksrepublik"
+ CAT_communism_DEF:0 "die Katalanische Volksrepublik"
+ CAT_democratic:0 "Republik Katalonien"
+ CAT_democratic_DEF:0 "die Republik Katalonien"
+
+ #CAM
+ CAM_fascism:0 "Khmer-Reich"
+ CAM_fascism_DEF:0 "das Khmer-Reich"
+ CAM_fascism_ADJ:0 "Khmer"
+
+ #CAN
+ CAN_fascism:0 "United Canadian Federation"
+ CAN_fascism_DEF:0 "the United Canadian Federation"
+ CAN_neutrality:0 "Canada"
+ CAN_neutrality_DEF:0 "Canada"
+ CAN_communism:0 "Canadian Popular State"
+ CAN_communism_DEF:0 "the Canadian Popular State"
+
+ #CAY
+ CAY_neutrality:0 "Republic of Cayenne"
+ CAY_neutrality_DEF:0 "the Republic of Cayenne"
+ CAY_communism:1 "Socialist Republic of Cayenne"
+ CAY_communism_DEF:1 "the Socialist Republic of Cayenne"
+ CAY_communism_ADJ:1 "Cayenne"
 
  #CDI
- CDI_neutrality:0 "Elfenbeinküste "
- CDI_neutrality_DEF:0 "Elfenbeinküste "
- CDI_democratic:0 "Elfenbeinküste "
- CDI_democratic_DEF:0 "Elfenbeinküste "
+ CDI_neutrality:0 "Elfenbeinküste"
+ CDI_neutrality_DEF:0 "Elfenbeinküste"
+ CDI_democratic:0 "Elfenbeinküste"
+ CDI_democratic_DEF:0 "Elfenbeinküste"
  CDI_fascism:0 "Elfenbeinreich"
  CDI_fascism_DEF:0 "Das Elfenbeinreich"
  CDI_communism:0 "Sozialistische Republik Elfenbeinküste"
@@ -216,33 +412,11 @@
  CHD_democratic_ADJ:0 "Tschader"
  CHD_neutrality_ADJ:0 "Tschader"
 
- #CHL
- CHL_fascism:0 "Avantgarde Chile"
- CHL_fascism_DEF:0 "Avantgarde Chile"
- CHL_democratic:0 "Republik Chile"
- CHL_democratic_DEF:0 "Republik Chile"
- CHL_neutrality:0 "Chile"
- CHL_neutrality_DEF:0 "Chile"
- CHL_communism:0 "Sozialistische Republik Chile"
- CHL_communism_DEF:0 "Das Sozialistische Republik Chile"
- CHL_fascism_ADJ:0 "Chilenisch"
- CHL_democratic_ADJ:0 "Chilenisch"
- CHL_neutrality_ADJ:0 "Chilenisch"
- CHL_communism_ADJ:0 "Chilenisch"
-
- #CMR
- CMR_neutrality:0 "Kamerun"
- CMR_neutrality_DEF:0 "Kamerun"
- CMR_democratic:0 "Kamerun"
- CMR_democratic_DEF:0 "Kamerun"
- CMR_fascism:0 "Bornu-Imperium"
- CMR_fascism_DEF:0 "Das Bornu-Imperium"
- CMR_communism:0 "Union der Völker Kameruns"
- CMR_communism_DEF:0 "Sozialistisches Bantu"
- CMR_communism_ADJ:0 "Bantunisch"
- CMR_fascism_ADJ:0 "Bornuianisch"
- CMR_democratic_ADJ:0 "Kamerunisch"
- CMR_neutrality_ADJ:0 "Kamerunisch"
+ #COR
+ COR_fascism:0 "Korsische Bruderschaft"
+ COR_fascism_DEF:0 "die Korsische Bruderschaft"
+ COR_communism:0 "Revolutionsrepublik Korsika"
+ COR_communism_DEF:0 "die Revolutionsrepublik Korsika"
 
  #COG
  COG_fascism:0 "Freistaat Kongo"
@@ -258,9 +432,82 @@
  COG_neutrality_ADJ:0 "Kongolesisch"
  COG_communism_ADJ:0 "Kongolesisch"
 
+ #CHI
+ CHI_fascism:0 "Republik China"
+ CHI_fascism_DEF:0 "die Republik China"
+ CHI_neutrality:0 "Republik China"
+ CHI_neutrality_DEF:0 "die Republik China"
+
+ #CHL
+ CHL_fascism:0 "Avantgarde Chile"
+ CHL_fascism_DEF:0 "Avantgarde Chile"
+ CHL_democratic:0 "Republik Chile"
+ CHL_democratic_DEF:0 "Republik Chile"
+ CHL_neutrality:0 "Chile"
+ CHL_neutrality_DEF:0 "Chile"
+ CHL_communism:0 "Sozialistische Republik Chile"
+ CHL_communism_DEF:0 "Das Sozialistische Republik Chile"
+ CHL_fascism_ADJ:0 "Chilenisch"
+ CHL_democratic_ADJ:0 "Chilenisch"
+ CHL_neutrality_ADJ:0 "Chilenisch"
+ CHL_communism_ADJ:0 "Chilenisch"
+
+ #CRC
+ CRC_fascism:1 "Union der Leeward-Antillen"
+ CRC_fascism_DEF:1 "die Union der Leeward-Antillen"
+ CRC_democratic:2 "Leeward Konföderation"
+ CRC_democratic_DEF:2 "die Leeward Konföderation"
+ CRC_neutrality:3 "ABC Republik"
+ CRC_neutrality_DEF:3 "die ABC Republik"
+ CRC_fascism_ADJ:1 "leewardisch"
+ CRC_democratic_ADJ:2 "leewardisch"
+ CRC_neutrality_ADJ:3 "ABC"
+
+ #CRO
+ CRO_communism:0 "Sozialistische Republik Kroatien"
+ CRO_communism_DEF:0 "die Sozialistische Republik Kroatien"
+
+ #CRI
+ CRI_fascism:0 "Krimstaat"
+ CRI_fascism_DEF:0 "der Krimstaat"
+ CRI_neutrality:0 "Regionalregierung der Krim"
+ CRI_neutrality_DEF:0 "die Regionalregierung der Krim"
+ CRI_democratic:0 "Republik Krim"
+ CRI_democratic_DEF:0 "die Republik Krim"
+ CRI_communism:0 "Sozialistische Sowjetrepublik Krim"
+ CRI_communism_DEF:0 "die Sozialistische Sowjetrepublik Krim"
+ CRI_fascism_ADJ:0 "krimisch"
+ CRI_communism_ADJ:0 "krimisch"
+ CRI_democratic_ADJ:0 "krimisch"
+ CRI_neutrality_ADJ:0 "krimisch"
+
+ #CUB
+ CUB_fascism:0 "Nationalstaat Kuba"
+ CUB_fascism_DEF:0 "the Nationalstaat Kuba"
+ CUB_democratic:0 "Republik Kuba"
+ CUB_democratic_DEF:0 "die Republik Kuba"
+ CUB_neutrality:0 "Republik Kuba"
+ CUB_neutrality_DEF:0 "die Republik Kuba"
+ CUB_communism:0 "Republik Kuba"
+ CUB_communism_DEF:0 "die Republik Kuba"
+
+ #CMR
+ CMR_neutrality:0 "Kamerun"
+ CMR_neutrality_DEF:0 "Kamerun"
+ CMR_democratic:0 "Kamerun"
+ CMR_democratic_DEF:0 "Kamerun"
+ CMR_fascism:0 "Bornu-Imperium"
+ CMR_fascism_DEF:0 "Das Bornu-Imperium"
+ CMR_communism:0 "Union der Völker Kameruns"
+ CMR_communism_DEF:0 "Sozialistisches Bantu"
+ CMR_communism_ADJ:0 "Bantunisch"
+ CMR_fascism_ADJ:0 "Bornuianisch"
+ CMR_democratic_ADJ:0 "Kamerunisch"
+ CMR_neutrality_ADJ:0 "Kamerunisch"
+
  #COL
- COL_fascism:0 "Neues Großkolumbien"
- COL_fascism_DEF:0 "Neues Großkolumbien"
+ COL_fascism:0 "Großkolumbien"
+ COL_fascism_DEF:0 "das Großkolumbien"
  COL_democratic:0 "Kolumbien"
  COL_democratic_DEF:0 "Kolumbien"
  COL_neutrality:0 "Neue Konstitution"
@@ -272,11 +519,29 @@
  COL_neutrality_ADJ:0 "Kolumbianisch"
  COL_communism_ADJ:0 "Kolumbianisch"
 
+ #COS
+ COS_democratic:0 "Republik Costa Rica"
+ COS_democratic_DEF:0 "die Republik Costa Rica"
+ COS_fascism:0 "Republik Costa Potente"
+ COS_fascism_DEF:0 "die Republik Costa Potente"
+
  #CZE
  CZE_communism:0 "Tschechoslowakische Sozialistische Republik"
- CZE_communism_DEF:0 "Die Tschechoslowakische Sozialistische Republik"
- CZE_fascism:0 "Tschechoslowakischer Staat"
- CZE_fascism_DEF:0 "Der Tschechoslowakischer Staat"
+ CZE_communism_DEF:0 "die Tschechoslowakische Sozialistische Republik"
+ CZE_fascism:0 "Tschecho-Slowakischer Staat"
+ CZE_fascism_DEF:0 "der Tschecho-Slowakischer Staat"
+ CZE_democratic:0 "Tschechoslowakische Republik"
+ CZE_democratic_DEF:0 "die Tschechoslowakische Republik"
+ CZE_neutrality:0 "Königreich Böhmen-Slowakei"
+ CZE_neutrality_DEF:0 "das Königreich Böhmen-Slowakei"
+
+ #CYP
+ CYP_fascism:1 "Hellenisches Königreich von Zypern"
+ CYP_fascism_DEF:1 "das Hellenisches Königreich von Zypern"
+ CYP_democratic:1 "Republik Zypern"
+ CYP_democratic_DEF:1 "die Republik Zypern"
+ CYP_communism:1 "Zypriotische Volksrepublik"
+ CYP_communism_DEF:1 "die Zypriotische Volksrepublik"
 
  #DEN
  DEN_fascism:0 "Dänisches Kaiserreich"

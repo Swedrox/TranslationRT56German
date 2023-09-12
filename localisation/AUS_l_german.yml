@@ -1,0 +1,1309 @@
+﻿l_german:
+
+ #POLITICS
+ AUS_fascism_ideology_desc:0 "§YAustrofaschismus§! ist das autoritäre System, das in Österreich mit der Mai-Verfassung von 1934 installiert wurde. Es basiert auf einer Regierungspartei, der §YVaterlandsfront§! und der §YHeimwehr§!  paramilitärischen Milizen und bekennt sich zum §Stattkatholizismus§!, §Korporatismus§! und §Österreichischen Nationalismus§!"
+
+ #FOCUS
+ AUS_subsidize_STRABAG_construction:0 "STRABAG-Bau subventionieren"
+ AUS_subsidize_STRABAG_construction_desc:0 "Egal, wie viele Ressourcen wir einsetzen, Österreich kann nur so schnell neue militärische Anlagen produzieren. Wir müssen uns mehr Industrieanlagen sichern, wie die, die die STRABAG SE besitzt. Ihre Hilfe wird von unschätzbarem Wert sein, um uns in der Industrie weiter voran zu bringen."
+ AUS_subsidize_STRABAG_construction_tt:0 "Schaltet STRABAG Bauindustriekonzern frei\n"
+
+ AUS_fortify_the_austrian_alps:0 "Die österreichischen Alpen befestigen"
+ AUS_fortify_the_austrian_alps_desc:0 "Die österreichischen Alpen stellen eine unverzichtbare natürliche Barriere dar. Wir können unsere Gebiete praktisch uneinnehmbar machen, wenn wir uns darum bemühen, sie richtig zu befestigen."
+ AUS_fortify_the_austrian_alps_tt:0 "§Y14 Landbunker§! entlang der österreichischen Zentralalpen hinzufügen "
+
+ AUS_fortify_the_danube_and_drava_rivers:0 "Donau und Drau befestigen"
+ AUS_fortify_the_danube_and_drava_rivers_desc:0 "Die Donau und die Drau sind seit langem ein wirtschaftlicher Segen für Österreich, aber unser Interesse an ihnen ist nicht wirtschaftlicher Natur. Sie sind unglaublich schwer zu überqueren - umso mehr, wenn wir sie gegen feindliche Übergriffe befestigen würden."
+ AUS_fortify_the_danube_and_drava_rivers_tt:0 "§Y18 Landfestungen§! entlang der österreichischen Donau und Drau hinzufügen"
+
+ AUS_defend_our_new_borders:0 "Unsere neuen Grenzen verteidigen"
+ AUS_defend_our_new_borders_desc:0 "Jetzt, da wir das gebirgige Gelände der Schweiz besetzt haben, sind ihre Grenzen unsere Grenzen. Wir sollten Maßnahmen ergreifen, um sicherzustellen, dass keine der größeren Nationen hier durchkommt."
+ AUS_defend_our_new_borders_tt:0 "§Y28 Landfestungen§! entlang der französischen, deutschen und italienischen Grenze zur Schweiz hinzufügen"
+
+ AUS_open_the_mittersill_mine:0 "Eröffnung der Wolframmine Mittersill"
+ AUS_open_the_mittersill_mine_desc:0 "Es gibt nur sehr wenig Wolfram auf der Welt - und wir sitzen direkt auf einer riesigen Reserve davon. Unsere Industrieberater haben Proben aus Mittersill untersucht und raten uns, dort mit Ausgrabungen zu beginnen."
+
+ AUS_expand_erzberg_mine:0 "Eisenbergwerk Erzberg erweitern"
+ AUS_expand_erzberg_mine_desc:0 "Das Erzbergwerk ist das größte Eisenvorkommen, das Österreich besitzt, und wir schöpfen es noch nicht so gründlich aus, wie wir es könnten. Die Ausweitung unseres Tagebaubetriebs sollte unsere verfügbare Stahlversorgung erhöhen."
+
+ AUS_expand_the_vienna_basin_oilfield:0 "Das Ölfeld des Wiener Beckens erweitern"
+ AUS_expand_the_vienna_basin_oilfield_desc:0 "Wir haben eine Möglichkeit im Wiener Ölbecken, aber unser gegenwärtiges Tempo der Ölverarbeitung ist unzureichend. Der Ausbau unserer Industrie hier wird ein starker Schritt hin zu einer vielfältigen und mächtigen Kriegsmaschine sein."
+
+ AUS_extend_the_grossglockner_highway:0 "Ausbau der Grossglocknerautobahn"
+ AUS_extend_the_grossglockner_highway_desc:0 "Die Großglocknerautobahn ist eine landschaftlich reizvolle Route durch die österreichischen Berge, von Salzburg im Norden bis Kärnten im Süden. Sie ist eine große technische Meisterleistung, aber wir können sie noch verbessern, indem wir ihre Strecke durch ganz Österreich verlängern."
+ AUS_extend_the_grossglockner_highway_tt:0 "Fügt §YMaximale Infrastruktur§! in §YTirol§!, §Oberösterreich§! und §Niederösterreich§! hinzu."
+
+ AUS_hungarian_railways_and_roads_project:0 "Ungarisches Eisenbahn- und Straßenprojekt"
+ AUS_hungarian_railways_and_roads_project_desc:0 "Das ungarische Verkehrssystem war vor der Trennung unserer Staaten in der Verantwortung der österreichischen Regierung. Nun, da wir wieder vereint sind, liegt es an uns, ihre Infrastruktur auf den neuesten Stand zu bringen."
+ AUS_hungarian_railways_and_roads_project_tt:0 "Fügt §YMaximale Infrastruktur§! in §YTransdanubien§!, §YNordungarn§! und §YAlföld§! hinzu."
+
+ AUS_construct_papa_air_base:0 "Luftwaffenstützpunkt Pápa errichten"
+ AUS_construct_papa_air_base_desc:0 "Der Luftwaffenstützpunkt Papa ist seit 1936 in Bau und mit österreichischer Intervention kann er endlich fertiggestellt werden. Mehr Luftkapazität wäre für unsere Kriegsanstrengungen von unschätzbarem Wert."
+
+AUS_industrialise_the_great_hungarian_plains:0 "Industrialisierung der ungarischen Tiefebene"
+AUS_industrialise_the_great_hungarian_plains_desc:0 "Ungarn verfügt über große Landstriche, die vollständig für industrielle Zwecke nutzbar sind und für andere Zwecke nicht benötigt werden. Die Tatsache, dass dieses noch nicht ausgebeutet wurde, ist an sich schon eine Travestie. Wir werden dieses Land erschließen, um zu unseren Bemühungen beizutragen."
+AUS_industrialise_the_great_hungarian_plains_tt:0 "Die Kontrolle von §YVojvodina§!, §YBanat§!, §YCrisana§! oder §YNord Transsylvanien§! wird den Bonus auf diese Staaten ausdehnen"
+
+AUS_fortify_the_hungarian_danube:0 "Die ungarische Donau befestigen"
+AUS_fortify_the_hungarian_danube_desc:0 "Wie in Österreich ist die Donau ein wichtiger Teil des ungarischen Verteidigungspotenzials. Wir werden unsere Befestigungsbemühungen hier fortsetzen."
+AUS_fortify_the_hungarian_danube_tt:0 "Fügt §Y20 Landfestungen§! entlang der transdanubischen Grenze hinzu"
+
+AUS_secure_the_two_cities:0 "Die zwei Städte sichern"
+AUS_secure_the_two_cities_desc:0 "Die kaiserlichen Partnerstädte Budapest und Wien haben eine gemeinsame Geschichte, die vielen der großen Städte der Neuzeit vorausgeht. Nun, da wir beide Städte gesichert haben, soll keine von ihnen wieder aus österreichisch-ungarischer Hand fallen."
+AUS_secure_the_two_cities_tt:0 "§Y3 Landfestungen§! jeweils in Wien und Budapest hinzufügen"
+
+AUS_transylvanian_highways_project:0 "Transsylvanisches Autobahnprojekt"
+AUS_transylvanian_highways_project_desc:0 "Siebenbürgen war schon immer österreichisch-ungarisch und die Herrschaft Rumäniens in den letzten Jahren hat dazu geführt, dass das Land leider unterentwickelt ist, so dass es unserer Vereinigung nicht mehr würdig ist. Nichtsdestotrotz ist es unser Land, und wir werden uns um es kümmern."
+AUS_transylvanian_highways_project_tt:0 "Fügt §Y3 Infrastruktur§! in der Region Siebenbürgen hinzu"
+
+AUS_road_the_the_black_sea:0 "Die Straße zum Schwarzen Meer"
+AUS_road_the_the_black_sea_desc:0 "Das Schwarze Meer war schon immer ein historisch bedeutsames Gewässer, nicht zuletzt, weil es den sowjetischen Zugang zum Mittelmeer darstellt. Wir müssen uns unseren eigenen Platz in seinen Gewässern sichern - aber zuerst müssen wir dafür sorgen, dass wir diese Gewässer schnell erreichen können."
+AUS_road_the_the_black_sea_tt:0 "Fügt §Y3 Infrastruktur§! in der rumänischen Region hinzu"
+
+AUS_the_carpathian_line:0 "Die Karpatenlinie"
+AUS_the_carpathian_line_desc:0 "Karpatenruthenien ist ein Land, das integraler Bestandteil der ungarischen Geschichte ist, und unsere Brüder in der kaiserlichen Union liegen es ebenso sehr am Herzen wie uns. Wir werden es bis zum letzten Tropfen österreichischen Blutes verteidigen - aber dazu muss es nicht kommen, wenn wir es befestigen."
+AUS_the_carpathian_line_tt:0 "Fügt §Y2 Landfestungen§! pro besessene Provinz der karpatischen Berge hinzu"
+
+AUS_expand_the_constanta_shipyards:0 "Erweiterung der Werften in Constanta"
+AUS_expand_the_constanta_shipyards_desc:0 "Die Constanta-Werft ist die größte Werft in Rumänien. Ihre industrielle Kapazität ist in unserem gesamten Territorium unübertroffen; die Chance, die sie jetzt, da wir sie kontrollieren, bietet, ist zu nützlich, um sie zu verpassen. Wir können sie sogar noch weiter ausbauen, wenn wir wollen."
+
+AUS_cacova_ierii_iron_mine:0 "Eisenbergwerk Cacova Ierii"
+AUS_cacova_ierii_iron_mine_desc:0 "Die Eisenreserven Rumäniens sind nicht so groß wie die unseres Heimatbodens, aber was wir finden können, werden wir ausbeuten. Wie sonst können wir erwarten, als Nation zu überleben?"
+
+AUS_the_prut_line:0 "Die Prut-Linie"
+AUS_the_prut_line_desc:0 "Der Fluss Prut ist eine natürliche Widerstandslinie zwischen uns und Sowjetrussland. Es ist nicht nur vernünftig, sondern absolut notwendig, ihn zu befestigen und gegen fremdes Eindringen zu sichern."
+AUS_the_prut_line_tt:0 "Hinzufügen von §Y2 Landfestungen§! pro besessene Provinz des Flusses Prut"
+
+AUS_black_sea_wall:0 "Schwarzmeer-Wall"
+AUS_black_sea_wall_desc:0 "Im Falle eines Krieges mit einer der Schwarzmeer- oder Mittelmeermächte täten wir gut daran, Landungen auf unserem eigenen Territorium so umfassend wie möglich zu verhindern. Einige wenige Befestigungen und eine leichte Garnison sollten in der Lage sein, die meisten Bedrohungen abzuwehren."
+AUS_black_sea_wall_tt:0 "Fügt §Y2 Küstenfestungen§! entlang der Küste von §YMuntenia§! hinzu. Der Besitz von §YBessarabia§!, §YOdessa§!, §YDobrudja§! oder §YBurgas§! wird die Befestigungen erweitern"
+
+AUS_dubova_chromium_mine:0 "Chrombergwerk Dubova"
+AUS_dubova_chromium_mine_desc:0 "Die Erde von Dubova wurde untersucht und es wurde festgestellt, dass sie brauchbare Mengen an Chrom enthält. Wir wären Narren, wenn wir darauf verzichten würden, besonders wenn man die Straße zum Schwarzen Meer betrachtet, die Rumänien selbst darstellt."
+
+AUS_balkan_highways_project:0 "Balkan-Autobahnprojekt"
+AUS_balkan_highways_project_desc:0 "Jugoslawien hat bei der Selbstversorgung schlechte Arbeit geleistet. Da wir nun ihr Land besitzen, sollten wir versuchen, einige der Fehler, die sie gemacht haben, zu korrigieren."
+AUS_balkan_highways_project_tt:0 "Fügt §Y1 Infrastruktur§! in §YSlovenia§!, §YCroatia§! und §YBosnia§! hinzu. Der Besitz von §YDalmatia§!, §YVojvodina§!, §YSerbia§!, §YMontengro§!, §YMorava§! oder §YMacedonia§! wird den Bau erweitern."
+
+AUS_exploit_the_romanian_oil_fields:0 "Ausbeutung der rumänischen Ölfelder"
+AUS_exploit_the_romanian_oil_fields_desc:0 "Rumänien verfügt im Verhältnis zu den umliegenden Regionen über riesige Mengen an Öl. Die Reserven mögen groß sein, aber der Förderprozess ist bisher ineffizient. Es gibt Maßnahmen, die wir ergreifen können, um die Ausbeute zu erhöhen."
+
+AUS_expand_ljubija_mine:0 "Erweiterung der Ljubija-Mine"
+AUS_expand_ljubija_mine_desc:0 "Die Eisenreserven, die Jugoslawien mit unseren eigenen konkurriert, wurden nur langsam ausgebeutet. Wir können dem zu unserem eigenen Vorteil Abhilfe schaffen, indem wir die Operationen, die sie in Ljubija begonnen haben, ausweiten."
+
+AUS_the_sarajevo_plan:0 "Der Sarajevo-Plan."
+AUS_the_sarajevo_plan_desc:0 "Das Land des ehemaligen Bosniens hätte äußerst gründlich entwickelt werden können. Die jugoslawische Regierung hat dies jedoch in den letzten Jahren vernachlässigt, was zu einem großen Verlust an Potenzial geführt hat. Glücklicherweise sind wir hier, um dies zu korrigieren."
+
+AUS_the_south_dinaric_line:0 "Die südliche dinarische Linie"
+AUS_the_south_dinaric_line_desc:0 "Unsere Feinde im Süden sind kaum bedrohlich, aber wir sind von Feinden in vielen anderen Richtungen umgeben, für deren Bewältigung ein großer Teil unserer Ressourcen erforderlich sein wird. Je mehr wir unsere Südgrenze befestigen, desto weniger müssen wir sie verteidigen."
+AUS_the_south_dinaric_line_tt:0 "Fügt §Y18 Landfestungen§! entlang der albanischen und griechischen Grenze hinzu"
+
+AUS_the_adriatic_wall:0 "Der Adriatische Schutzwall"
+AUS_the_adriatic_wall_desc:0 "Auf der anderen Seite der Adria liegt vielleicht unsere größte potenzielle Bedrohung im Süden - die Italiener. Mussolini behauptet, das Römische Reich wieder aufbauen zu wollen, aber wir können nicht zulassen, dass er dabei das unsere bedroht."
+AUS_the_adriatic_wall_tt:0 "Fügt §Y14 Küstenfestungen§! in §YDalmatien§! hinzu. Der Besitz von §YMontenegro§!, §YIstria§! oder §YZara§! wird die Befestigungen erweitern."
+
+AUS_the_belgrade_plan:0 "Der Belgrader Plan"
+AUS_the_belgrade_plan_desc:0 "Serbien hat nicht länger die Kontrolle über sein Land, da die Ereignisse des Ersten Weltkriegs die Kontrolle über seine Industrie an die größere Kontrolle Jugoslawiens abgegeben haben. Nun, da dies nicht mehr der Fall ist, sollten wir ihre Industrie so entwickeln, wie wir sie entwickeln würden."
+
+AUS_extend_the_lines:0 "Die Linien erweitern"
+AUS_extend_the_lines_desc:0 "Da sich unser Territorium ausdehnt, müssen wir verteidigen, was wir uns genommen haben. Unsere Kontrolle über das Dinarische Gebirge und die Adriaküste hat sich ausgeweitet, so dass wir unsere Befestigungslinien ausweiten müssen."
+AUS_extend_the_lines_tt:0 "Fügt §Y10 Küstenfestungen§! and §Y6 Landfestungen§! in §YAlbanien§!hinzu. Der Beitz von §YSofia§! wird die Befestigungen erweitern."
+
+AUS_slovakian_roads_and_railways:0 "Slowakische Straßen und Eisenbahnen"
+AUS_slovakian_roads_and_railways_desc:0 "Die slowakische Region verfügt über ein unterentwickeltes Transportsystem; die Truppen in diesem Gebiet können es sich nicht leisten, im Transit steckenzubleiben. Wir müssen ihre Infrastruktur reparieren und erneuern."
+AUS_slovakian_roads_and_railways_tt:0 "Fügt §Y1 Infrastruktur§! zu slowakischen Regionen und Karpaten-Ukraine hinzu."
+
+AUS_expand_czech_industry:0 "Die tschechische Industrie expandieren"
+AUS_expand_czech_industry_desc:0 "Die tschechoslowakische Regierung hat ihre Bevölkerung vernachlässigt und sich geweigert, Fabriken und damit Arbeitsplätze zu schaffen, wo dies durchaus möglich ist. Wir können und müssen Maßnahmen ergreifen, um dies zu korrigieren."
+
+AUS_the_slovakian_line:0 "Die slowakische Linie"
+AUS_the_slovakian_line_desc:0 "Polen hat schon früher Interesse an der slowakischen Region gezeigt, als sie das Land im unmittelbaren Norden besetzten. Befestigungen sind ein Muss, wenn wir diese Grenze vor einem potenziell gefährlichen Einfall schützen wollen."
+AUS_the_slovakian_line_tt:0 "Fügt §Y20 Landforts§! entlang der slowakisch/polnischen Grenze hinzu."
+
+AUS_industrialise_northern_slovakia:0 "Industrialisierung der Nordslowakei"
+AUS_industrialise_northern_slovakia_desc:0 "Die Slowakei verfügt über ein reifes industrielles Potenzial, das bisher ungenutzt geblieben ist. Wir werden Schritte unternehmen, um das Land zu modernisieren und zu industrialisieren."
+
+AUS_fortify_the_sudeten_land:0 "Das Sudetenland befestigen"
+AUS_fortify_the_sudeten_land_desc:0 "Das Sudetenland ist die Grenze zu Deutschland und damit potentiell gefährliches Terrain. In den dort bereits errichteten Befestigungen gibt es Lücken, die wir durch Maßnahmen schließen können."
+AUS_fortify_the_sudeten_land_tt:0 "Fügt §Y22 Landfestungen§! in §YSudetenland§! hinzu"
+
+AUS_subsidize_kapsch:0 "Kapsch subventionieren"
+AUS_subsidize_kapsch_desc:0 "Kapsch kann auf eine bedeutende Geschichte von profitablen Verträgen in den Bereichen Elektronik und Feinmechanik mit der österreichischen Regierung zurückblicken. Wir sollten den Patriotismus und die Loyalität eines solchen Unternehmens belohnen, indem wir sicher sein können, ihre Verträge zu verlängern."
+AUS_subsidize_kapsch_tt:0 "Schaltet den Kapsch-Industriekonzern frei\n"
+
+AUS_fund_the_vienna_college_of_technology:0 "Finanzierung der Technischen Hochschule Wien"
+AUS_fund_the_vienna_college_of_technology_desc:0 "Die Technische Hochschule Wien trägt seit über hundert Jahren maßgeblich dazu bei, dass wir mit dem technologischen Fortschritt anderer Nationen Schritt halten können und hilft unseren klügsten Köpfen, das Beste aus sich herauszuholen. In diesen dunklen Zeiten wird ihre Unterstützung lebenswichtig sein."
+
+AUS_nuclear_experimentation:0 "Nukleare Experimente"
+AUS_nuclear_experimentation_desc:0 "Industrielle Vermessungen haben Lagerstätten des bemerkenswerten Metalls Uran in unseren neu entdeckten Gebieten ergeben. Experimente mit diesem einzigartigen Schwermetall werden zweifellos interessante Ergebnisse liefern."
+
+AUS_bilhorod_dnistrovskyi_nuclear_plant:0 "Kernkraftwerk Bilhorod-Dnistowskij"
+AUS_bilhorod_dnistrovskyi_nuclear_plant_desc:0 "Ein geeigneter Ort für einen Kernreaktor ist gefunden worden, und es macht Sinn, genau dort zu bauen. Atomwaffen sind die Zukunft, und wenn nichts anderes, dann müssen wir unsere Zukunft annehmen."
+
+### AIRFORCE SECTION ###
+
+AUS_construct_the_tullnerfeld_airbase:0 "Bau des Militärflugplatzes Tullnerfeld"
+AUS_construct_the_tullnerfeld_airbase_desc:0 "Die Pläne für den Bau eines Luftwaffenstützpunktes auf dem Tullnerfield verstauben seit langem. Im Norden tobt der Krieg, und es gibt keinen besseren Zeitpunkt, diese Pläne umzusetzen."
+
+AUS_announce_the_new_austrian_air_force:0 "Die neuen Luftstreitkräfte ankündigen"
+AUS_announce_the_new_austrian_air_force_desc:0 "Seit dem Ersten Weltkrieg ist der Schwerer-als-Luft-Flug die faszinierende neue potenzielle Waffe der Zukunft. Wir können nicht von anderen Nationen zurückgelassen werden; wir haben jahrelang im Geheimen unsere eigene Luftwaffe aufgebaut, und jetzt sind wir bereit, dies bekannt zu geben."
+
+AUS_german_aeronautic_cooperation:0 "Deutsche Luftfahrt-Kooperation"
+AUS_german_aeronautic_cooperation_desc:0 "Deutsche Ingenieurskunst hat fast jeden Bereich der Kriegsführung revolutioniert, auch die Luftkriegsführung. Wir haben viele Gemeinsamkeiten und jeden Grund, bei unseren technologischen Bestrebungen zusammenzuarbeiten. Der Zugang, den wir ihnen gewähren, wird es ihnen jedoch ermöglichen, unsere Politik zu beeinflussen."
+AUS_german_aeronautic_cooperation_tt:0 "Erlaubt spezielle Varianten deutscher Flugzeugmuster\n"
+
+AUS_british_aeronautic_cooperation:0 "Britische Luftfahrt-Kooperation"
+AUS_british_aeronautic_cooperation_desc:0 "Großbritannien ist ein Land, das sich verzweifelt Freunde in Mitteleuropa sichern will, und wir brauchen ihre technologische Kompetenz. Ihre Luftwaffe ist derzeit eine der stärksten der Welt, und wir können mit einem kleinen Verlust an internem Einfluss daran teilhaben."
+AUS_british_aeronautic_cooperation_tt:0 "Erlaubt spezielle Varianten Britischer Flugzeugmuster\n"
+
+AUS_soviet_aeronautic_cooperation:0 "Sowjetische Luftfahrt-Kooperation"
+AUS_soviet_aeronautic_cooperation_desc:0 "Die Sowjetunion ist stets bestrebt, ihren Einfluss auf den gesamten europäischen Raum auszudehnen, und wir sind auf dem Markt, um unsere Luftwaffe zu modernisieren. Mit einem gewissen politischen Geben und Nehmen können wir uns den Zugang zu ihrem industriellen Know-how sichern."
+AUS_soviet_aeronautic_cooperation_tt:0 "Erlaubt spezielle Varianten Sowjetischer Flugzeugmuster\n"
+
+AUS_innsbruck_airbase_project:0 "Projekt Luftwaffenstützpunkt Innsbruck"
+AUS_innsbruck_airbase_project_desc:0 "Der Flughafen Innsbruck liegt in einem großen Tal, ideal für den Start von Kampfflugzeugen und zivilen Flugzeugen. Durch seine Umwandlung in einen Militärflugplatz wird er für unsere Bedürfnisse viel besser geeignet sein."
+AUS_innsbruck_airbase_project_tt:0 "Fügt §Y2 Flugplätze§! in Innsbruck hinzu"
+
+AUS_protect_our_skies:0 "Unsere Himmel schützen"
+AUS_protect_our_skies_desc:0 "Das Fliegen an sich war früher ein Novum, aber die Flugzeuge haben sich verändert, und damit auch die Luftkriegsführung. Wir können Bedrohungen aus der Luft nicht ignorieren - und wir müssen uns entsprechend vorbereiten."
+AUS_protect_our_skies_tt:0 "Fügt §Y2 Flugabwehr§! zu unseren erweiterten Gebieten hinzu"
+
+AUS_fortify_our_airfields:0 "Unsere Flugplätze befestigen"
+AUS_fortify_our_airfields_desc:0 "Keiner unserer Luftwaffenstützpunkte liegt sehr weit innerhalb unserer Grenzen, und wir können die Möglichkeit eines gezielten Angriffs auf den einen oder anderen nicht ausschließen. Eine Befestigung beider wird die Gefahr eines solchen Angriffs verringern."
+AUS_fortify_our_airfields_tt:0 "§Y2 Landforts§! auf österreichischen Flugplätzen hinzufügen"
+
+AUS_investigate_jet_technology:0 "Jet-Technologie untersuchen"
+AUS_investigate_jet_technology_desc:0 "Unsere Konstruktionsabteilung hat von einem neuen, theoretischen Düsenturbinentriebwerk gesprochen, mit dem Flugzeuge schneller, höher und weiter fliegen können als je zuvor. Wenn irgendetwas, das wir in Betracht ziehen können, einen taktischen Vorteil bringen kann, dann werden wir es annehmen."
+
+AUS_experimental_bomber_programme:0 "Experimentelles Bomberprogramm"
+AUS_experimental_bomber_programme_desc:0 "Es wurden bereits theoretische Entwürfe für die nächste Generation von Bomberflugzeugen entworfen, die uns in den Kriegen, die wir auf uns zukommen sehen, einen Vorteil verschaffen werden. Wir müssen lediglich Mittel für die Entwicklung von Prototypen bereitstellen, um dieses Programm in Gang zu bringen."
+
+AUS_establish_the_austrian_airforce_academy:0 "Einrichtung der Österreichischen Luftwaffenakademie"
+AUS_establish_the_austrian_airforce_academy_desc:0 "Unsere junge Luftwaffe entwickelt sich gut, aber an unserer Technologie mangelt es zwar nicht, aber an unserer Ausbildung schon. Wir können Ressourcen aufwenden, um dieses Problem zu beheben, und haben keine Entschuldigung, es nicht zu tun."
+
+### NAVAL SECTION ###
+
+AUS_repair_pola_naval_base:0 "Instandsetzung des Marinestützpunktes Pola"
+AUS_repair_pola_naval_base_desc:0 "Der Marinestützpunkt Pola war einst eine der wichtigsten Einrichtungen der österreichischen Kriegsmarine. Sie ist verfallen, seit wir aus dem Meer vertrieben wurden, aber wir können und müssen uns bemühen, dafür zu sorgen, dass sie einmal unbrauchbar ist."
+
+AUS_recreate_the_kuk_kriegsmarine:0 "Wiederaufbau der K.u.K. Kriegsmarine"
+AUS_recreate_the_kuk_kriegsmarine_desc:0 "Die Königlich-Kaiserliche Kriegsmarine war die Kriegsmarine Österreichs, bis wir nach dem verlorenen Ersten Weltkrieg den Zugang zum Meer verloren. Wir können ihren früheren Ruhm mit nicht geringem Aufwand zurückgewinnen."
+
+ AUS_acquire_skoda_naval_artillery_experience:0 "Skoda Schiffsartillerie-Erfahrung erhalten."
+ AUS_acquire_skoda_naval_artillery_experience_desc:0 "Skoda entwarf die Geschütze der österreichisch-ungarischen Marine, es ist an der Zeit, diese Erfahrung wieder einmal zu nutzen."
+
+AUS_rijeka_naval_academy:0 "Marineschule Rijeka"
+AUS_rijeka_naval_academy_desc:0 "Rijeka ist eine der größten Hafenstädte im kroatischen Gebiet und eines der wichtigsten Marinevermögen für die österreichisch-ungarische Sache. Die Seefahrt und die Seekriegsführung sind für sie keine Fremdwörter, und wir können dieses Fachwissen mit an Bord nehmen."
+
+AUS_trieste_shipyards:0 "Triester Schiffswerften"
+AUS_trieste_shipyards_desc:0 "Triest ist eine Stadt mit einer bestehenden Werftindustrie, die wir subventionieren und nutzen sollten. Dies wird unsere Vorherrschaft im Mittelmeerraum sichern."
+AUS_trieste_shipyards_tt:0 "Ermöglicht die Einstellung eines Schiffskonstrukteurs der Triester Werft\n"
+
+AUS_expand_cattaro_harbour:0 "Hafen von Cattaro erweitern"
+AUS_expand_cattaro_harbour_desc:0 "Cattaro ist eine Binnenbucht, ein geschützter Ort, an dem eine Marinegruppe sicher untergebracht werden könnte. Es ist ein natürliches Sicherheitsgut, und wir sollten es als solches behandeln. Unsere nächste Erweiterung wird hier stattfinden."
+
+AUS_a_stealthier_approach:0 "Ein heimlicherer Ansatz"
+AUS_a_stealthier_approach_desc:0 "Die österreichische Marine ist nicht mehr das, was sie war - sie ist sogar nicht mehr existent. Wir können es uns nicht leisten, riesige Mengen an Ressourcen in Schiffen zu versenken, die von größeren Streitkräften einfach zerstört werden. Eine verstohlenere U-Boot-Kriegsführung ist für uns die Zukunft."
+
+AUS_sieze_the_adriatic:0 "Die Adria erobern"
+AUS_sieze_the_adriatic_desc:0 "Die Adria ist einer unserer Hauptzugänge zum italienischen Stiefel und einer der wichtigsten Küstenabschnitte für unser eigenes Territorium. Es wäre klug, sie mit spezialisierten Binnenseeschiffen wie Kreuzern zu sichern."
+
+AUS_push_for_the_mediterranean:0 "Vorstoß in das Mittelmeer"
+AUS_push_for_the_mediterranean_desc:0 "Das Mittelmeer ist ein berühmtes Meer, Unterstützer und Wiege vieler afrikanischer und europäischer Imperien. Es wird wieder zur Wiege unserer eigenen Nation werden - wenn wir es sichern können."
+
+AUS_reform_the_kuk_seefliegerkorps:0 "Reform des Seefliegerkorps"
+AUS_reform_the_kuk_seefliegerkorps_desc:0 "Die österreichische Marineluftwaffe war getrennt und getrennt von der Hauptmarine, mit eigenen Spezialisierungen und Funktionen. Ihr Nutzen wird in der Zukunft nützlich sein - wir sollten Ressourcen in ihre Reform investieren."
+
+AUS_found_the_austrian_marines:0 "Die österreichischen Marinesoldaten gründen."
+AUS_found_the_austrian_marines_desc:0 "Seit wir von der Außenwelt abgeschnitten sind, sind unsere Marines ein Zweig unseres Militärs, der in inakzeptabler Weise vernachlässigt wurde. Mit ein wenig Geld und ein wenig Zeit können wir den entstandenen Schaden mit der Zeit reparieren."
+
+### MILITARY SECTION ###
+
+AUS_subsidize_steyr_werke_arms:0 "Steyr-Waffenwerke subventionieren"
+AUS_subsidize_steyr_werke_arms_desc:0 "Die Steyre-Werke Waffen sind die Hülle der Schusswaffenfirma Steyr Mannlicher. Sie haben sich gut vom Vertrag von Saint-Germain erholt, aber staatliche Hilfe könnte noch weiter helfen und den staatlichen Zugang zu ihren Produktionslinien sichern."
+
+AUS_endorse_the_foreign_volunteer_programme:0 "Unterstützung des Freiwilligenprogramms"
+AUS_endorse_the_foreign_volunteer_programme_desc:0 "Wir können zwar nicht die ganze Welt selbst erreichen, aber wir können mit Hilfe einiger unserer besten und mutigsten freiwilligen Truppen Kräfte unterstützen und fördern, die unserer Sache wohlwollend gegenüberstehen."
+
+AUS_rearm_the_bundesheer:0 "Die Bundesheer aufrüsten"
+AUS_rearm_the_bundesheer_desc:0 "Das österreichische Bundesheer wurde durch den Vertrag von Saint-Germain-en-Leye hart getroffen. Aber da Hitler seine Streitkräfte vorbereitet hat, gab es nie einen besseren Zeitpunkt für eine Wiederbewaffnung, ob wir nun für oder gegen ihn stehen."
+
+AUS_fund_the_gebirgsjaeger_programme:0 "Finanzierung des Gebirgsjägerprogramms"
+AUS_fund_the_gebirgsjaeger_programme_desc:0 "Unser Land ist gebirgig, und wir müssen uns an das anpassen, was uns von Natur aus gegeben wurde. Jeder, der unser Land angreift, wird feststellen, dass unsere Streitkräfte sehr gut ausgerüstet sind, um mit ihnen auf dem Gelände fertig zu werden."
+
+AUS_prepare_for_war:0 "Kriegsvorbereitung"
+AUS_prepare_for_war_desc:0 "Die Wahrscheinlichkeit ist groß, dass ein weiterer Krieg vor der Tür steht - wir können es uns nicht erlauben, unvorbereitet zu sein. Wenn wir unsere Armeen versorgen wollen, müssen wir bereit sein, unsere zivilen Fabriken viel effizienter umzurüsten, als wir es derzeit tun."
+
+AUS_expand_csepel_muvek:0 "Csepel Muvek ausbauen"
+AUS_expand_csepel_muvek_desc:0 "Csepel Muvek ist eine der führenden Maschinenproduktionsstätten in Österreich-Ungarn und liegt seit dem neunzehnten Jahrhundert im Zentrum des alten Kaiserreichs. Es befindet sich in Privatbesitz, aber wir bezweifeln, dass die Eigentümer finanzielle Unterstützung ablehnen werden."
+
+AUS_steyr_mannlicher_arms:0 "Steyr Mannlicher Arms"
+AUS_steyr_mannlicher_arms_desc:0 "Steyr Mannlicher ist als Unternehmen patriotisch und der österreichischen Lebensart treu geblieben. Ihre unerschütterliche Unterstützung hat unsere Wiederaufrüstung möglich gemacht. Es gibt keinen Grund, warum wir sie nicht zu unserem regulären militärischen Auftragnehmer machen sollten."
+AUS_steyr_mannlicher_arms_tt:0 "Schaltet den Materialdesigner frei: Steyer Mannlicher "
+
+AUS_german_armour_cooperation:0 "Deutsche Panzerkooperation"
+AUS_german_armour_cooperation_desc:0 "Die Deutschen haben ihre eigenen Entwürfe geschaffen, um mit den Panzertruppen der anderen Nationen zu konkurrieren, und ihre Expansion ins Feld war zielstrebig. Vielleicht können wir etwas von ihnen lernen, wenn sie bereit sind."
+AUS_german_armour_cooperation_tt:0 "Erlaubt spezielle Varianten der deutschen Panzerkonstruktionen\n"
+
+AUS_british_armour_cooperation:0 "Britische Panzerkooperation"
+AUS_british_armour_cooperation_desc:0 "Das britische Empire ist eine der vielfältigsten und am weitesten verbreiteten Kräfte der Welt. Es hat Zugang zu einer beispiellosen Zahl der besten Köpfe der Welt. Wir könnten viel lernen, wenn wir ihre Rüstungsentwürfe studieren würden."
+AUS_british_armour_cooperation_tt:0 "Erlaubt spezielle Varianten der britischen Panzerkonstruktionen\n"
+
+AUS_soviet_armour_cooperation:0 "Sowjetische Panzerkooperation"
+AUS_soviet_armour_cooperation_desc:0 "Die Sowjets haben die stärkste industrielle Basis im eurasischen Raum, mit der nur sehr wenige europäische Großmächte konkurrieren. Man sagt, dass sie hundert Panzer pro Tag produzieren können - würde uns diese Effizienz bei unseren eigenen Bemühungen helfen?"
+AUS_soviet_armour_cooperation_tt:0 "Erlaubt spezielle Varianten der sowjetischen Panzerkonstruktionen\n"
+
+AUS_motorisation_effort:0 "Motorisierungsbemühungen"
+AUS_motorisation_effort_desc:0 "The internal combustion engine was once a novelty meant for the civilian sector, too inefficient to be used for warfare, but now it is both reliable and powerful. The military applications cannot be ignored."
+
+AUS_great_guns_of_yore:0 "Die großen Geschütze von einst"
+AUS_great_guns_of_yore_desc:0 "Die Artillerie hat den letzten Krieg gewonnen, und es gibt keinen Grund zu der Annahme, dass sie nicht auch zum Sieg im nächsten Krieg beitragen sollte. Verbesserungen der alten Technologie sind immer noch Verbesserungen."
+
+AUS_found_the_jagdkommando_school:0 "Die Jagdkommando-Schule gründen"
+AUS_found_the_jagdkommando_school_desc:0 "Es wurden Pläne zur Bildung einer Spezialeinheit unserer besten und klügsten Soldaten ausgearbeitet, die in der Lage ist, hinter den feindlichen Linien und unter unwahrscheinlichen Bedingungen zu operieren. Alles, was sie erfordern, ist eine Finanzierung, die in Gang gesetzt werden muss."
+
+### POLITICAL SECITON ###
+
+AUS_establish_the_foreign_ministry:0 "Einrichtung des Außenministeriums"
+AUS_establish_the_foreign_ministry_desc:0 "Seit dem Ersten Weltkrieg haben wir es vermieden, mit anderen Nationen zu interagieren, um unser eigenes Tempo der nationalen Erholung beizubehalten. Jetzt, da unsere Position in der Welt gefestigt ist, können wir beginnen, nach außen zu schauen."
+
+AUS_pro_austrian_propoganda:0 "Pro-Österreichische Propaganda"
+AUS_pro_austrian_propoganda_desc:0 "Österreich war einst eine der größten Nationen der Welt und wird es wieder sein. Unsere Kriegsanstrengungen beginnen zu Hause, mit der Unterstützung unseres Volkes."
+
+AUS_defence_of_the_homeland:0 "Verteidigung des Vaterlandes"
+AUS_defence_of_the_homeland_desc:0 "Als Nation haben wir kein Interesse daran, unseren Feinden jemals wieder Zugang zu unseren Grenzen zu gewähren. Es ist von entscheidender Bedeutung, dass wir uns so gründlich wie möglich befestigen und sicherstellen, dass wir nie wieder in die Defensive geraten."
+
+AUS_the_austrian_compromise:0 "Der österreichische Ausgleich"
+AUS_the_austrian_compromise_desc:0 "Hitler hat sich aus eigener Kraft für sein Volk eingesetzt und sich für das Konzept eines "Anschlusses" zwischen Österreich und Deutschland eingesetzt. Wir haben kein Interesse an einem Verlust der Autonomie - aber vielleicht reicht ein Versprechen der Unterstützung im nächsten Krieg aus."
+AUS_the_austrian_compromise_tt:0 "Wenn Deutschland akzeptiert, wird der §YAnschluss von Österreich§! umgangen, aber Österreich tritt in die §YAchse§! ein.\n"
+
+AUS_past_glories:0 "Vergangene Ruhmestaten"
+AUS_past_glories_desc:0 "Die österreichisch-ungarische Union war einst eine der größten Kräfte in der europäischen Einflusssphäre. Allerdings wurden wir in unserer Blütezeit durch den Vertrag von Saint-Germain auf grausame Weise beschnitten. Wir müssen als Nation die Kraft finden, das zurückzufordern, was uns genommen wurde."
+
+AUS_establish_the_frontmilliz:0 "Einrichtung der Frontmilliz"
+AUS_establish_the_frontmilliz_desc:0 "Nach dem Ersten Weltkrieg war die Heimwehr eine nützliche Möglichkeit für demobilisierte Soldaten, um für Österreichs Bemühungen um die nationale Sicherheit nützlich zu bleiben. Jetzt brauchen wir jedoch eine kontrolliertere und kohärentere Gruppe von Männern. Die Idee eines Neuanfangs muss geprüft werden."
+
+AUS_imperial_ambitions:0 "Kaiserliche Ambitionen"
+AUS_imperial_ambitions_desc:0 "Viele andere Nationen sind durchaus bereit, sich auf die Brust zu legen und zur Kriegsmacht zu erklären, bevor sie endlich zur Sache des Krieges übergehen. Wir haben vor langer Zeit gelernt, dass Scheu, den ersten Schuss abzufeuern, ein sicherer Weg zur Niederlage ist."
+
+AUS_the_old_empire:0 "Das alte Kaiserreich"
+AUS_the_old_empire_desc:0 "Die Österreichisch-Ungarische Union war zu der Zeit, als sie existierte, die größte politische und militärische Kraft in Südeuropa. Wir werden uns mit der anderen Hälfte unseres Reiches wiedervereinigen und auf diese Weise das wiedergewinnen, was uns einst gehörte."
+
+AUS_pressure_for_transylvania:0 "Druck für Transsylvanien"
+AUS_pressure_for_transylvania_desc:0 "Rumänien ist seit langem im Besitz von Staaten, die ihnen einfach nicht gehören. Die Region Siebenbürgen gehört schon länger zu Österreich-Ungarn als die Erinnerung, und wir werden es Rumänien wegnehmen, wenn es sein muss, koste es, was es wolle."
+AUS_pressure_for_transylvania_tt:0 "§RKann zum Krieg mit Rumänien führen.§!\n"
+
+AUS_the_romanian_obstacle:0 "Das rumänische Problem"
+AUS_the_romanian_obstacle_desc:0 "Wir haben Land, das einst uns gehörte, aber der Fortbestand Rumäniens ist eine Beleidigung für unser Volk. Wir werden sie mit Gewalt annektieren und einen Weg zum Schwarzen Meer einschlagen."
+
+AUS_pressure_for_slovenia:0 "Druck für Slowenien"
+AUS_pressure_for_slovenia_desc:0 "Slowenien gehört uns seit der Auflösung des Staates Venedig und die Slowenen wollten schon immer Teil des germanischen Volkes sein. Sie sind durch die Zeit von uns getrennt, aber wir werden der Welt beweisen, dass jede Differenz versöhnt werden kann."
+AUS_pressure_for_slovenia_tt:0 "§RKann zum Krieg mit Jugoslawien führen.§!\n"
+
+AUS_the_balkan_territories:0 "Die Balkangebiete"
+AUS_the_balkan_territories_desc:0 "Jugoslawien ist ein falscher und schwacher Staat, den wir unter seinen rechtmäßigen Eigentümern aufteilen können und sollten. Serbien hat zu Unrecht einen großen Teil unserer Besitztümer annektiert, und wir werden dies notfalls mit Gewalt rückgängig machen."
+AUS_the_balkan_territories_tt:0 "§RKann zum Krieg mit Jugoslawien führen.§!\n"
+
+AUS_the_way_to_france:0 "Der Weg nach Frankreich"
+AUS_the_way_to_france_desc:0 "Frankreich hat für seinen gnadenlosen Umgang mit den Zentralmächten viel Wiedergutmachung zu leisten. Wir werden ihnen zeigen, wie die österreichische Rache aussieht, aber zuerst brauchen wir eine Grenze, über die unsere Truppen marschieren können. Die Schweiz steht uns im Weg."
+
+AUS_our_oldest_enemy:0 "Our Oldest Enemy"
+AUS_our_oldest_enemy_desc:0 "Die Gier der Franzosen hat uns nach dem Ersten Weltkrieg teuer zu stehen kommen lassen, und wir sind nicht über Rache an so tiefgreifenden Dingen erhaben. Sie hätten unsere gesamte Nation aufgelöst, wenn sie es gekonnt hätten - jetzt werden wir das Gleiche mit ihnen tun."
+
+AUS_request_slovakia:0 "Um die Slowakei ersuchen"
+AUS_request_slovakia_desc:0 "Wir haben bisher gute Beziehungen zu Deutschland gehabt, aber ihre Annexion der Tschechoslowakei verwehrt uns die dritte Reichsstadt Prag. Wir können zwar diplomatische Anstrengungen unternehmen, aber es bleibt abzuwarten, ob Deutschland einwilligen wird."
+
+AUS_request_krakow:0 "Krakau anfragen"
+AUS_request_krakow_desc:0 "Aufgrund unserer Kontrolle über die slowakische Region sind wir in der glücklichen Lage, von der slowakischen Regierung mehr Eigenverantwortung einzufordern. Krakau war einst ein Herzogtum unter österreichischer Kontrolle, und es gibt keinen Grund, warum es nicht wieder so sein sollte."
+
+AUS_second_serbian_campaign:0 "Zweiter serbischer Feldzug"
+AUS_second_serbian_campaign_desc:0 "Der erste serbische Krieg machte das österreichische Kaiserreich ungeschehen. Diesmal nicht. Wir werden sie vollständig vernichten, und wir werden uns all ihre Ländereien zu eigen machen. Endlich werden wir die Chance haben, den frühzeitigen Tod des Erzherzogs Ferdinand zu rächen."
+
+AUS_dalmatia_for_south_tyrol:0 "Dalmatien für Südtirol"
+AUS_dalmatia_for_south_tyrol_desc:0 "Italien wollte schon lange die italienischsprachige dalmatinische Provinz Jugoslawien. Im Gegenzug wollen wir Tirol wieder unter österreichischer Herrschaft vereinen. Es scheint, dass ein Handel arrangiert werden kann."
+
+AUS_demand_the_istrian_peninsula:0 "Die istrische Halbinsel fordern"
+AUS_demand_the_istrian_peninsula_desc:0 "Die kleine Halbinsel Istrien ist vielleicht nicht so groß wie der italienische Stiefel, aber sie ist unser alter Zugang zum Mittelmeer. Wir haben immer noch Verwendung dafür, und wenn es sein muss, werden wir sie den usurpierenden Italienern wegnehmen."
+
+AUS_traitors_of_the_great_war:0 "Verräter des Ersten Weltkriegs"
+AUS_traitors_of_the_great_war_desc:0 "Italien gibt vor, sich selbst wiederaufzubauen und vergisst dabei, dass es diejenigen gibt, die mehr verloren und mehr unter den Folgen des Krieges gelitten haben. Wir werden ihnen zeigen, wie eine Nation sich selbst wieder aufbaut - indem sie von ihren Nachbarn nimmt."
+
+AUS_our_fate_is_our_own:0 "Unser Schicksal ist unser eigenes"
+AUS_our_fate_is_our_own_desc:0 "Hitler-Deutschland ist sehr daran interessiert, seine Macht zu vergrößern, und unternimmt unverschleierte Versuche, unsere Länder friedlich in sein eigenes Land einzugliedern. Wir haben kein Interesse daran, es ihnen so leicht zu machen. Wir werden unsere Nation bis zum letzten Tropfen Kampfblut bewahren!"
+AUS_our_fate_is_our_own_tt:0 "§RKann zum Krieg mit Deutschland führen.§!\n"
+Der Bär hat nicht bemerkt, dass unter ihm die erdolcharmierte Ukraine schläft. Indem wir ihr Volk bewaffnen, können wir die besten Voraussetzungen dafür schaffen, der Sowjetunion einen Teil ihrer Macht zu entziehen und ihre Macht der unseren anzugleichen.
+AUS_our_old_allies:0 "Unsere alten Verbündeten"
+AUS_our_old_allies_desc:0 "Bulgarien hat im Ersten Weltkrieg an unserer Seite gekämpft und sich als kompetenter und wertvoller Verbündeter erwiesen. Sie werden die Gelegenheit haben, unserer neuen Union friedlich beizutreten - aber wir haben nicht die Absicht, bei unserer Rückkehr an die Macht Favoriten zu spielen."
+
+AUS_control_the_balkan_peninsula:0 "Die Balkanhalbinsel kontrollieren"
+AUS_control_the_balkan_peninsula_desc:0 "Griechenland war für viele Reiche die Wiege ihrer Vorfahren, und jetzt kehren wir zu ihnen zurück und bieten ihnen die Chance, Teil unseres Imperiums zu werden. Wenn sie nicht einverstanden sind, wird es eine andere Geschichte sein, aber wir bieten trotzdem den Olivenzweig an."
+
+AUS_alliance_with_turkey:0 "Bündnis mit der Türkei"
+AUS_alliance_with_turkey_desc:0 "Das Osmanische Reich kämpfte mit uns im Großen Krieg und litt an unserer Seite im Scheitern. Wir müssen einander in der Zusammenarbeit helfen und dürfen uns nicht gegenseitig an die Gurgel gehen. Wenn sie unser Bündnis ablehnen, ist das eine andere Sache."
+
+AUS_the_ottoman_menace:0 "Die osmanische Bedrohung."
+AUS_the_ottoman_menace_desc:0 "Die Türken mögen nach dem Ersten Weltkrieg viel verloren haben, aber sie bleiben sowohl ehrgeizig als auch einfallsreich. Ein weiterer großer muslimischer Staat kann nicht toleriert werden und wird nicht ausgeplündert werden. Wir werden sie über ihre Meerenge zurücktreiben."
+
+AUS_friends_beneath_the_bear:0 "Freunde unter dem Bären"
+AUS_friends_beneath_the_bear_desc:0 "Die Sowjets waren bei der Säuberung von imperialistischen und faschistischen Elementen gründlich, und dennoch existieren sie immer noch. Wir können Kontakt mit Dissidenten in der Sowjetunion aufnehmen und Russland auf den Weg der Reformation bringen. Alte Feinde können leicht zu neuen Freunden werden."
+AUS_friends_beneath_the_bear_tt:0 "Bereitet die Ukrainer auf den Krieg vor\n"
+
+AUS_start_the_uprising:0 "Den Aufstand beginnen"
+AUS_start_the_uprising_desc:0 "Der Bär hat nicht bemerkt, dass unter ihm die erdolcharmierte Ukraine schläft. Indem wir ihr Volk bewaffnen, können wir die besten Voraussetzungen dafür schaffen, der Sowjetunion einen Teil ihrer Macht zu entziehen und ihre Macht der unseren anzugleichen."
+AUS_start_the_uprising_tt:0 "§RWird einen Krieg mit der Sowjetunion beginnen!§!\n"
+
+AUS_war_for_the_black_sea:0 "Krieg um das Schwarze Meer"
+AUS_war_for_the_black_sea_desc:0 "Die sowjetische Kontrolle über das Schwarze Meer ist neben der italienischen Kontrolle unsere größte Bedrohung. Wir können dies lösen, indem wir Russland die an das Schwarze Meer angrenzenden Länder nehmen und seine Fähigkeit blockieren, seine Seemacht im Mittelmeer aufrechtzuerhalten und zu projizieren."
+
+AUS_germanic_brotherhood:0 "Germanische Bruderschaft"
+AUS_germanic_brotherhood_desc:0 "Anschluss als Idee ist einfach zu extrem. Wir sind aber durchaus bereit, mit unseren germanischen Brüdern im Norden zu kooperieren - und ein Forschungspakt wäre ein ausgezeichneter Schritt in diesem Prozess."
+
+AUS_imperial_administration:0 "Reichsverwaltung"
+AUS_imperial_administration_desc:0 "Der Erwerb von Land hat zu der Notwendigkeit von Reformen in unserem Regierungssystem geführt. Eine Überprüfung der Freiheiten unserer Kolonialstaaten wird in Ordnung sein und sollte zu reibungsloseren inneren Angelegenheiten führen."
+AUS_imperial_administration_tt:0 "Die Kontrolle über §YWien§!, §YBudapest§!, §YBukarest§!, §YSarajevo§! und §YKrakau§! zu haben, fügt §Y100 Politische Macht§!\n"
+
+AUS_strengthen_ties_with_ukraine:0 "Bindungen mit der Ukraine stärken"
+AUS_strengthen_ties_with_ukraine_desc:0 "Es gibt keinen Grund, warum wir nicht versuchen sollten, uns unseren neu gefundenen Verbündeten in der Ukraine anzunähern. Wenn wir ihnen einige unserer eigenen Ressourcen anbieten, werden wir sicher Wege finden, auf denen wir davon profitieren können."
+
+AUS_the_kiev_annex:0 "Kiew annektieren"
+AUS_the_kiev_annex_desc:0 "Die Ukraine war ein wertvoller Verbündeter und verdient nun den vollen und vollständigen Schutz des österreichisch-ungarischen Reiches. Die Annexion ist für sie eine ausgezeichnete Möglichkeit, die sie in Betracht ziehen können."
+
+AUS_no_more_tyrants:0 "Keine weiteren Tyrannen"
+AUS_no_more_tyrants_desc:0 "Kaiserliche Gier und monarchistische Kontrolle auf beiden Seiten des Krieges führten zu dem zerbrochenen Europa, das wir heute sehen. Wir haben als Nation schon genug gelitten, und Hitlerdeutschland rüstet schnell auf. Wir sagen: Kein Krieg mehr und keine Tyrannen mehr."
+
+AUS_freedom_liberty_and_strength:0 "Freiheit, Unabhängigkeit und Stärke"
+AUS_freedom_liberty_and_strength_desc:0 "Österreich mag sich bei dem Versuch, unsere Regierung so drastisch zu reformieren, sehr verändert haben, aber das bedeutet nicht, dass unser Militär schwach ist oder unser Volk. Der alte Stolz auf den österreichischen Willen ist immer noch da, und das Volk wird immer noch für die Rettung seines Landes kämpfen."
+
+AUS_seek_british_support:0 "Britische Unterstützung suchen"
+AUS_seek_british_support_desc:0 "Großbritannien ist kein alter Freund unserer Nation, aber jetzt geht es nicht um einen Kampf zwischen Nationen, sondern um Ideologien. Das Zeitalter der kleinlichen Streitereien zwischen den Nationen ist vorbei. Zusammenarbeit ist der Weg nach vorn, nicht individueller Nationalismus."
+
+AUS_break_the_compromise:0 "Den Kompromiss brechen"
+AUS_break_the_compromise_desc:0 "Wir haben uns vor den Deutschen verbeugt und gekratzt, weil sie über uns waren, mit einem weit überlegenen Militär. Jetzt, da wir unsere neue Regierung reformiert und bestätigt haben, haben wir vielleicht eine Chance, uns den Nazis zu stellen."
+AUS_break_the_compromise_tt:0 "Kann zum Krieg mit Deutschland führen\n"
+
+AUS_free_the_balkans:0 "Den Balkan befreien"
+AUS_free_the_balkans_desc:0 "Bestimmte Staaten auf dem Balkan sind unter faschistische Führung geraten, seit Hitler begann, Einfluss auf Europa auszuüben. Wir müssen handeln, um diesen Schaden wieder gutzumachen, auch wenn dies bedeutet, Krieg zu führen, um die Menschen zu befreien."
+AUS_free_the_balkans_tt:0 "Gibt für sämtliche nicht-demokratischen Balkanstaaten ein Marionetten-Kriegsziel\n"
+
+AUS_free_the_ukrainians:0 "Die Ukrainer befreien"
+AUS_free_the_ukrainians_desc:0 "Die Ukrainer sind schon zu lange unter dem sowjetischen Stiefel gefangen. Wir haben ihre Freilassung ins Visier genommen, und es gibt keinen besseren Zeitpunkt als jetzt, um dies zu tun."
+
+AUS_remove_the_horthy_government:0 "Die Horthy-Regierung absetzen"
+AUS_remove_the_horthy_government_desc:0 "Unsere historischen Brüder in Ungarn leiden unter dem Joch eines faschistischen Regimes, das gefährliche Annäherungsversuche zur militärischen Zusammenarbeit mit Deutschland unternimmt. Es ist sinnvoll, so schnell wie möglich anzugreifen und ihr Volk zu befreien."
+
+AUS_dethrone_mussolini:0 "Entthronung Mussolini"
+AUS_dethrone_mussolini_desc:0 "Mussolini ist ein Tyrann, der fast jedes letzte Überbleibsel des demokratischen Prozesses in Italien vernichtet hat. Wenn er seinem Volk nicht die Wahl lässt, wer es führen soll, dann werden wir es tun."
+
+AUS_request_balkan_support:0 "Balkan-Unterstützung erbitten"
+AUS_request_balkan_support_desc:0 "Besonders auf dem Balkan gibt es viele Staaten, die den Einmarsch der Nazis fürchten müssen. Wir sind das Schutzschild zwischen Deutschland und vielen von ihnen, und wir werden ihre Hilfe brauchen, um das Blatt zu wenden. Wir müssen um Hilfe bitten."
+
+AUS_a_red_future:0 "Eine rote Zukunft"
+AUS_a_red_future_desc:0 "Österreich hat unter allen Arten der traditionellen Regierung gelitten, sowohl unter der imperialen als auch der demokratischen. Die Sowjetunion ruft jedoch die Arbeiter in der ganzen Welt auf, den Weg zu einem anderen Weg einzuschlagen."
+
+AUS_rise_up_fight:0 "Steht auf, kämpfte!"
+AUS_rise_up_fight_desc:0 "Wir haben Schritte zur Befreiung unserer eigenen Arbeiter unternommen, aber es gibt immer noch unterdrückte proletarische Massen in fast jedem Land der Erde, die dem kapitalistischen Prozess versklavt sind. Jeder muss sich freiwillig in den Dienst des österreichischen sozialistischen Staates stellen!"
+
+AUS_seek_soviet_support:0 "Sowjetische Unterstützung suchen"
+AUS_seek_soviet_support_desc:0 "Russland hat unsere Nation in den Schmutz gezogen, aber die russische Nation ist gefallen und an ihrer Stelle ist der sowjetische sozialistische Staat auferstanden. Dieses Arbeiterparadies ist ein Beispiel für unsere Nation, und ihre Unterstützung wird für die Sicherung unserer Zukunft von unschätzbarem Wert sein."
+
+AUS_break_the_fascist_shackles:0 "Die faschistischen Fesseln sprengen"
+AUS_break_the_fascist_shackles_desc:0 "Wir haben einen Kompromiss mit den totalitären Deutschen geschlossen, weil sie die Macht hatten, uns zu vernichten. Jetzt aber, mit der globalen Revolution auf unserer Seite, können wir uns erheben! Nieder mit den Faschisten!"
+
+AUS_request_balkan_support_sov:0 "Balkan-Unterstützung anfordern"
+AUS_request_balkan_support_sov_desc:0 "Es muss kommunistische Sympathisanten auf dem Balkan geben, die nach vorne treten, wenn sie zu den Waffen gerufen werden. Der faschistischen Bedrohung muss begegnet werden - Balkankommunisten, vereinigt euch!"
+
+AUS_destroy_the_horthy_fascists:0 "Vernichtung der Horthy Faschisten"
+AUS_destroy_the_horthy_fascists_desc:0 "Miklos Horthy regiert Ungarn seit sechzehn Jahren kompromisslos. Dies wird nicht mehr so weiter gehen. Wir werden ihn für das, was er getan hat, zur Rechenschaft ziehen, ob wir Waffen einsetzen müssen oder nicht!"
+
+AUS_free_the_italian_workers:0 "Die italienischen Arbeiter befreien"
+AUS_free_the_italian_workers_desc:0 "Mussolini hat alle Italiener unter seinen Fersen zerrieben und sie als bloße Werkzeuge benutzt, um eine Kriegsmaschine zur Verbreitung seiner Herrschaft zu konstruieren. Wir werden den Fehler, dass er an die Macht gekommen ist, ungeschehen machen."
+
+AUS_the_balkan_revolution:0 "Die Balkanrevolution"
+AUS_the_balkan_revolution_desc:0 "Unsere Arbeitsbrüder in den Balkanstaaten haben noch nicht zu den Waffen im Dienste ihrer eigenen Brüder gegriffen. Ganz einfach, wir haben die Macht, sie zu befreien - eine Macht, die wir nutzen müssen, wenn wir uns stolz als Kommunisten bezeichnen wollen."
+
+AUS_war_against_the_stalinists:0 "Krieg gegen die Stalinisten"
+AUS_war_against_the_stalinists_desc:0 "Der stalinistische Staat verrottet in seinem Kern, mit einer mächtigen industriellen Basis, aber ohne Nahrung und Annehmlichkeiten für die Menschen. Wir haben gehört, wie sie leiden - der Sowjetkommunismus hat versagt. Es ist an der Zeit, die Hölle der sowjetischen Arbeiter zu beenden."
+
+AUS_fund_the_french_revolution:0 "Die Französische Revolution finanzieren"
+AUS_fund_the_french_revolution_desc:0 "Frankreich hat am Ende des Ersten Weltkriegs schreckliche Strafen gegen unsere Nation und alle Zentralmächte verhängt, aber sie haben seit dem Ende des Ersten Weltkriegs selbst gelitten. Die kommunistische Stimmung in Frankreich ist auf einem Allzeithoch; das müssen wir unterstützen."
+
+AUS_start_the_french_revolution:0 "Beginn der Französischen Revolution"
+AUS_start_the_french_revolution_desc:0 "Wir haben Schritte unternommen, um die Zukunft Frankreichs als arbeitnehmerfreundlicher Staat zu sichern, aber es scheint, dass die Machthaber nicht auf die Wünsche des Volkes hören werden. Soviel zur Demokratie. Wir müssen dem französischen Volk so schnell wie möglich bei seiner Revolution helfen!"
+
+AUS_the_polish_revolution:0 "Die polnische Revolution starten"
+AUS_the_polish_revolution_desc:0 "Polen hat sich als unfähig erwiesen, sich um sein eigenes Land zu kümmern. Eingeklemmt zwischen den Faschisten im Westen und den Kommunisten im Osten, ist klar, welcher Weg für ihre Zukunft der beste ist - und wir können Maßnahmen ergreifen, um sie dorthin zu führen."
+
+### ROYALIST SECTION ###
+
+AUS_repeal_the_abolition_of_nobility:0 "Aufhebung der Adelsabschaffung"
+AUS_repeal_the_abolition_of_nobility_desc:0 "In der Folge des Ersten Weltkriegs wurde uns mit der Abschaffung des Adels der Kern unseres Erbes entrissen. Dieses Gesetz rückgängig zu machen, wird jedoch einfacher sein als bisher angenommen."
+
+AUS_propose_the_alps_defence_pact:0 "Den Alpenverteidigungspakt vorschlagen"
+AUS_propose_the_alps_defence_pact_desc:0 "Die Italiener haben uns einige unserer strategisch wichtigsten Standorte weggenommen und Tausende unserer Bürger vertrieben, indem sie Istrien und Südtirol im Gefolge des Ersten Weltkriegs aufgenommen haben. Jetzt jedoch brodelt Europa wieder vor Spannung, und ihre Position relativ zu uns kann nicht ignoriert werden - oder ihre potenzielle Nutzung als Verbündete."
+AUS_propose_the_alps_defence_pact_tt:0 "Wenn Italien zustimmt, wird der Anschluss umgangen. \nWir werden auch §Y300 leichte Panzer§! erhalten.\n"
+
+AUS_repeal_ban_on_political_parties:0 "Aufhebung des Verbots politischer Parteien"
+AUS_repeal_ban_on_political_parties_desc:0 "Die Faschisten, die gegenwärtig unser Land kontrollieren, haben kurzsichtig alle politischen Parteien und ihre Versammlungen verboten. Dieses Verbot ist jedoch nicht so breit abgestützt, dass es nicht mit einem kleinen klugen politischen Manöver aufgehoben werden kann."
+
+AUS_reinstate_the_habsburg_family:0 "Die habsburgische Familie rehabilitieren."
+AUS_reinstate_the_habsburg_family_desc:0 "Nach dem Ende des Ersten Weltkrieges wurden die Habsburger, die rechtmäßigen Herrscher Österreich-Ungarns, aller Länder und Titel beraubt und ins Exil verbannt. Diese Schritte wurden unter Zwang unternommen, aber das Einzige, was die Habsburger uns gegenüber jemals falsch gemacht haben, war, den Krieg überhaupt zu verlieren. Sie waren uns gegenüber immer loyal, und so werden wir ihnen gegenüber loyal sein."
+
+AUS_liechtenstein_treaty:0 "Liechtensteinisches Abkommen"
+AUS_liechtenstein_treaty_desc:0 "Deutschland hat aufgehört, eine verantwortungsvolle Weltmacht zu sein, die von einem beständigen und mächtigen Kaiser regiert wird. Stattdessen bedroht der Wahnsinnige Hitler mit seiner Expansionspolitik ganz Europa. Österreich muss sich an alle möglichen Verbündeten wenden, wenn wir überleben wollen - auch an die Schweiz."
+
+AUS_ban_the_national_socialist_party:0 "Verhaftung der Nationalsozialistischen Partei"
+AUS_ban_the_national_socialist_party_desc:0 "Die Nationalsozialisten sind sowohl hier in Österreich als auch in Deutschland ein politisches Kraftzentrum. Ihre Botschaft an Österreich ist jedoch keine Botschaft, die sich mit unseren Interessen deckt. Man könnte sogar argumentieren, dass es sich um Hochverrat handelt. Sollen wir entsprechend handeln?"
+
+AUS_undermine_mussolini:0 "Mussolini unterwandern"
+AUS_undermine_mussolini_desc:0 "Nicht ganz Italien ist unter Mussolinis Idealen vereint, so sehr er sich das auch wünscht. Etwas politische Unterstützung durch unsere eigenen Royalisten könnte die Unterstützung der Royalisten in Italien verstärken und das faschistische Regime stürzen."
+
+AUS_issue_emergency_powers:0 "Notstandsbefugnisse erteilen"
+AUS_issue_emergency_powers_desc:0 "Die Lage in Europa wird von Tag zu Tag angespannter und unbeständiger. In Zeiten wie diesen besteht die einzige Lösung für die Bedrohung durch unsere proaktiven und expansionistischen Nachbarn darin, die Bürokratie abzuschaffen und unseren eigenen Führern ähnlich proaktive Befugnisse einzuräumen."
+
+AUS_for_kaiser_and_fatherland:0 "Für Kaiser und Vaterland"
+AUS_for_kaiser_and_fatherland_desc:0 "Es ist eine Zeit des Wandels für Europa, und der Platz Österreichs in der Welt wird in Zukunft von der Opferbereitschaft von Staat und Bevölkerung bestimmt werden. Es ist Zeit, dass jeder fähige Mann voranschreitet, für Kaiser und Vaterland."
+
+AUS_issue_the_venetia_treaty:0 "Den Vertrag von Venedig erlassen."
+AUS_issue_the_venetia_treaty_desc:0 ""
+
+AUS_italian_civil_war:0 "Italienischer Bürgerkrieg"
+AUS_italian_civil_war_desc:0 "Italien befindet sich in einem fragilen Zustand. Ihr König wird sehr geliebt und die royalistische Fraktion ist stark, auch wenn die Faschisten uns glauben machen wollen, dass es keine andere politische Kraft gibt. Ein kleiner Schubs wird genügen, um Italien in einen Bürgerkrieg zu stürzen."
+
+AUS_demand_sudtyrol:0 "Südtirol und Istrien fordern"
+AUS_demand_sudtyrol_desc:0 "Da sich Italien im Bürgerkrieg befindet, sind wir in einer ausgezeichneten Position, um Südtirol und Istrien zurückzuerobern. Ein wenig politischer Einfluss wird uns davor bewahren, viel militärischen Einfluss ausüben zu müssen."
+
+AUS_interfere_in_italian_civil_war:0 "Hilfe für Südtirol und Istrien anbieten"
+AUS_interfere_in_italian_civil_war_desc:0 "Die rechtschaffenen Royalisten kämpfen nun für die Wiederherstellung der wahren Macht ihres Königs. Unsere eigene habsburgische Herrscherfamilie blickt mit Sympathie auf ihren Kampf - und spürt die Chance. Vielleicht kann im selben Augenblick ein Handel abgeschlossen und ein Verbündeter gewonnen werden."
+
+AUS_old_ties:0 "Alte Beziehungen"
+AUS_old_ties_desc:0 "Die Bande, die Österreich und Ungarn verbinden sind tief und mächtig und es braucht kein Argument für die Wiederherstellung eines Bündnisses zwischen den beiden Ländern vorgebracht zu werden. Eine Allianz zwischen uns wird uns helfen, unseren Platz in der Welt zurückzugewinnen, besser als jede Aufrüstung oder jeder Vertrag mit einer anderen Macht."
+
+AUS_assassination_of_horthy:0 "Ermordung Horthys"
+AUS_assassination_of_horthy_desc:0 "'König Horthy', wie er sich selbst anmaßend genannt hat, war einst ein einfacher Militäroffizier. Jetzt gibt er vor, den ungarischen Thron zu besteigen, eine Behauptung, die im Grunde lächerlich ist. Trotzdem hat er Macht. Eine einfache, wenn auch sprunghafte Lösung wäre es, ihn zu ermorden, damit die Habsburger einschreiten können."
+
+AUS_stabilise_hungary:0 "Ungarn stabilisieren"
+AUS_stabilise_hungary_desc:0 "Ungarn ist wieder einmal in unserer Domäne, aber die Instabilität, die mit der Ermordung Horthys einherging, hat Probleme verursacht. Zeit und Mühe müssen aufgewendet werden, um die Ordnung wiederherzustellen."
+
+AUS_the_czech_plan:0 "Der Tschechien-Plan"
+AUS_the_czech_plan_desc:0 "Die ehemalige Nation ,die Tschechoslowakei, ein Teil des alten Österreich-Ungarns, ist heute unter deutscher Besatzung. Die Region steht unter Kriegsrecht, aber unsere Einflussnahme könnte sie in einen Aufstand stürzen, den wir brauchen, um die Region ohne Krieg mit Hitler für uns zurückzugewinnen."
+
+AUS_path_of_war:0 "Pfad des Krieges"
+AUS_path_of_war_desc:0 "Deutschland hat uns unsere Gebiete im Norden der Tschechoslowakei abgenommen. Wir haben natürlich vor, dieses Land zurückzuerobern. Der Weg des Krieges ist der einzige Weg nach vorn."
+
+AUS_path_of_peace:0 "Pfad des Friedens"
+AUS_path_of_peace_desc:0 "Deutschland hat unser altes Territorium der Tschechoslowakei annektiert, aber das bedeutet nicht, dass die österreichisch-ungarische Bevölkerung für uns unerreichbar ist. Es können noch Vorbereitungen getroffen werden, um unser Volk an unsere Grenzen zu bringen."
+
+AUS_arm_czech_resistance:0 "Den tschechischen Widerstand bewaffnen"
+AUS_arm_czech_resistance_desc:0 "Deutschland mag zwar die Tschechoslowakei kontrollieren, aber wir können ihnen immer noch mehr als einen Strich durch die Rechnung machen; ein Konzept ist ein Stellvertreterkrieg, der durch die Finanzierung des tschechischen Widerstands geführt wird."
+
+AUS_czech_immigration:0 "Tschechische Einwanderung"
+AUS_czech_immigration_desc:0 "Die Deutschen drängen jeden arbeitsfähigen Mann irgendwo in ihrem entstehenden Reich in den Dienst. Doch die tschechischen Bürger schreien jeden Tag danach, dieser vertraglichen Knechtschaft zu entkommen und ihren Platz im österreichisch-ungarischen Reich zu finden. Wir heißen sie natürlich willkommen."
+
+AUS_demand_czech_autonomy:0 "Tschechische Autonomie fordern"
+AUS_demand_czech_autonomy_desc:0 "Die direkte Kontrolle über die Tschechoslowakei zu erlangen, mag eine verlorene Hoffnung sein, aber wir können immer noch um ihre Autonomie unter deutscher Herrschaft ersuchen. Von dort aus könnte unsere Hoffnung nicht so aussichtslos sein..."
+
+AUS_allow_czech_volunteers:0 "Tschechische Freiwillige zulassen"
+AUS_allow_czech_volunteers_desc:0 "Das tschechoslowakische Militär ist so gut wie nicht existent, und die deutsche Besatzung lässt den Menschen keine Möglichkeit, für ein Land zu kämpfen, das sie als das ihre ansehen. Tschechoslowakische Freiwillige bitten uns täglich zu Tausenden um ihren Dienst - und es ist an der Zeit, dass wir es ihnen erlauben."
+
+AUS_operation_skoda:0 "Operation: Skoda"
+AUS_operation_skoda_desc:0 "Das Ingenieurbüro Skoda ist mit einigen der klügsten Köpfe der heutigen Zeit besetzt - und fest in der von den Nazis kontrollierten Tschechoslowakei angesiedelt. Diese Köpfe wären am besten in der Lage, unseren Interessen zu dienen."
+
+AUS_request_southern_slovakia:0 "Die Südslowakei fordern"
+AUS_request_southern_slovakia_desc:0 "Die Slowakei war immer österreichisch-ungarisches Land. Jetzt, da unser alter Verbündeter es kontrolliert, ist es nur fair, dass es an uns zurückgegeben wird - und der Fall wäre leicht zu machen, wenn wir uns darum kümmern würden, es zu schaffen."
+
+AUS_continue_secret_armament:0 "Geheime Aufrüstung fortsetzen"
+AUS_continue_secret_armament_desc:0 "Wir beliefern den Widerstand in der Tschechoslowakei schon seit geraumer Zeit mit Waffen, und das zu einem beträchtlichen Preis. Man könnte dafür plädieren, dies in eine vollständige verdeckte Aufrüstung umzuwandeln."
+
+AUS_initiate_the_bohmen_plan:0 "Den Böhmen-Plan einleiten"
+AUS_initiate_the_bohmen_plan_desc:0 "Die Tschechoslowakei ist so gut wie von der deutschen Herrschaft befreit worden, und es ist an der Zeit, ihre Kontrolle direkt herauszufordern und unser Volk wieder in unsere Union einzugliedern. Krieg, wenn er unangenehm ist, ist manchmal notwendig."
+AUS_initiate_the_bohmen_plan_tt:0 "§YDie Tschechoslowakei§! wird unsere Marionette werden, aber wir werden §RDeutschland den Krieg erklären.§!\n"
+
+AUS_full_czech_citizenship:0 "Volle tschechische Staatsbürgerschaft"
+AUS_full_czech_citizenship_desc:0 "Die Tschechoslowakei war einst österreichisch-ungarisch, und die Menschen in der Tschechoslowakei galten als österreichisch-ungarisch. Es ist nur fair und richtig, dass wir diesen Status wiederherstellen, damit unser Volk unter unserer Herrschaft frei leben kann."
+
+AUS_annex_bohemia_and_moravia:0 "Böhmen und Mähren annektieren"
+AUS_annex_bohemia_and_moravia_desc:0 "Böhmen und Mähren waren einmal unter unserer Kontrolle und wird es wieder sein. Wir werden ihre Annexion verkünden, und wehe denen, die uns herausfordern."
+
+AUS_seek_closer_ties_to_yugoslavia:0 "Engere Beziehungen zu Jugoslawien anstreben"
+AUS_seek_closer_ties_to_yugoslavia_desc:0 "Jugoslawien ist kein gefährlicher Feind, aber ihre Position macht sie zu einem potenziell wertvollen Verbündeten. Eine Einladung zu dem Defensivpakt, den wir gerade schließen, wird unsere beiden Positionen stärken."
+
+AUS_demand_slovenia:0 "Slowenien fordern"
+AUS_demand_slovenia_desc:0 "Jugoslawien war schon immer ein schwaches Land, und jetzt ist es stärker bedroht als je zuvor. Es wäre eine einfache Sache, einem bereits eingeschüchterten Volk Land zu nehmen, das rechtmäßig uns gehört."
+
+AUS_invite_yugoslavia_to_faction:0 "Invite Yugoslavia to Faction"
+AUS_invite_yugoslavia_to_faction_desc:0 "Unser Defensivpakt mit Jugoslawien war bisher für beide Seiten vorteilhaft, und es ist an der Zeit, eine engere Union anzustreben - ein formelleres und konkreteres Bündnis."
+
+AUS_war_for_the_balkans:0 "Krieg um den Balkan"
+AUS_war_for_the_balkans_desc:0 "Jugoslawien befindet sich in einer schwachen Position, und unser Territorium auf dem Balkan ist reif für eine Rückeroberung. Wenn wir in den Krieg ziehen müssen, dann werden wir in den Krieg ziehen, um österreichisch-ungarische Staatsbürger in die österreichisch-ungarische Zivilisation zurückzuführen."
+
+AUS_establish_research_partnership:0 "Forschungspartnerschaft etablieren"
+AUS_establish_research_partnership_desc:0 "Es wurde ein weiterer Zusammenschluss von Österreich-Ungarn und Jugoslawien vorgeschlagen, diesmal zwischen den Größten unserer und den Größten derer Köpfe. Ein Forschungspakt wird uns beiden zugute kommen."
+
+AUS_allow_croat_semi_autonomy:0 "Kroatische Teilautonomie zulassen"
+AUS_allow_croat_semi_autonomy_desc:0 "Die Kroaten haben schon immer höhere Herrschaft verabscheut, unsere nicht mehr und nicht weniger als jede andere. Ihnen eine gewisse Autonomie zu gewähren, wird die Dinge für uns in jeder Hinsicht einfacher machen."
+
+AUS_supress_serbian_nationalists:0 "Serbische Nationalisten unterdrücken"
+AUS_supress_serbian_nationalists_desc:0 "Die Serben sind ein äußerst unabhängiges Volk, und ihre nationalistischen Fraktionen verfügen in ihren eigenen Regionen über viel Macht. Es ist an der Zeit, dem ein Ende zu setzen - notfalls mit Gewalt."
+
+AUS_establish_autonomous_serbian_puppet:0 "Autonome serbische Marionette gründen"
+AUS_establish_autonomous_serbian_puppet_desc:0 "Die serbischen Nationalisten sind der österreichisch-ungarischen Herrschaft ein Dorn im Auge, seit Serbien wieder in unsere Zuständigkeit fiel. Ihnen unter unserer Herrschaft Autonomie zu gewähren, ist eine einfache und kostenminimale Lösung des Problems."
+
+AUS_transylvania_or_war:0 "Transsylvanien oder Krieg"
+AUS_transylvania_or_war_desc:0 "Rumänien stürzte nach dem Ersten Weltkrieg wie ein Geier auf die Region Transsylvanien ein. Wir müssen dieses Land zurückfordern, und die Rückkehr unseres Volkes zu unserer Herrschaft."
+
+AUS_suppress_transylvanian_romanians:0 "Transsylvanische Rumänen unterdrücken"
+AUS_suppress_transylvanian_romanians_desc:0 "Trotz der rechtmäßigen österreichisch-ungarischen Herrschaft in Siebenbürgen gibt es immer noch ein nationalistisches rumänisches Element, das ein irritierender Dorn im Auge des Reiches bleibt. Es müssen Schritte unternommen werden, um dies zu unterdrücken."
+
+AUS_deport_romanians:0 "Siebenbürgische Rumänen abschieben"
+AUS_deport_romanians_desc:0 "Die in Siebenbürgen anwesenden rumänischen Nationalisten stellen eine ständige und irritierende Herausforderung für unsere Herrschaft dar. Sie loszuwerden, wird jedoch weniger eine Herausforderung sein, sollten wir uns dafür entscheiden."
+
+AUS_form_holy_roman_empire:0 "Das Heilige Römische Reich gründen"
+AUS_form_holy_roman_empire_desc:0 "Österreich-Ungarn ist nicht das älteste Reich Mitteleuropas. Einst war das Heilige Römische Reich eine der stärksten militärischen und politischen Mächte der damaligen Zeit - und wir kontrollieren alle dasselbe Land, dasselbe Volk, dieselbe militärische und politische Macht. Wagen wir es, die Macht, die einst Mitteleuropa beherrschte, zu reformieren?"
+
+AUS_reclaim_historical_lands:0 "Historische Länder zurückfordern"
+AUS_reclaim_historical_lands_desc:0 "Mit der Erklärung der Reformation des Heiligen Römischen Reiches haben wir stillschweigend Anspruch auf alle Gebiete erhoben, die das Reich einst kontrollierte. Aber wir sind genau dieselbe imperiale Macht! Wir brauchen stillschweigend nichts zu tun. Wir werden der Welt unseren Anspruch auf die Länder verkünden."
+
+AUS_invade_czechoslovakia:0 "Einmarsch in die Tschechoslowakei"
+AUS_invade_czechoslovakia_desc:0 ""
+
+AUS_prepare_czechoslovak_invasion:0 "Tschechoslowakische Invasion vorbereiten"
+AUS_prepare_czechoslovak_invasion_desc:0 ""
+
+ #IDEAS
+
+ AUS_eduard_freiherr:0 "Eduard Freiherr"
+ AUS_alexander_lohr:0 "Alexander Löhr"
+ AUS_lothar_rendulic:0 "Dr. Lothar Rendulic"
+ AUS_franz_bohme:0 "Franz Böhme"
+ AUS_franz_bohme_chief:0 "Franz Böhme"
+ AUS_odilo_globocnik:0 "Odilo Globocnik"
+ AUS_ernst_kaltenbrunner:0 "Ernst Kaltenbrunner"
+ AUS_ernst_kaltenbrunner_advisor:0 "Ernst Kaltenbrunner"
+ AUS_generic_fascist_demagogue:0 "Wilhelm Miklas"
+ AUS_generic_democratic_reformer:0 "Adolf Schärf"
+ AUS_generic_communist_revolutionary:0 "Franz Koritschoner"
+ AUS_arthur_seyss-inquart:0 "Arthur Seyss-Inquart"
+ AUS_leopold_figl:0 "Leopold Figl"
+ AUS_julius_raab:0 "Julius Raab"
+ AUS_otto_schobel:0 "Otto Schöbel"
+ AUS_julius_yllam:0 "Julius Yllam"
+ AUS_otto_meixner_von_zweienstamm:0 "Otto Meixner von Zweienstamm"
+ AUS_viktor_seebauer:0 "Viktor Seebauer"
+ AUS_wilhelm_zehner:0 "Wilhelm Zehner"
+ AUS_eugen_beyer:0 "Eugen Beyer"
+ AUS_paul_von_hegedus:0 "Paul von Hegedüs"
+ AUS_josef_teufl:0 "Josef Teufl"
+ AUS_hirtenberger:0 "Hirtenberger"
+ AUS_strabag_construction:0 "STRABAG-Konstruktion"
+ AUS_kapsch:0 "Kapsch"
+ AUS_royalist_support:0 "Royalistische Unterstützung"
+ AUS_royalist_plot:0 "Royalisten-Verschwörung"
+ AUS_for_kaiser_and_fatherland_idea:0 "Für Kaiser und Vaterland"
+ AUS_destabilised_hungary:0 "Destabilisiertes Ungarn"
+ AUS_aggressive_politics:0 "Aggressive Politik"
+ AUS_careful_politics:0 "Vorsichtige Politik"
+ AUS_czech_resistance:0 "Tschechischer Widerstand"
+ AUS_czech_resistance_2:0 "Tschechischer Widerstand"
+ AUS_skoda_engineers:0 "Skoda-Ingenieure"
+ AUS_growing_movement:0 "Wachsende Bewegung"
+ AUS_czech_support:0 "Tschechische Unterstützung"
+ AUS_croat_resistance:0 "Kroatischer Widerstand"
+ AUS_serbian_nationalism:0 "Serbischer Nationalismus"
+ AUS_serbian_nationalism_2:0 "Serbischer Nationalismus"
+ AUS_romanian_nationalists:0 "Rumänische Nationalisten"
+ AUS_romanian_nationalists_2:0 "Rumänische Nationalisten"
+ AUS_empire_reformed:0 "Kaiserreich reformiert"
+
+ AUS_ernst_rudiger_starhemberg:0 "Ernst Rüdiger Starhemberg"
+ AUS_ernst_kaltenbrunner:0 "Ernst Kaltenbrunner"
+ AUS_hermann_broch:0 "Hermann Broch"
+ AUS_otto_von_habsburg:0 "Otto von Habsburg"
+ AUS_wilhelm_miklas:0 "Wilhelm Miklas"
+ AUS_alfred_jansa:0 "Alfred Jansa"
+
+ AUS_german_aero_tech:0 "Deutsche Flugzeugentwürfe"
+ AUS_german_aero_tech_desc:0 "Unsere deutschen Verbündeten haben uns Zugang zu ihren neuesten Flugzeugkonstruktionen gewährt."
+
+ AUS_british_aero_tech:0 "Britische Flugzeugentwürfe"
+ AUS_british_aero_tech_desc:0 "Unsere britischen Verbündeten haben uns Zugang zu ihren neuesten Flugzeugkonstruktionen gewährt."
+
+ AUS_soviet_aero_tech:0 "Sowjetische Flugzeugentwürfe"
+ AUS_soviet_aero_tech_desc:0 "Unsere sowjetischen Verbündeten haben uns Zugang zu ihren neuesten Flugzeugkonstruktionen gewährt."
+
+ AUS_imperial_naval_academy:0 "Kaiserliche Marineakademie"
+ AUS_imperial_naval_academy_desc:0 "Die Marineakademie in Rijeka wird es uns ermöglichen, die klügsten und besten Marineoffiziere einzusetzen."
+
+ AUS_triesteshipyards:0 "Triester Schiffswerften"
+ AUS_triesteshipyards_desc:0 "Die großen Schiffswerften in der Küstenstadt Triest waren einst der Hauptproduzent der Marinen der Doppelmonarchien. Jetzt sollen sie uns wieder dienen."
+
+ AUS_csepel_muvek:0 "Csepel Muvek"
+ AUS_csepel_muvek_desc:0 "Dieser massive Industriekomplex befindet sich auf einer Insel in der Gegend von Budapest und soll unseren Bedarf für die Massenproduktion von gepanzerten Fahrzeugen decken."
+
+ AUS_erdol_bohr_und_verwertungs_gesellschaft:0 "Erdöl-Bohr und Verwertungsgesellschaft"
+
+ AUS_steyr_mannlicher:0 "Steyr Mannlicher Waffen"
+
+ AUS_steyr_daimler_puch_ag:0 "Steyr-Daimler-Puch AG"
+
+ AUS_german_armour_tech:0 "Deutsche Panzerungsentwürfe"
+ AUS_german_armour_tech_desc:0 "Unsere deutschen Verbündeten haben uns Zugang zu ihren neuesten Panzerungsentwürfen gewährt."
+
+ AUS_british_armour_tech:0 "Britische Panzerungsentwürfe"
+ AUS_british_armour_tech_desc:0 "Unsere britischen Verbündeten haben uns Zugang zu ihren neuesten Panzerungsentwürfen gewährt."
+
+ AUS_soviet_armour_tech:0 "Sowjetische Panzerungsentwürfe"
+ AUS_soviet_armour_tech_desc:0 "Unsere sowjetischen Verbündeten haben uns Zugang zu ihren neuesten Panzerungsentwürfen gewährt."
+
+ AUS_german_overseers:0 "Deutsche Aufseher"
+ AUS_german_overseers_desc:0 "Hitler's Germany may have accepted our proposal, but they still hold massive sway over our politics."
+
+ AUS_austrian_resistance:0 "Österreichischer Widerstand"
+ AUS_austrian_resistance_desc:0 "Hitler has decided that Austria must be a part of Germany, we will prove him wrong!"
+
+ AUS_front_milliz:0 "Front Milliz"
+
+ AUS_austro_hungarian_union:0 "Österreichisch-Ungarische Union"
+
+ AUS_war_for_transylvania:0 "Krieg um Transsylvanien"
+ AUS_war_for_transylvania_desc:0 "Die Kontrolle über ganz Transsylvanien könnte Rumänien zur Kapitulation zwingen."
+
+ AUS_the_austrian_plot:0 "Die österreichische Verschwörung"
+ AUS_the_austrian_plot_desc:0 "Die Österreicher planen etwas entlang unserer Grenze..."
+
+ AUS_germanic_brotherhood:0 "Germanische Bruderschaft"
+
+ AUS_ukrainian_uprising:0 "Der ukrainische Aufstand"
+ AUS_ukrainian_uprising_desc:0 "Der Krieg um die Unabhängigkeit der Ukraine hat begonnen. Wenn wir die Sowjets weit genug von der Ukraine wegdrängen, können wir sie vielleicht zur Kapitulation zwingen."
+
+ AUS_grand_imperial_bureaucracy:0 "Großkaiserliche Bürokratie"
+
+ AUS_austrian_military_assistance:0 "Österreichische Militärhilfe"
+
+ AUS_great_steppe_testing_grounds:0 "Testgelände in der Großen Steppe"
+
+ AUS_inspired_population:0 "Inspirierte Bevölkerung"
+
+ AUS_british_support:0 "Britische Unterstützung"
+ AUS_british_support_desc:0 "Mit den Briten an unserer Seite haben wir vielleicht eine Chance gegen die Deutschen."
+
+ AUS_soviet_support:0 "Sowjetische Unterstützung"
+ AUS_soviet_support_desc:0 "Mit den Sowjets an unserer Seite haben wir vielleicht eine Chance gegen die Deutschen."
+
+ AUS_austrian_neutrality:0 "Österreichische Neutralität"
+
+ #Diplomacy
+ alps_defence_member:0 "Mitglied des Alpen-Verteidigungspaktes"
+
+ #Events
+ news.10001.t:0 "Willkommen bei "Größere Möglichkeiten": Österreich"
+ news.10001.d:0 "Mit diesem Mod können Sie das Ereignis des "Anschlusses Österreichs" durch Deutschland negieren und sich Ihren eigenen Weg durch den Zweiten Weltkrieg bahnen. Lesen Sie den politischen Teil der Schwerpunkte, insbesondere Der österreichische Kompromiss, sorgfältig durch, da dies Ihre einzige Chance ist, den Anschluss zu leugnen."
+ news.10001.a:0 "Viel Spaß!"
+
+ news.1114.t:0 "Österreich-Ungarn hat sich neu geformt"
+ news.1114.d:0 "Obwohl sie mehr als 19 Jahre getrennt waren, haben Österreich und Ungarn beschlossen, der Union, die sie einst teilten, wieder beizutreten, beide Länder sind nun politisch und militärisch eins."
+ news.1114.a:0 "Werden wir das alte Imperium erneut sehen?"
+
+ austria.1111.t:0 "Der österreichische Ausgleich"
+ austria.1111.d:0 "Die österreichische Regierung hat offensichtlich von unserer Kampagne für den Anschluss unserer beiden großen Nationen gehört und einen Kompromiss angeboten - Unterstützung in einem bevorstehenden Krieg für eine zwischenzeitliche Unabhängigkeit."
+ austria.1111.a:0 "Sie werden als eigenständige Verbündete wertvoll sein."
+ austria.1111.b:0 "Müssen wir sie an die Bedeutung der wahren Einheit erinnern?"
+
+ austria.1112.t:0 "Deutschland hat unseren Vorschlag angenommen"
+ austria.1112.d:0 "Die deutsche Regierung hat unser Alternativangebot angenommen und uns unsere Freiheit als Nation gewährt. Es lebe unser Bündnis!"
+ austria.1112.a:0 "Auf die Zukunft der Mittelmächte!"
+
+ austria.1113.t:0 "Deutschland hat unseren Vorschlag abgelehnt"
+ austria.1113.d:0 "Die Nazis haben beschlossen, dass die Vereinigung der Mittelmächte der einzige Weg nach vorn ist, und es scheint, dass wir nicht Teil dieses Plans sind. Der Anschluss wird voranschreiten."
+ austria.1113.a:0 "Dies ist eine unzulässige Variante."
+
+ austria.1114.t:0 "Wiedervereinigung Österreich-Ungarn"
+ austria.1114.d:0 "Lange Zeit waren die Länder Österreich und Ungarn unter einem gemeinsamen Kaiser vereint. Die österreichische Regierung ist an uns herangetreten und bittet uns um Unterstützung bei der Wiederherstellung dieser Vereinbarung."
+ austria.1114.a:0 "Aber natürlich! Wir werden gemeinsam zurückgewinnen, was wir verloren haben!"
+ austria.1114.b:0 "Ungarn wird seine Autonomie schützen, sowohl vor Deutschen als auch vor Österreichern."
+
+ austria.1115.t:0 "Ungarn hat die Wiedervereinigung akzeptiert"
+ austria.1115.d:0 "Ungarn hat seinen Platz in unserem neuen, gemeinsamen Reich akzeptiert. Jetzt blicken wir nach vorne, in die Zukunft Österreich-Ungarns!"
+ austria.1115.a:0 "Vorwärts!"
+
+ austria.1116.t:0 "Ungarn hat die Wiedervereinigung verweigert"
+ austria.1116.d:0 "Es scheint, dass die Ungarn ihre Autonomie schützen. Unser Angebot wurde respektvoll abgelehnt, was Zweifel an ihren wahren Motiven aufkommen lässt."
+ austria.1116.a:0 "Hm..."
+
+ austria.1117.t:0 "Österreich-Ungarn fordert Transsylvanien"
+ austria.1117.d:0 "Österreich-Ungarn hat bei seinem eigenen Volk und unserem Volk Erklärungen über die Bedeutung Siebenbürgens für das ungarische Volk abgegeben. Wenn wir einen Krieg vermeiden wollen, ist der Bruchpunkt erreicht - treten wir Siebenbürgen ab?"
+ austria.1117.a:0 "Transsilvanien gehört uns zu Recht!"
+ austria.1117.b:0 "Wenn wir in den Krieg ziehen, werden sie uns einfach alles nehmen."
+
+ austria.1118.t:0 "Rumänien hat nachgegeben"
+ austria.1118.d:0 "Die Rumänen haben eine ungewöhnliche Weisheit gezeigt, indem sie Siebenbürgen wie gefordert abgetreten haben. Die lokale Regierungsinfrastruktur wird bereits in unsere Kontrolle übergeben, und wir können bei Bedarf Truppen einziehen."
+ austria.1118.a:0 "Perfekt."
+
+ austria.1119.t:0 "Rumänien hat uns verweigert"
+ austria.1119.d:0 "Es scheint, dass die rumänischen Emporkömmlinge vergessen haben, zu wem Transsylvanien gehört. Ein Krieg mit ihnen ist absolut gerechtfertigt; aber ist es an der Zeit?"
+ austria.1119.a:0 "Die Narren. Mobilisieren Sie die Truppen."
+ austria.1119.b:0 "Krieg ist im Augenblick unpassend. Ein anderes Mal."
+
+ austria.1122.t:0 "Transsylvanien gehört uns"
+ austria.1122.d:0 "Transsylvanien gehört uns, und wir haben die Möglichkeit, einen vorteilhaften Frieden zu erzwingen, um das Land, das wir gefordert haben, zu erhalten. Dieser Krieg hat bereits zu viele Menschenleben gefordert; sollten wir ein Friedensabkommen erzwingen?"
+ austria.1122.a:0 "Dieser Krieg ist jetzt sinnlos."
+ austria.1122.b:0 "Vorstoß nach Bukarest!"
+
+ austria.1124.t:0 "Die Rumänienfrage"
+ austria.1124.d:0 "Die rumänische Mehrheit in Siebenbürgen hat, obwohl weitgehend friedlich, einen heftigen politischen Widerstand gegen die ungarische Herrschaft aufrecht erhalten. Dies ist inakzeptabel. Wenn die Mehrheit ihre Herrschaft nicht akzeptieren will, werden wir sie zu einer Minderheit machen."
+ austria.1124.a:0 "Entfernt sie."
+ austria.1124.b:0 "Vielleicht eine Brücke zu weit."
+
+ austria.1125.t:0 "Österreich fordert Slowenien"
+ austria.1125.d:0 "Die österreichische Regierung hat in letzter Zeit politischen Druck auf die Region Slowenien ausgeübt. Ein Krieg mit ihnen mag kostspielig sein, aber können wir es uns leisten, Land so einfach abzutreten?"
+ austria.1125.a:0 "Wenn es das Leben unseres Volkes schont, ja."
+ austria.1125.b:0 "Niemals! Jugoslawien wird seine eigenen verteidigen!"
+
+ austria.1126.t:0 "Jugoslawien tritt an Slowenien ab"
+ austria.1126.d:0 "Die Jugoslawen haben das Land, das wir gefordert haben, klugerweise abgetreten und unseren Truppen vollständigen Zugang sowie die Kontrolle über alle Einrichtungen gewährt. Unsere Pläne gehen wie vorgesehen weiter."
+ austria.1126.a:0 "Ausgezeichnet."
+
+ austria.1127.t:0 "Yugoslavia refused our demands"
+ austria.1127.d:0 "Die aufstrebende Schein-Nation Jugoslawien scheint sich gegen uns wehren zu wollen. Welche andere Erklärung könnten wir für eine so unhöfliche Weigerung haben? Wir werden uns zurückholen müssen, was uns gehört."
+ austria.1127.a:0 "Dann haben wir wohl keine andere Wahl."
+
+ austria.1128.t:0 "Österreich fordert ehemalige Gebiete"
+ austria.1128.d:0 "Die österreichischen Aggressionen haben sich zugespitzt, und sie fordern nun die nördlichen Gebiete Jugoslawiens für ihre eigenen Zwecke. Sie sind eine einschüchternde Macht - aber sollten wir nachgeben?"
+ austria.1128.a:0 "Wir werden unser eigenes Land verteidigen!"
+ austria.1128.b:0 "Wir können keinen Krieg mit Österreich führen."
+
+ austria.1129.t:0 "Jugoslawien lehnt unsere Forderungen ab"
+ austria.1129.d:0 "Der Scheinstaat Jugoslawien hat uns das Land verweigert, auf das wir jedes Recht haben. Wir können in diesem Augenblick in den Krieg ziehen, aber ist es der richtige Zeitpunkt?"
+ austria.1129.a:0 "Wir werden nehmen, was wir brauchen."
+ austria.1129.b:0 "Jetzt ist nicht die Zeit dafür."
+
+ austria.1130.t:0 "Jugoslawien tritt an den Nordbalkan ab"
+ austria.1130.d:0 "Jugoslawien hat erkannt, dass es sich einem Krieg mit unserem überlegenen Militär nicht stellen kann, und hat sein nördliches Land an uns abgetreten. Wir sind bereits dabei, unsere eigenen politischen Kräfte einzusetzen."
+ austria.1130.a:0 "Genau wie geplant."
+
+ austria.1131.t:0 "Unsere Ziele sind erreicht worden"
+ austria.1131.d:0 "Wir haben Jugoslawien den Boden genommen, den wir gefordert haben, und jetzt greifen seine verzweifelten Verteidigungskräfte nach Strohhalmen, um einen Ausweg zu finden - einschließlich eines Waffenstillstands. Wir können dies jetzt durchsetzen, aber ist es die beste Option?"
+ austria.1131.a:0 "Jetzt ist nicht die Zeit für überlange Kriege."
+ austria.1131.b:0 "Wir können und werden ihnen alles nehmen, was sie haben!"
+
+ austria.1132.t:0 "Remilitarisierung Serbiens"
+ austria.1132.d:0 "Nach dem Jugoslawienkrieg haben unsere Armeen taktischen Zugang zu tieferen Regionen Serbiens erhalten. Vorwärts!"
+ austria.1132.a:0 "Genau wie geplant!"
+
+ austria.1133.t:0 "Österreich erbittet Slowakei"
+ austria.1133.d:0 "Die österreichische Regierung hat einen Antrag gestellt, dass die besetzte Region der Slowakei in Anbetracht ihres angestammten Erbes als österreichisch-ungarisches Land unter ihre Kontrolle gebracht wird."
+ austria.1133.a:0 "Dies scheint vernünftig zu sein."
+ austria.1133.b:0 "Es war österreichisch und ist jetzt deutsch."
+
+ austria.1138.t:0 "Deutschland hat uns die Slowakei gegeben"
+ austria.1138.d:0 "Die deutsche Regierung ist zu dem Konsens gekommen, dass wir eine Beteiligung in der slowakischen Region verdienen. Sie hat uns die Kontrolle über alle Einrichtungen übertragen, und es steht uns frei, das Land in jeder erforderlichen Weise zu nutzen."
+ austria.1138.a:0 "Ausgezeichnet."
+
+ austria.1139.t:0 "Deutschland hat die Slowakei zurückgehalten"
+ austria.1139.d:0 "Deutschland hat unsere Anfrage für die slowakische Region abgelehnt. Ein trauriger Stand der Dinge, aber wir werden unseren Tag sicher noch erleben."
+ austria.1139.a:0 "Ein unglücklicher Rückschlag."
+
+ austria.1140.t:0 "Österreich bittet um Krakau"
+ austria.1140.d:0 "Österreich hat die polnische Region Krakau beantragt, die seit langem zwischen Österreich-Ungarn und Polen umkämpft ist. Ihr Anspruch ist gerechtfertigt - aber werden wir ihm stattgeben?"
+ austria.1140.a:0 "Natürlich."
+ austria.1140.b:0 "Dies entspricht nicht unseren Bedürfnissen."
+
+ austria.1141.t:0 "Deutschland hat uns Krakau übergeben."
+ austria.1141.d:0 "Deutschland hat den Zugang zur Region Krakau abgetreten und uns damit Zugang zu einem weiteren alten Zentrum des österreichisch-ungarischen Erbes gewährt."
+ austria.1141.a:0 "Ausgezeichnet."
+
+ austria.1142.t:0 "Deutschland hat Krakau einbehalten."
+ austria.1142.d:0 "Deutschland hat uns Krakau verwehrt, uns den Zugang zur Stadt verwehrt und uns altes österreichisch-ungarisches Land vorenthalten. Eine fragwürdige Entscheidung, ganz sicher."
+ austria.1142.a:0 "Fraglich, aber unerbittlich."
+
+ austria.1143.t:0 "Dalmatien für Südtirol"
+ austria.1143.d:0 "Die politischen Machenschaften Italiens haben uns nach dem Ersten Weltkrieg einen Teil Tirols eingebracht. Die Österreicher beabsichtigen, das Gebiet rechtzeitig zurückzuerobern - und wir beabsichtigen, Dalmatien zu beanspruchen. Vielleicht kann eine Einigung erzielt werden...?"
+ austria.1143.a:0 "Es scheint notwendig zu sein."
+ austria.1143.b:0 "Wir werden ihnen nichts abtreten!"
+
+ austria.1144.t:0 "Italien hat unserer Vereinbarung zugestimmt"
+ austria.1144.d:0 "Die Italiener haben unser Angebot angenommen und zugestimmt, ihre Truppen aus Dalmatien zu verlegen, so wie wir unsere aus Tirol verlegen. Der Austausch ist sofort wirksam."
+ austria.1144.a:0 "Genau wie geplant."
+
+ austria.1145.t:0 "Italien hat unser Abkommen abgelehnt"
+ austria.1145.d:0 "Die Italiener haben entschieden, dass ihr Anspruch auf die italienische Mehrheit in Dalmatien mehr wert ist als ihr zweifelhafter Anspruch auf das übrige Tirol. Sie haben unser Angebot abgelehnt."
+ austria.1145.a:0 "Vielleicht ist es so am besten."
+
+ austria.1146.t:0 "Österreich fordert die istrische Halbinsel"
+ austria.1146.d:0 "Die Österreicher haben die Halbinsel Istrien gefordert, die seit der Zeit vor dem Ersten Weltkrieg eine Hochburg der österreichisch-ungarischen Marineüberlegenheit war. Sie zu verweigern könnte Konsequenzen haben."
+ austria.1146.a:0 "Sie sind eine zu gefährliche Macht, um sie zu leugnen."
+ austria.1146.b:0 "Wir können mit den Konsequenzen umgehen."
+
+ austria.1147.t:0 "Italien hat Istrien abgetreten"
+ austria.1147.d:0 "Italien hat die alte Marinehochburg Istrien mit sofortiger Wirkung an uns abgetreten. Es steht unseren Truppen frei, sie zurückzuerobern."
+ austria.1147.a:0 "Perfekt!"
+
+ austria.1148.t:0 "Italien hat unsere Forderungen abgelehnt"
+ austria.1148.d:0 "Die Italiener haben uns törichterweise die Stirn geboten. Vielleicht ist es an der Zeit, dass wir den Emporkömmlingen zeigen, dass ein einmaliger Sieg über uns keine Garantie für einen erneuten Sieg ist."
+ austria.1148.a:0 "Sind sie auf einen Krieg vorbereitet?"
+
+ austria.1149.t:0 "Österreichische Einladung"
+ austria.1149.d:0 "Die österreichische Regierung hat eine Einladung zu einem Militärbündnis unter Führung des eigenen Reiches ausgesprochen. Einen mächtigen Verbündeten zu haben - aber brauchen wir ihre Hilfe?"
+ austria.1149.a:0 "Jede Hilfe in diesen instabilen Zeiten ist willkommen."
+ austria.1149.b:0 "Wir können unseren eigenen Weg schmieden."
+
+ austria.1150.t:0 "Österreichisches Ultimatum"
+ austria.1150.d:0 "Österreich hat uns ein Ultimatum gestellt - unter die Herrschaft des Österreichischen Kaiserreichs zu kommen oder gewaltsam unter österreichische Herrschaft gebracht zu werden. Wir befinden uns in einer schwierigen Lage."
+ austria.1150.a:0 "Wir werden die Lebensweise unserer Bürger schützen!"
+ austria.1150.b:0 "Es scheint, dass wir die österreichische Führung akzeptieren müssen."
+
+ austria.1151.t:0 "Griechenland hat unser Ultimatum abgelehnt"
+ austria.1151.d:0 "Die unverschämten Griechen haben uns mit einer scharfen Ohrfeige ins Gesicht geschlagen und unser Angebot des politischen und militärischen Schutzes verweigert. Eine solche offene Geste ist absolut eine Kriegshandlung!"
+ austria.1151.a:0 "Und so werden wir es auch behandeln!"
+
+ austria.1152.t:0 "Griechenland hat sich unserem Ultimatum gebeugt"
+ austria.1152.d:0 "Griechenland hat unser Schutzangebot in diesen dunklen und unruhigen Zeiten weise angenommen. Ihre Regierung hat mit minimalem Aufwand den Besitzer gewechselt, und sie werden als Teil unserer Koalition agieren."
+ austria.1152.a:0 "Eine weise Entscheidung."
+
+ austria.1153.t:0 "Einladung aus Österreich"
+ austria.1153.d:0 "Unsere alten Verbündeten, die Österreicher, haben einen Arm in Freundschaft ausgestreckt und eine Wiederauferstehung der alten Mittelmächte angeboten. Vielleicht ist es an der Zeit, sich wieder mit unseren alten osmanischen Verbündeten zu verbünden?"
+ austria.1153.a:0 "Wenn es eine Zeit gibt, dann jetzt."
+ austria.1153.b:0 "Wir müssen unsere Verbündeten sorgfältiger prüfen, wenn ein Krieg bevorsteht."
+
+ austria.1154.t:0 "Die Türkei hat sich bereit erklärt, sich uns anzuschließen"
+ austria.1154.d:0 "Die Türkei hat unser Bündnisangebot angenommen und steht uns in jedem künftigen Konflikt zur Seite. Die Osmanen haben ihre Freunde nicht vergessen!"
+ austria.1154.a:0 "Und wir auch nicht."
+
+ austria.1155.t:0 "Die Türkei hat sich geweigert, sich uns anzuschließen"
+ austria.1155.d:0 "Die Türkei, so scheint es, hat vergessen, wie loyal wir im Großen Krieg zueinander gestanden haben. Sie hat unser Bündnis verleugnet und wird ihren eigenen Weg gehen."
+ austria.1155.a:0 "Ein beunruhigendes Konzept."
+
+ austria.1156.t:0 "Wir haben die Sowjets zurückgeschlagen"
+ austria.1156.d:0 "Der ukrainische Aufstand ist relativ gesehen gut verlaufen, und dennoch ist der sowjetische Bär immer noch eine beunruhigende Präsenz über uns. Wir können weiter Druck machen, wenn wir glauben, dass wir mehr Boden gewinnen können - oder wir können ein Friedensabkommen erreichen."
+ austria.1156.a:0 "Wir werden Frieden anbieten - mit Bedingungen."
+ austria.1156.b:0 "Die Sowjets dürfen nicht weitermachen!"
+
+ austria.1157.t:0 "Der ukrainische Waffenstillstand"
+ austria.1157.d:0 "Die Österreicher haben einen Friedensvertrag abgeschlossen. Wenn man bedenkt, wie der Krieg verlaufen ist, sind die Bedingungen großzügig - ein sofortiger Waffenstillstand im Tausch gegen Freiheit für die russische Ukraine. Sollten wir das akzeptieren?"
+ austria.1157.a:0 "Es scheint notwendig zu sein."
+ austria.1157.b:0 "Erst wenn der letzte Mann tot ist!"
+
+ austria.1158.t:0 "Die Sowjets haben nachgegeben"
+ austria.1158.d:0 "Die Sowjets haben einen Waffenstillstand akzeptiert. Die Ukraine ist in den Händen der Ukrainer, und die Ukrainer sind uns sehr dankbar. Ein großer Sieg."
+ austria.1158.a:0 "Und ein weiterer Schritt in unseren Plänen."
+
+ austria.1159.t:0 "Die Sowjets haben sich geweigert"
+ austria.1159.d:0 "Die Sowjets haben beschlossen, dass ihren Interessen durch einen langen, zermürbenden Krieg besser gedient ist. Vielleicht ein Beweis für die wahre sowjetische Auffassung vom Wert des Arbeiters?"
+ austria.1159.a:0 "Um unserer selbst willen werden wir dies schnell beenden."
+
+ austria.1160.t:0 "Wir haben unsere Ziele erreicht"
+ austria.1160.d:0 "Der ukrainische Aufstand ist gut verlaufen, und ein freier ukrainischer Staat ist jetzt eine Möglichkeit. Wir können den Sowjets ein Friedensabkommen anbieten - Frieden für die Freiheit der Ukraine. Ein vernünftigeres Angebot konnten wir nicht machen."
+ austria.1160.a:0 "Alles, um die Demokratie in die Ukraine zu bringen."
+ austria.1160.b:0 "Man kann den Sowjets nicht trauen, dass sie friedlich bleiben."
+
+ ### GERMAN TECH ###
+
+ austria.1161.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1161.d:0 "Wir haben den Entwurf für den §YPanzer III§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1161.a:0 "Ein Geschenk unserer Brüder."
+ austria.1161.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YPanzer III§!."
+
+ austria.1162.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1162.d:0 "Wir haben den Entwurf für den §YPanzer IV§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1162.a:0 "Ein Geschenk unserer Brüder."
+ austria.1162.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YPanzer IV§!."
+
+ austria.1163.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1163.d:0 "Wir haben den Entwurf für den §YPanther§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1163.a:0 "Ein Geschenk unserer Brüder."
+ austria.1163.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YPanther§!."
+
+ austria.1164.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1164.d:0 "Wir haben den Entwurf für den §YPanzer I§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1164.a:0 "Ein Geschenk unserer Brüder."
+ austria.1164.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YPanzer I§!."
+
+ austria.1165.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1165.d:0 "Wir haben den Entwurf für den §YPanzer II§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1165.a:0 "Ein Geschenk unserer Brüder."
+ austria.1165.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YPanzer II§!."
+
+ austria.1166.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1166.d:0 "Wir haben den Entwurf für den §YLeopard§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1166.a:0 "Ein Geschenk unserer Brüder."
+ austria.1166.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YLeopard§!."
+
+ austria.1167.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1167.d:0 "Wir haben den Entwurf für den §YTiger I§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1167.a:0 "Ein Geschenk unserer Brüder."
+ austria.1167.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YTiger I§!."
+
+ austria.1168.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1168.d:0 "Wir haben den Entwurf für den §YTiger II§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1168.a:0 "Ein Geschenk unserer Brüder."
+ austria.1168.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YTiger II§!."
+
+ austria.1169.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1169.d:0 "Wir haben den Entwurf für den §YMaus§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1169.a:0 "Ein Geschenk unserer Brüder."
+ austria.1169.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YMaus§!."
+
+ austria.1170.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1170.d:0 "Wir haben den Entwurf für den §YE-50 Standardpanzer§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1170.a:0 "Ein Geschenk unserer Brüder."
+ austria.1170.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YE-50 Standardpanzer§!."
+
+ austria.1172.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1172.d:0 "Wir haben den Entwurf für die §YBf 109§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1172.a:0 "Ein Geschenk unserer Brüder."
+ austria.1172.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YBf 109§!."
+
+ austria.1173.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1173.d:0 "Wir haben den Entwurf für die §YFw 190§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1173.a:0 "Ein Geschenk unserer Brüder."
+ austria.1173.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YFw 190§!."
+
+ austria.1174.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1174.d:0 "Wir haben den Entwurf für die §YTa 152§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1174.a:0 "Ein Geschenk unserer Brüder."
+ austria.1174.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YTa 152§!."
+
+ austria.1175.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1175.d:0 "Wir haben den Entwurf für die §YMe 262§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1175.a:0 "Ein Geschenk unserer Brüder."
+ austria.1175.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YMe 262§!."
+
+ austria.1176.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1176.d:0 "Wir haben den Entwurf für die §YHo 229§! von unseren Verbündeten in Deutschland erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1176.a:0 "Ein Geschenk unserer Brüder."
+ austria.1176.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YHo 229§!."
+
+ austria.1171.t:0 "Deutschland hat unser Handelsabkommen gekündigt"
+ austria.1171.d:0 "Wir haben die Nachricht erhalten, dass die deutsche Regierung uns den Zugang zu ihren technologischen Verbesserungen gestrichen hat."
+ austria.1171.a:0 "Wir werden das nutzen, was wir haben."
+
+ ### BRITSH TECH ###
+
+ austria.1177.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1177.d:0 "Wir haben den Entwurf für den §YVicker II§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1177.a:0 "A gift from our friends."
+ austria.1177.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YVicker II§!."
+
+ austria.1178.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1178.d:0 "Wir haben den Entwurf für die §YMatilda§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1178.a:0 "A gift from our friends."
+ austria.1178.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YMatilda§!."
+
+ austria.1179.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1179.d:0 "Wir haben den Entwurf für den §YValentine§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1179.a:0 "A gift from our friends."
+ austria.1179.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YValentine§!."
+
+ austria.1180.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1180.d:0 "Wir haben den Entwurf für den §YCrusader§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1180.a:0 "A gift from our friends."
+ austria.1180.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YCrusader§!."
+
+ austria.1181.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1181.d:0 "Wir haben den Entwurf für den §YCromwell§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1181.a:0 "A gift from our friends."
+ austria.1181.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YCromwell§!."
+
+ austria.1182.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1182.d:0 "Wir haben den Entwurf für den §YComet§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1182.a:0 "A gift from our friends."
+ austria.1182.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YComet§!."
+
+ austria.1183.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1183.d:0 "Wir haben den Entwurf für den §YVickers A1E1 Independent§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1183.a:0 "A gift from our friends."
+ austria.1183.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YVickers A1E1 Independent§!."
+
+ austria.1184.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1184.d:0 "Wir haben den Entwurf für den §YChurchill§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1184.a:0 "A gift from our friends."
+ austria.1184.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YChurchill§!."
+
+ austria.1185.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1185.d:0 "Wir haben den Entwurf für den §YBlack Prince§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1185.a:0 "A gift from our friends."
+ austria.1185.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YBlack Prince§!."
+
+ austria.1186.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1186.d:0 "Wir haben den Entwurf für den §YCenturion§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1186.a:0 "A gift from our friends."
+ austria.1186.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YCenturion§!."
+
+ austria.1207.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1207.d:0 "Wir haben den Entwurf für die §YTortoise§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1207.a:0 "A gift from our friends."
+ austria.1207.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YTortoise§!."
+
+ austria.1187.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1187.d:0 "Wir haben den Entwurf für die §YHurricane§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1187.a:0 "A gift from our friends."
+ austria.1187.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YHurricane§!."
+
+ austria.1188.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1188.d:0 "Wir haben den Entwurf für die §YSpitfire§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1188.a:0 "A gift from our friends."
+ austria.1188.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YSpitfire§!."
+
+ austria.1189.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1189.d:0 "Wir haben den Entwurf für die §YSpiteful§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1189.a:0 "A gift from our friends."
+ austria.1189.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YSpiteful§!."
+
+ austria.1190.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1190.d:0 "Wir haben den Entwurf für die §YMeteor§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1190.a:0 "A gift from our friends."
+ austria.1190.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YMeteor§!."
+
+ austria.1191.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1191.d:0 "Wir haben den Entwurf für die §YVampire§! von unseren Verbündeten in Großbritannien erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1191.a:0 "A gift from our friends."
+ austria.1191.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YVampire§!."
+
+ austria.1192.t:0 "Großbritannien hat unser Handelsabkommen gekündigt"
+ austria.1192.d:0 "Uns ist zu Ohren gekommen, dass die britische Regierung uns den Zugang zu ihren technologischen Verbesserungen gestrichen hat."
+ austria.1192.a:0 "Wir werden das nutzen, was wir haben."
+
+ ### SOVIET TECH ###
+
+ austria.1193.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1193.d:0 "Wir haben den Entwurf für den §YT-26§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1193.a:0 "Ein Geschenk unserer Genossen."
+ austria.1193.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YT-26§!."
+
+ austria.1194.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1194.d:0 "Wir haben den Entwurf für den §YBT-7§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1194.a:0 "Ein Geschenk unserer Genossen."
+ austria.1194.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YBT-7§!."
+
+ austria.1195.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1195.d:0 "Wir haben den Entwurf für den §YT-60§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1195.a:0 "Ein Geschenk unserer Genossen."
+ austria.1195.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YT-60§!."
+
+ austria.1196.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1196.d:0 "Wir haben den Entwurf für den §YA-32§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1196.a:0 "Ein Geschenk unserer Genossen."
+ austria.1196.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YA-32§!."
+
+ austria.1197.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1197.d:0 "Wir haben den Entwurf für den §YT-34§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1197.a:0 "Ein Geschenk unserer Genossen."
+ austria.1197.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YT-34§!."
+
+ austria.1198.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1198.d:0 "Wir haben den Entwurf für den §YT-44§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1198.a:0 "Ein Geschenk unserer Genossen."
+ austria.1198.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YT-44§!."
+
+ austria.1199.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1199.d:0 "Wir haben den Entwurf für den §YT-35§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1199.a:0 "Ein Geschenk unserer Genossen."
+ austria.1199.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YT-35§!."
+
+ austria.1200.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1200.d:0 "Wir haben den Entwurf für den §YKV-1§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1200.a:0 "Ein Geschenk unserer Genossen."
+ austria.1200.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YKV-1§!."
+
+ austria.1201.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1201.d:0 "Wir haben den Entwurf für den §YIS-1§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1201.a:0 "Ein Geschenk unserer Genossen."
+ austria.1201.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YIS-1§!."
+
+ austria.1202.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1202.d:0 "Wir haben den Entwurf für den §YIS-7§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1202.a:0 "Ein Geschenk unserer Genossen."
+ austria.1202.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YIS-7§!."
+
+ austria.1203.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1203.d:0 "Wir haben den Entwurf für den §YT-54§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1203.a:0 "Ein Geschenk unserer Genossen."
+ austria.1203.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YT-54§!."
+
+ austria.1204.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1204.d:0 "Wir haben den Entwurf für den §YI-16§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1204.a:0 "Ein Geschenk unserer Genossen."
+ austria.1204.a.tt:0 "Erhalten Sie eine aktualisierte Variante des §YI-16§!."
+
+ austria.1205.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1205.d:0 "Wir haben den Entwurf für den §YLaGG-3§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1205.a:0 "Ein Geschenk unserer Genossen."
+ austria.1205.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YLaGG-3§!."
+
+ austria.1206.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1206.d:0 "Wir haben den Entwurf für den §YYaK-3§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1206.a:0 "Ein Geschenk unserer Genossen."
+ austria.1206.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YYaK-3§!."
+
+ austria.1207.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1207.d:0 "Wir haben den Entwurf für den §YMiG-9§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1207.a:0 "Ein Geschenk unserer Genossen."
+ austria.1207.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YMiG-9§!."
+
+ austria.1208.t:0 "Wir haben neue Konstruktionsunterlagen erhalten"
+ austria.1208.d:0 "Wir haben den Entwurf für den §YMiG-15§! von unseren Verbündeten in der Sowjetunion erhalten. Das neue Design wird sofort produktionsbereit sein."
+ austria.1208.a:0 "Ein Geschenk unserer Genossen."
+ austria.1208.a.tt:0 "Erhalten Sie eine aktualisierte Variante der §YMiG-15§!."
+
+ ### ROYALIST SECTION ###
+
+ austria.5000.t:0 "Österreich schlägt Alpen-Verteidigungspakt vor"
+ austria.5000.d:0 "Scheinbar in dem Bemühen, die räuberischen Taktiken der Deutschen in ihrem Norden abzuwehren, sind wir mit österreichischen Diplomaten mit einem Vorschlag für einen Verteidigungspakt zusammengetroffen. Das Ziel besteht eindeutig darin, die Bindungen, die wir bereits mit ihrer Nation haben, zu verstärken, und dies könnte auch als Abschreckung für die deutsche Expansion wirken. Wie sollte unsere Antwort lauten?"
+ austria.5000.a:0 "Ja, es ist an der Zeit, unsere Freundschaft zu formalisieren"
+ austria.5000.b:0 "Nein, wir können nicht riskieren, die Deutschen zu verärgern"
+
+ austria.5001.t:0 "Italien lehnt unseren Vorschlag ab"
+ austria.5001.d:0 "Offensichtlich aus Angst vor weiteren deutschen Vergeltungsmaßnahmen haben die Italiener unseren großzügigen Vorschlag abgelehnt."
+ austria.5001.a:0 "Wenn wir allein stehen müssen, werden wir dies tun"
+
+ news.6000.t:0 "Österreich und Italien unterzeichnen Verteidigungspakt"
+ news.6000.d:0 "Unter dem Namen "Alpen-Verteidigungspakt" berichten neue Stellen, dass sich die Nationen Österreich und Italien in der Frage der gegenseitigen Verteidigung geeinigt haben. Ob Italien seinen neuen Verbündeten ausnutzen will, um den deutschen Expansionismus zu stoppen, oder ob es lediglich seine Nordgrenzen absichern will, ist unbekannt. Wie dem auch sei, die Idee einer konfliktlosen Verletzung der Souveränität Österreichs scheint sich über Nacht verflüchtigt zu haben."
+ news.6000.a:0 "Einst Feinde, jetzt Freunde"
+ news.6000.b:0 "Eine großartige Gelegenheit"
+
+ austria.5002.t:0 "Nationalsozialisten versuchen Putsch"
+ austria.5002.d:0 "Nazi-Fanatiker sind in das geltende Parlamentsgebäude eingebrochen, haben viele Politiker getötet und für öffentlichen Aufruhr gesorgt. Sie haben öffentlich gefordert, dass sie ihre Machtposition zurückerhalten. Ihr Putsch wurde niedergeschlagen - aber ihre Forderung füllt den Platz aus, an dem einst gute, ehrliche Politiker saßen."
+ austria.5002.a:0 "Dies ist jedoch eine Chance, unsere Position zu stärken."
+ austria.5002.b:0 "Wenn wir uns ihren Forderungen nicht beugen, finden sie vielleicht einen Weg, eine weitere Gräueltat zu begehen."
+
+ austria.5003.t:0 "Österreich schlägt den Vertrag von Venedig vor"
+ austria.5003.d:0 "Wieder einmal sind österreichische Diplomaten an uns herangetreten, die nun versuchen, unseren Pakt zu einem vollständigen Bündnis zu formalisieren. Was wird unsere Antwort sein?"
+ austria.5003.a:0 "Den Vertrag unterzeichnen"
+ austria.5003.b:0 "Wir weigern uns, diesen Vertrag zu unterzeichnen"
+
+ austria.5004.t:0 "Italien lehnt Vorschlag ab"
+ austria.5004.d:0 "Unfähig, unsere freundschaftlichen Beziehungen zu verdoppeln, haben die feigen Italiener unseren gnädigsten Vorschlag abgelehnt."
+ austria.5004.a:0 "Vielleicht sollten wir anderswo Allianzen suchen"
+
+ austria.5005.t:0 "Österreichisches Interventionsangebot"
+ austria.5005.d:0 "Inmitten des Krieges um die Zukunft Italiens sind Österreichs Diplomaten an uns herangetreten und haben Hilfe bei der Wiederherstellung Italiens in seiner Monarchie angeboten. Sie bitten um eine Sache - die Rückgabe der Länder, die wir aus dem Ersten Weltkrieg gewonnen haben."
+ austria.5005.a:0 "Ein faires Angebot für unschätzbare Hilfe."
+ austria.5005.b:0 "Der Preis ist zu hoch; schicken Sie sie weg."
+
+ austria.5006.t:0 "Österreich schlägt Liechtenstein-Vertrag vor"
+ austria.5006.d:0 "Diplomaten aus Österreich sind mit einem Vorschlag für einen Vertrag eingetroffen. Ziel ist es, ihre Liste der Verbündeten im Falle eines bewaffneten Konflikts deutlich zu erweitern. Da der deutsche Expansionismus auf dem Vormarsch ist und Eruope sich scheinbar auf einen weiteren Krieg zubewegt, ist es vielleicht klug, ihre Worte zu beherzigen und ihr Angebot ernsthaft in Erwägung zu ziehen."
+ austria.5006.a:0 "Ja, wir müssen Verbündete für den Fall eines weiteren Krieges in Europa suchen"
+ austria.5006.b:0 "Wir können einen Vorschlag, der unsere Neutralität untergraben könnte, nicht akzeptieren"
+
+ austria.5007.t:0 "Die Schweiz lehnt unseren Vertrag ab"
+ austria.5007.d:0 "Ob aus dem Wunsch heraus, ihre rein neutrale Haltung gegenüber dem Rest der Welt beizubehalten, oder einfach aus Differenzen zwischen ihrer und unserer Regierung, die Schweizer haben unseren Vorschlag für ein Bündnis abgelehnt."
+ austria.5007.a:0 "Verdammt."
+
+ austria.5008.t:0 "Österreich fordert Südtirol und Istrien"
+ austria.5008.d:0 "Österreich, das unsere Zeit der Schwäche gespürt hat, hat Diplomaten zu uns gesandt, um die Rückkehr der einst österreichischen Provinzen Südtirol und Istrien zu "erbitten". Man fragt sich, wie viel Einfluss sie bisher auf die Ereignisse hatten."
+ austria.5008.a:0 "Wir können es uns nicht leisten, einen Kampf an zwei Fronten zu führen. Wir werden das Land abtreten."
+ austria.5008.b:0 "Sie würden es nicht wagen, Land zu nehmen, für das wir gekämpft und das wir gewonnen haben, auch jetzt nicht. Wir bleiben standhaft."
+
+ austria.5009.t:0 "Königreich Italien lehnt unsere Forderungen ab"
+ austria.5009.d:0 "Wieder einmal haben sich die Italiener geweigert, unsere legitimen Ansprüche auf die Länder Südtirol und Istrien anzuerkennen. Unser Versuch, diese Länder auf diplomatischem Wege zurückzuerobern, ist zwar gescheitert, aber vielleicht wäre ein direkterer Ansatz wirksamer."
+ austria.5009.a:0 "Die Diplomatie hat uns im Stich gelassen, vielleicht ist ein anderer Weg machbar"
+
+ austria.5010.t:0 "Österreich schlägt Bündnis vor"
+ austria.5010.d:0 "Unsere alte Schwester-Nation Österreich hat ein Bündnis zwischen uns vorgeschlagen. Obwohl diese Verbindung nicht so stark wäre wie die unseres gemeinsamen Monarchen, wäre es eine Rückkehr zu unseren früheren Beziehungen."
+ austria.5010.a:0 "Das ist natürlich die einzig sinnvolle Option."
+ austria.5010.b:0 "Österreich-Ungarn ist gescheitert. Die Wege Ungarns und Österreichs trennen sich nun."
+
+ austria.5011.t:0 "Österreich fordert tschechische Autonomie!"
+ austria.5011.d:0 "Die österreichisch-ungarische Monarchie hat sich an unsere Beamten gewandt und die Freigabe ihres ehemaligen Territoriums unter halbautonomer deutscher Herrschaft gefordert. Wie sie davon profitieren, ist noch nicht bekannt."
+ austria.5011.a:0 "Solange das Land deutsch bleibt, dürfen sich die Menschen nennen, wie sie wollen."
+ austria.5011.b:0 "Auf keinen Fall. Das Schicksal der Tschechoslowakei ist geschmiedet."
+
+ austria.5012.t:0 "Österreich bittet um die Südslowakei!"
+ austria.5012.d:0 "Österreich-Ungarn hat die Rückgabe der Südslowakei an seine Herrschaft, wie sie vor dem Ersten Weltkrieg war, beantragt. Angesichts der Geschichte der Region erheben sie einen berechtigten Anspruch."
+ austria.5012.a:0 "Die Fairness des Anspruchs kann nicht bestritten werden."
+ austria.5012.b:0 "Sie ist und bleibt unter deutscher Herrschaft."
+
+ austria.5013.t:0 "Österreich lädt uns zum Alpen-Verteidigungspakt ein"
+ austria.5013.d:0 "Als Zentralmacht im Alpenraum ist Österreich immer auf der Suche nach potentiellen Verbündeten - Verbündete, offenbar wie wir. Von der österreichischen Botschaft ist ein Brief gekommen, in dem wir zu einem "Alpen-Verteidigungspakt" eingeladen werden."
+ austria.5013.a:0 "Dies sind instabile Zeiten, und Verbündete sind immer willkommen."
+ austria.5013.b:0 "Österreich ist mächtig, und mit Macht kommen gefährliche Feinde - Feinde, die wir lieber nicht teilen würden."
+
+ austria.5014.t:0 "Österreich fordert Slowenien"
+ austria.5014.d:0 "Österreichische Diplomaten haben sich mit unserem Fürsten getroffen und die Rückkehr Sloweniens unter österreichische Herrschaft gefordert. Sie haben vor den möglichen "diplomatischen Auswirkungen" einer übereilten Reaktion gewarnt."
+ austria.5014.a:0 "Wir können uns einen Krieg mit Österreich nicht leisten. Wir akzeptieren."
+ austria.5014.b:0 "Sie würden es nicht wagen, in dieser Frage Druck auszuüben - wir werden standhaft bleiben."
+
+ austria.5015.t:0 "Österreichische Einladung zur Fraktion"
+ austria.5015.d:0 "Österreich hat sich mit dem Vorschlag an uns gewandt, unseren bestehenden Verteidigungspakt zu festigen und offiziell zu machen. In Anbetracht unserer jüngsten Geschichte der Zusammenarbeit könnte dies durchaus zu unserem beiderseitigen Vorteil sein."
+ austria.5015.a:0 "Natürlich. Die österreichisch-jugoslawischen Beziehungen waren nie besser."
+ austria.5015.b:0 "So gut unsere Beziehungen auch sind, wir wollen nicht für die Verteidigung anderer verantwortlich gemacht werden."
+
+ austria.5016.t:0 "Kroatischer Widerstand"
+ austria.5016.d:0 "Die Kroaten waren zwar ein Bannat in unserem alten Reich, aber es scheint, dass sie den Eigentümerwechsel ausgenutzt und begonnen haben, einen aktiven Widerstand gegen unsere Streitkräfte zu bilden."
+ austria.5016.a:0 "Sicherlich müssen sie irgendwann zur Besinnung kommen"
+
+ austria.5017.t:0 "Serbischer Nationalismus"
+ austria.5017.d:0 "Die Serben machen unseren Streitkräften wieder einmal Schwierigkeiten, und zwar in Form eines anhaltenden nationalistischen Gefühls für ein einmal mehr verlorenes Konzept eines "Königreichs Serbien". Es gibt keine Anzeichen für einen baldigen Rückzug, deshalb müssen unsere Streitkräfte in Alarmbereitschaft sein."
+ austria.5017.a:0 "Serbien muss sterbien!"
+
+ austria.5018.t:0 "Siebenbürgisches Ultimatum"
+ austria.5018.d:0 "Österreich-Ungarn hat von uns die Rückkehr Siebenbürgens unter seine Herrschaft gefordert. Sie herrschten einst über die Region - aber der Große Krieg hat das geändert. Die Bedrohung, die sie jetzt darstellen, ist jedoch sehr real."
+ austria.5018.a:0 "Wir können einen Krieg mit dem österreichisch-ungarischen Reich nicht allein führen."
+ austria.5018.b:0 "Nach ihrer Niederlage im Ersten Weltkrieg würden sie es nicht wagen."
+
+ austria.5019.t:0 "Rumänien verweigert unser Ultimatum"
+ austria.5019.d:0 "Es scheint, dass die Regierung in Rumänien die Macht der Nation, mit der sie es zu tun hat, nicht anerkennt, und so haben sie unser Ultimatum abgelehnt."
+ austria.5019.a:0 "Sollte die Feder versagen, muss das Schwert gezogen werden!"
+
+ austria.5020.t:0 "Rumänische Nationalisten erscheinen in Transsylvanien"
+ austria.5020.d:0 "Scheinbar aus Unzufriedenheit über den Besitzerwechsel von Rumänen zu Österreichern stellen wir vor Ort eine sehr reale Bedrohung in Form von nationalistischer Agitation fest. Dies wird unsere Bemühungen um eine vollständige Integration der Region etwas behindern."
+ austria.5020.a:0 "Wir müssen unsere Anstrengungen verdoppeln"
+
+ austria.5021.t:0 "Transylvania has Fallen!"
+ austria.5021.d:0 "Unsere Streitkräfte haben die Provinz Transsylvanien erfolgreich gesichert. Doch schon in den ersten Stunden unserer Besetzung wurde klar, dass dies keine einfache Integration des Territoriums sein wird."
+ austria.5021.a:0 "Die Lage weiter beobachten"
+
+ austria.5022.t:0 "Der Balkan ist zerschlagen!"
+ austria.5022.d:0 "Nach viel Blutvergießen wurden die Gebiete, über die unser Reich herrschen sollte, zurückerobert, und in einigen Fällen haben wir sogar das Reich unserer Vorväter erweitert. Obwohl dies ein großer Tag für das ganze Reich ist, sind die neu gefundenen Bürger recht zurückhaltend, sich uns bei unseren Jubiläumsfeierlichkeiten anzuschließen."
+ austria.5022.a:0 "Sie werden rechtzeitig zu uns stoßen"
+
+ austria.5023.t:0 "Jugoslawien hat Slowenien abgetreten"
+ austria.5023.d:0 "Die Regierung in Jugoslawien, sei es aus Angst vor einem bewaffneten Konflikt oder aus der einfachen Erkenntnis, dass das Land nicht rechtmäßig ihnen gehört, hat unsere Forderungen an Slowenien akzeptiert."
+ austria.5023.a:0 "Wieder eine Provinz des Imperiums!"
+
+ #Research
+ AUS_support_weapons:0 "Schwarlose M. 7"
+ AUS_support_weapons_desc:0 "Das Maschinengewehr (Schwarzlose) M. 7, auch bekannt als das Schwarzlose MG, ist ein mittelgroßes Maschinengewehr, das während des Ersten Weltkrieges in der Österreichisch-Ungarischen Armee als Standardfeuerwaffe verwendet wurde. Während des Zweiten Weltkrieges wurde es von der niederländischen, griechischen und ungarischen Armee eingesetzt. Es wurde routinemäßig an die italienischen Kolonialtruppen ausgegeben, zusammen mit dem Mannlicher M1895-Gewehr."
+ AUS_support_weapons2:0 "MG 34"
+ AUS_support_weapons2_desc:0 "Das vielseitige MG 34 war zum Zeitpunkt seines Einsatzes wohl das fortschrittlichste Maschinengewehr der Welt. Seine Kombination aus außergewöhnlicher Mobilität - es war leicht genug, um von einem Mann getragen zu werden - und hoher Feuergeschwindigkeit (bis zu 900 Schuss pro Minute) war unübertroffen."
+ AUS_support_weapons3:0 "MG 42"
+ AUS_support_weapons3_desc:0 "Das MG 42, das das frühere MG 34 ersetzen soll, hat sich in Bezug auf Zuverlässigkeit, Langlebigkeit, Einfachheit und Bedienungsfreundlichkeit bewährt, zeichnet sich aber vor allem durch seine Fähigkeit aus, ein hohes Volumen an Unterdrückungsfeuer zu erzeugen. Das MG 42 hatte eine der höchsten durchschnittlichen zyklischen Raten aller einläufigen tragbaren Maschinengewehre: zwischen 1200 und 1500 Umdrehungen pro Minute, was im Vergleich zu dem Geräusch einer Motorsäge oder reißendem Linoleum zu einem unverwechselbaren Mündungsfeuer führt."
+ AUS_support_weapons4:0 "MG 45"
+ AUS_support_weapons4_desc:0 "Das MG 45 unterschied sich vom MG 42 dadurch, dass es seinen Verschluss vor dem Schuss nicht vollständig verschloss, wodurch die Feuergeschwindigkeit erhöht und die Konstruktion vereinfacht wurde. Die Materialknappheit des Dritten Reiches führte 1945 zur Entwicklung einer neueren Version des MG 42, dem MG 45 (oder MG 42V). Das getestete MG 45/42V feuerte 120.000 Schuss nacheinander mit einer Feuerrate von etwa 1.350 Schuss pro Minute."
+
+ AUS_tech_mountaineers:0 "Gebirgsjäger I"
+ AUS_tech_mountaineers2:0 "Gebirgsjäger II"
+ AUS_tech_mountaineers3:0 "Gebirgsjäger III"
+
+ AUS_paratroopers:0 "Jagdkommando I"
+ AUS_paratroopers2:0 "Jagdkommando II"
+ AUS_paratroopers3:0 "Jagdkommando III"
+
+ AUS_motorised_infantry:0 "Raupenschlepper Ost"
+ AUS_motorised_infantry_desc:0 "Raupenschlepper Ost wird häufiger mit RSO abgekürzt. Dieses voll kettengetriebene, leichte Fahrzeug wurde als Reaktion auf die schlechten Leistungen von Rad- und Halbkettenfahrzeugen im Schlamm und Schnee während des ersten Herbstes und Winters der Wehrmacht an der sowjetischen Front konzipiert."
+
+ AUS_interwar_artillery:0 "Zwischenkriegsartillerie"
+ AUS_interwar_artillery_desc:0 "Die bei der Entwicklung der verschiedenen Artillerietypen gewonnenen Erkenntnisse können auf die Konstruktion anderer Geschütze übertragen werden."
+ AUS_artillery1:0 "Artillerie I"
+ AUS_artillery1_desc:0 "Mit moderneren Materialien und Mechanismen lassen sich Haubitzen und Feldgeschütze aus dem Ersten Weltkrieg für die moderne Kriegsführung umkammern und modernisieren."
+ AUS_artillery2:0 "Verbesserte Modernisierung der Artillerie I"
+ AUS_artillery2_desc:0 "Die Aufwertung alter Teile kann uns nur so weit bringen. Es werden neue Haubitzenkonstruktionen benötigt, bei denen neue hydraulische Rückstoßvorrichtungen und längere Läufe zum Einsatz kommen."
+ AUS_artillery3:0 "Verbessertes Artillerie-Upgrade II"
+ AUS_artillery3_desc:0 "Um schwerere Geschütze auf leichteren Lafetten zu ermöglichen, können Mündungsbremsen in Haubitzenkonstruktionen eingebaut werden."
+ AUS_artillery4:0 "Artillerie IV"
+ AUS_artillery4_desc:0 "Die Entwicklung leichter, für den Transport zerlegbarer Artillerie wird es ermöglichen, Artillerieunterstützung in bisher schwer zugängliche Gebiete zu bringen."
+ AUS_artillery5:0 "Upgrade für fortgeschrittene Artillerie"
+ AUS_artillery5_desc:0 "Artilleriedesigns mit niedrigeren Silhouetten werden für den Feind schwieriger zu treffen sein."
+
+ austrian_research_name:0 "Forschungsgruppe Alpen-Verteidigungspakt"
+ austrian_research_desc:0 ""
+
+ #UNITS
+ AUS_paratrooper:0 "Jagdkommando"
+ AUS_paratrooper_desc:0 "Indem wir Luftlandekräfte in unsere Armee eingliedern, können wir zwangsweise einrücken und Schlüsseltruppen in bisher unzugängliche Gebiete positionieren, was neue taktische Möglichkeiten eröffnet."
+ AUS_mountaineers:0 "Gebirgsjäger"
+ AUS_mountaineers_desc:0 "Kämpfe in Gebirgsketten setzen die Truppen vielen Gefahren aus, die sich aber manchmal nicht vermeiden lassen. Indem wir unseren Soldaten eine spezielle Ausbildung für diese Umgebung bieten, können wir diese Risiken minimieren."
+
+ AUS_try_to_recruit_hungarian_officers:0 "Versuchen Sie, ungarische Offiziere zu rekrutieren"
+ AUS_try_to_recruit_czech_officers:0 "Versuchen Sie, tschechische Offiziere zu rekrutieren"
+ AUS_try_to_recruit_croat_officers:0 "Versuchen Sie, Kroatische Offiziere zu rekrutieren"
+ AUS_try_to_recruit_german_officers:0 "Versuchen Sie, deutsche Offiziere zu rekrutieren"

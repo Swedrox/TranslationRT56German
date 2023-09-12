@@ -11,7 +11,12 @@
  centrism_democratic_desc:0 "§YZentrismus§! ist eine Regierungsform, die §YLösungen nach gesundem Menschenverstand§! erreichen will, die aktuelle und zukünftige Bedürfnisse angemessen berücksichtigen, die das §Öffentliche Vertrauen§! unterstützen und dem §Gemeinsamen Wohl§! dienen, unter Berücksichtigung von Risiko und Kapazität im Zusammenhang mit diesen Bedürfnissen."
  absolute_monarchism:0 "Absolutismus"
  absolute_monarchism_desc:0 "Der §YAbsolutismus§! ist eine Form der Monarchie, in der der Monarch §Ydie absolute autokratische Autorität innehat§! und grundsätzlich nicht durch schriftliche Gesetze, Gesetzgebung oder Bräuche eingeschränkt ist.Dies sind oft Erbmonarchien."
-
+ clerical_fascism:0 "Klerikalfaschismus"
+ clerical_fascism_desc:0 "Der §YKlerikalfaschismus§! ist eine Ideologie, die die Ideale des klassischen §GNationalismus§! und des §GMilitarismus§! mit der §GKlerikalismus§!-Doktrin der dominierenden Religion des Landes verbindet. Der Klerus der Nation trägt dazu bei, die Unterstützung der Bevölkerung für die Regierung der Nation voranzutreiben und spielt eine unterstützende oder führende Rolle in der Regierung."
+ oligarchic_democracy:0 "Oligarchische Demokratie"
+ oligarchic_democracy_desc:0 "Eine §YOligarchische Demokratie§! ist eine Demokratie, die immer noch gemäß ihrer §Gesetzesordnung§! funktioniert, aber von einer Gruppe von Menschen regiert wird, die eine Über-Mehrheitskontrolle über die Institutionen ihres Landes erlangt hat. Während die herrschenden §ROligarchen§! noch eine gewisse Rechenschaftspflicht haben, die ihnen von den Institutionen des Landes auferlegt wird, ist das Land einem großen Risiko ausgesetzt, eine §RAuthoritäre Oligarchie§! zu werden."
+ monarchical_theocracy:0 "Monarchische Theokratie"
+ monarchical_theocracy_desc:0 "Eine §YMonarchische Theokratie§! ist eine Regierungsform, in der ein Monarch die §YAutorität§! über die §GExekutiven Funktionen§! eines Landes hat. Während der §YKlerus§! der vorherrschenden Religion des Landes entweder eine beträchtliche oder §RAbsolute§! Macht über die geschriebenen Gesetze, Bräuche, inneren Angelegenheiten und §YJustizfunktionen§! der Nation innehat."
 
  #FIXES
  anarchism:0 "Anarchismus"
@@ -51,6 +56,16 @@
  moderatism_desc:1 "§YModeratismus§! ist eine Regierungsform, die die §MExtreme der Linken und Rechten vermeidett§!, indem sie eine §Ygemäßigte Position§! oder Handlungsweise einnimmt."
  centrism:1 "Zentrismus"
  centrism_desc:1 "Der §YZentrismus§! ist eine Regierungsform, die Lösungen auf der §YGrundlage des gesunden Menschenverstandes§! erreichen will, die den gegenwärtigen und zukünftigen Bedürfnissen angemessen Rechnung tragen, das §MVertrauen der Öffentlichkeit§! stärken und dem §HGemeinwohl§! dienen, wobei Risiken und Kapazitäten im Zusammenhang mit diesen Bedürfnissen berücksichtigt werden."
+
+ #ADU
+ ADU_neutrality_party:0 "FPP"
+ ADU_neutrality_party_long:0 "Faith and Progress Party"
+ ADU_communism_party:0 "ACP"
+ ADU_communism_party_long:0 "Andalusian Communist Party"
+ ADU_democratic_party:0 "RP"
+ ADU_democratic_party_long:0 "Reformist Party"
+ ADU_fascism_party:0 "MB"
+ ADU_fascism_party_long:0 "Muslim Brotherhood"
 
  #ALB
  ALB_neutrality_party:0 "Constitutionalists"
@@ -94,10 +109,10 @@
  AUS_communism_party:0 "KPÖ"
  AUS_communism_party_long:0 "Kommunistische Partei Österreichs"
  AUS_democratic_party:0 "SDAPÖ"
- AUS_democratic_party_long:0 "Sozialdemokratische Arbeiterpartei Deutschösterreichs"
+ AUS_democratic_party_long:0 "Sozialdemokratische Partei Österreichs"
  AUS_fascism_party:1 "Vaterländische Front"
- AUS_neutrality_party:1 "Haus Habsburg"
- AUS_neutrality_party_long:1 "Haus Habsburg"
+ AUS_neutrality_party:1 "House of Habsburg"
+ AUS_neutrality_party_long:1 "House of Habsburg"
 
  #BEL
  BEL_communism_party:0 " PCB/PKB"
@@ -280,6 +295,12 @@
  GRE_democratic_party_liberal:0 "Kómma Fileleftheron"
  GRE_democratic_party_liberal_long:0 "Kómma Fileleftheron"
 
+ #GRL
+ GRL_democratic_party:0 "Grønlands Styrelse"
+ GRL_democratic_party_long:0 "Grønlands Styrelse"
+ GRL_puppet_n_party_name:0 "Greenland Colonial Administration"
+ GRL_puppet_n_party_l_name:0 "Colonial Administration of South-Greenland"
+
  #GUA
  GUA_ubico_fascist_long:0 "Régimen de Jorge Ubico"
  GUA_ubico_fascist:0 "Régimen de Jorge Ubico"
@@ -401,7 +422,8 @@
  NIC_neutrality_party_1937_long:0 "Somoza Regime"
  NIC_communism_party:0 "PSN"
  NIC_communism_party_long:0 "Partido Socialista Nicaragüense"
- NIC_fascism_party:0 "Nationalists"
+ NIC_fascism_party:0 "Blueshirts"
+ NIC_fascism_party_long:0 "Blueshirts"
 
  #PAR
  PAR_communism_party:0 "PCP"
@@ -455,8 +477,6 @@
  PGR_neutrality_party:0 "Xin Beiyang"
 
  #PRU
- PRU_fascism_party:0 "Constituent Assembly"
- PRU_fascism_party_long:0 "Constituent Assembly"
  PRU_communism_party:0 "PCP"
  PRU_communism_party_long:0 "Partido Comunista del Perú"
 

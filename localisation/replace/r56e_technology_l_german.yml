@@ -15,6 +15,12 @@ l_german:
   naval_gunnery_tech:0 "Technologien für Marinegeschütze"
   naval_shell_tech:0 "Marine-Geschosstechnologien"
   damage_control_tech:0 "Technologien zur Schadenskontrolle"
+  steel_tech:0 "Technologien zur Stahlproduktion"
+  metallurgy_tech:0 "Metallurgie Technologies"
+  aluminium_tech:0 "Technologien zur Aluminiumproduktion"
+  r56_special_forces_training_tech:0 "Ausbildung von Spezialkräften"
+  cat_scout_plane:0 "Aufklärungsflugzeug-Modelle"
+  armor_variant_tech:0 "Panzerungsvarianten"
 
 
 ### Extra Special Forced Tech Categories

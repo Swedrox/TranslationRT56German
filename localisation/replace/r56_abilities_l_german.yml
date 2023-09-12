@@ -1,0 +1,6 @@
+﻿l_german:
+ ABILITY_RESERVE_TRANSFER:0 "Reserveübertragung"
+ ABILITY_RESERVE_TRANSFER_DESC:0 "Ein frischer Truppennachschub ist notwendig, um die kämpfenden Divisionen kampfbereit zu halten."
+
+ ABILITY_EXTRA_FUEL_RESERVES:0 "Zusätzliche Kraftstoffreserven"
+ ABILITY_EXTRA_FUEL_RESERVES_DESC:0 "Der Befehl an die Truppe, dafür zu sorgen, dass mehr Treibstoff im Versorgungszug mitgeführt wird, sorgt dafür, dass den motorisierten Truppen nicht die Puste ausgeht."

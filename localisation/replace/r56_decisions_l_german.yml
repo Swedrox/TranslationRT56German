@@ -1,5 +1,7 @@
 ﻿l_german:
 
+ seize_machine_toolings_in_state:0 "Beschlagnahmung von Maschinenteilen in[FROM.GetName]"
+
  the_return_of_the_old_guard_category:0 "Die Rückkehr der alten Garde"
  hold_the_neutrality_national_referendum:0 "Reaktionäre Regierung bilden"
 
@@ -13,6 +15,8 @@
  reunite_germany:0 "Deutschland wiedervereinigen"
  reintegrate_lands_beyond_the_oder_neisse_line:0 "Wiedereingliederung der Länder jenseits der Oder-Neiße-Linie"
 
+ reunite_italy:0 "Italien wiedervereinigen"
+
  recruit_women_pilots:0 "Rekrutierung von Pilotinnen"
  recruit_women_pilots_desc:0 "In dieser schicksalhaften Stunde für unsere Nation können wir es uns nicht leisten, das Talent von Einzelnen zu vergeuden. Fliegerinnen und Flieger haben mit ihren Heldentaten in den 1930er Jahren die Öffentlichkeit in Erstaunen versetzt. Jetzt müssen sie für die nationale Sache mobilisiert werden und an der Seite der Menschen ihre Pflicht erfüllen."
  r56_collect_civilian_aluminium_utensils:0 "Zivile Aluminiumgeräte sammeln"
@@ -25,6 +29,7 @@
 
 
  combat_reports:0 "Kampfberichte"
+ r56_adopt_camelry:0 "Ein Kamelkorps bilden"
  r56_ENG_decision_support_percy_hobart:0 "Percy Hobart unterstützen"
  r56_ENG_decision_support_percy_hobart_desc:0 "Percy Hobart mag eine merkwürdige Auffassung über den Einsatz von Panzern haben und aufgrund dieser Ansichten auch bei anderen Generälen ziemlich unbeliebt sein, aber sein revolutionärer Ansatz für die Konstruktion und den Einsatz von Panzern könnte sich als äußerst nützlich erweisen."
  percy_hobart_decision_cost:0 "§H100§!£army_experience  §H50§!£pol_power"
@@ -34,7 +39,12 @@
  r56_ENG_decision_support_frederick_browning_desc:0 "Die Schaffung unserer eigenen Fallschirmjägereinheiten machte deutlich, dass sie nur dann effizient sein können, wenn sie von spezialisierten Offizieren befehligt werden."
  frederick_browning_decision_cost:0 "§H25§!£army_experience §H25§!£air_experience §H25§!£pol_power"
  frederick_browning_decision_cost_blocked:0 "§R25§!£army_experience  §H25§!£air_experience  §R25§!£pol_power"
- frederick_browning_decision_cost_tooltip:0 "Es kostet 25£army_experience 25£air_experience and 25£pol_power dies auszuwählen."
+ frederick_browning_decision_cost_tooltip:0 "Es kostet 25£army_experience 25£air_experience und 25£pol_power dies auszuwählen."
+
+ promote_general_decision_cost:0 "§H25§!£army_experience §H50§!£pol_power"
+ promote_general_decision_cost_blocked:0 "§R25§!£army_experience §R50§!£pol_power"
+ promote_general_decision_cost_tooltip:0 "Es kostet 25£army_experience und 50£pol_power dies auszuwählen."
+
  r56_ENG_decision_send_wavell_to_india:0 "Archibald Wavell nach Indien schicken"
  r56_ENG_decision_send_wavell_to_india_desc:0 "Archibald Wavell wird hier nicht nach bestem Wissen und Gewissen eingesetzt und könnte viel nützlicher sein, wenn er die britisch-indische Armee verstärken würde."
 
@@ -42,7 +52,7 @@
  r56_ENG_decision_recall_gilbert_stephenson_desc:0 "Um der erneuten U-Boot-Bedrohung zu begegnen, muss man sich unbedingt auf die Erfahrung älterer Kommandeure stützen, die während des Ersten Weltkriegs gegen deutsche U-Boote gekämpft haben. Als Veteran der U-Boot-Kriegsführung ist Gilbert Stephenson der ideale Mann, um eine neue Generation von Matrosen anzuführen."
  gilbert_stephenson_decision_cost:0 "§H25§!£navy_experience §H25§!£pol_power"
  gilbert_stephenson_decision_cost_blocked:0 "§R25§!£navy_experience §R25§!£pol_power"
- gilbert_stephenson_decision_cost_tooltip:0 "Es kostet 25£navy_experience and 25£pol_power dies auszuwählen."
+ gilbert_stephenson_decision_cost_tooltip:0 "Es kostet 25£navy_experience und 25£pol_power dies auszuwählen."
  gilbert_stephenson:0 "Gilbert Stephenson"
  ENG_terror_of_tobermory:0 "Gilbert Stephenson ist von der Marine wieder einberufen worden."
 
@@ -62,7 +72,36 @@
  r56_deploy_heavy_aa_capital:0 "Einsatz von schweren Flak in [Root.Capital.GetName]"
  r56_deploy_heavy_aa_capital_cost:0 "£command_power §H25§! £pol_power §H25§!"
  r56_deploy_heavy_aa_capital_cost_blocked:0 "£command_power §R25§! £pol_power §R25§!"
- r56_deploy_heavy_aa_capital_cost_tooltip:0 "Es kostet £command_power §H25§! and £pol_power §H25§! dies auszuwählen."
+ r56_deploy_heavy_aa_capital_cost_tooltip:0 "Es kostet £command_power §H25§! und £pol_power §H25§! dies auszuwählen."
+ r56_25_command_power_cost:0 "£command_power §H25§!"
+ r56_25_command_power_cost_blocked:0 "£command_power §R25§!"
+ r56_25_command_power_cost_tooltip:0 "Es kostet £command_power §H25§! dies auszuwählen."
+
+  control_ai_allies_category:0 "Koordination der Verbündeten"
+
+  control_ai_allies_category_desc:0 "Indem wir unseren Verbündeten klare Befehle erteilen, erhöhen wir unsere Chancen, unsere Aktionen zu koordinieren und unsere Feinde zu besiegen.\n\n§RDiese Entscheidungen wirken sich nur auf das Verhalten der KI aus§!"
+  ai_ally_favor_navy:0 "Bitten Sie die [FROM.GetAdjective]e Regierung , sich auf ihre Marine zu konzentrieren."
+  drop_ai_ally_favor_navy:0 "Bitten Sie [FROM.GetAdjective]e Regierung um den Verzicht auf die Marine-Initiative."
+  ai_ally_favor_aviation:0 "Bitten Sie die [FROM.GetAdjective]e Regierung , sich auf ihre Luftwaffe zu konzentrieren."
+  drop_ai_ally_favor_aviation:0 "Bitten Sie [FROM.GetAdjective]e Regierung um den Verzicht auf die Luft-Initiative."
+
+
+  ai_ally_favor_defense:0 "Bitten Sie die [FROM.GetAdjective]e Regierung, sich auf die Defensive zu konzentrieren"
+  drop_ai_ally_favor_defense:0 "Bitten Sie die [FROM.GetAdjective]e Regierung um den Verzicht auf das Engagement in der Defensive."
+
+  ai_ally_favor_offense:0 "Bitten Sie die [FROM.GetAdjective] Regierung , sich auf die Offensive zu konzentrieren"
+  drop_ai_ally_favor_offense:0 "Bitten Sie die [FROM.GetAdjective]e Regierung um den Verzicht auf das Engagement in der Offensive."
+
+
+  ai_ally_favor_war_production:0 "Bitten Sie die [FROM.GetAdjective]e Regierung, sich auf ihre Kriegsproduktion zu konzentrieren"
+  drop_ai_ally_favor_war_production:0 "Fordern Sie die Einstellung der [FROM.GetAdjective] Kriegsproduktionsinitiative."
+  r56_ai_favor_defense:0 "AI priority: Defensive"
+  r56_ai_favor_offense:0 "AI priority: Offensive"
+  r56_ai_favor_war_production:0 "AI priority: Kriegsproduktion"
+  r56_ai_favor_aviation:0 "AI priority: Luftwaffe"
+  r56_ai_favor_navy:0 "AI priority: Marine"
+
+
 
  r56_send_combat_reports_to_the_small_arms_manufacturers:0 "Berichte an die Kleinwaffenhersteller senden"
  r56_send_combat_reports_to_the_artillery_manufacturers:0 "Berichte an die Artillerie-Hersteller senden"
@@ -78,19 +117,19 @@
 
  xp_conversion_landxp:0 "§H150§!£army_experience §H10§!£pol_power"
  xp_conversion_landxp_blocked:0 "§R150§!£army_experience §R10§!£pol_power"
- xp_conversion_landxp_tooltip:0 "Es kostet 150£army_experience and 10£pol_power dies auszuwählen."
+ xp_conversion_landxp_tooltip:0 "Es kostet 150£army_experience und 10£pol_power dies auszuwählen."
 
  xp_conversion_navyxp:0 "§H150§!£navy_experience §H10§!£pol_power"
  xp_conversion_navyxp_blocked:0 "§R150§!£navy_experience §R10§!£pol_power"
- xp_conversion_navyxp_tooltip:0 "Es kostet 150£navy_experience and 10£pol_power dies auszuwählen."
+ xp_conversion_navyxp_tooltip:0 "Es kostet 150£navy_experience und 10£pol_power dies auszuwählen."
 
  xp_conversion_airxp:0 "§H150§!£air_experience §H10§!£pol_power"
  xp_conversion_airxp_blocked:0 "§R150§!£air_experience §R10§!£pol_power"
- xp_conversion_airxp_tooltip:0 "Es kostet 150£air_experience and 10£pol_power dies auszuwählen."
+ xp_conversion_airxp_tooltip:0 "Es kostet 150£air_experience und 10£pol_power dies auszuwählen."
 
  xp_conversion_carriers:0 "§H150§!£navy_experience §H50§!£air_experience §H10§!£pol_power"
  xp_conversion_carriers_blocked:0 "§R150§!£navy_experience §R50§!£air_experience §R10§!£pol_power"
- xp_conversion_carriers_tooltip:0 "Es kostet 150£navy_experience 50£air_experience and 10£pol_power dies auszuwählen."
+ xp_conversion_carriers_tooltip:0 "Es kostet 150£navy_experience 50£air_experience und 10£pol_power dies auszuwählen."
 
  land_combat_report_analyzed:0 "Landkampfberichte analysiert"
  air_combat_report_analyzed:0 "Luftkampfberichte analysiert"
@@ -116,4 +155,48 @@
  try_to_recruit_mongol_officers:0 "Versuchen sie mongolische Offiziere zu rekrutieren"
  try_to_recruit_mengjiang_officers:0 "Versuchen Sie, Offiziere aus Mengjiang zu rekrutieren"
 
+ try_to_recruit_irish_officers:0 "Versuchen sie irische Offiziere zu rekrutieren"
+ try_to_recruit_scottish_officers:0 "Versuchen sie scottische Offiziere zu rekrutieren"
+
+ try_to_recruit_brazilian_officers:0 "Versuchen sie brasilianische Offiziere zu rekrutieren"
+
  r56_declare_independence:0 "Unabhängigkeit erklären"
+
+
+ naval_decision_category:0 "Aufbau der Marine"
+ naval_decision_category_desc:0 "Unser Land hat keine Marine und es wäre vielleicht klug, den Bau einer solchen zu erwägen."
+
+ dockyard_xp:0 "Untersuchung erworbener Blaupausen"
+ dockyard_xp_desc:0 "Während unsere Nation lange Zeit von der Küste abgeschnitten war, konnten wir durch den kürzlichen Erwerb von Werften und anderen Schiffsbauanlagen verschiedene Blaupausen und technische Dokumente erwerben - genug, um unsere eigene Marine zu gründen."
+ get_generic_DD_template:0 "Frühe Zerstörervorlage erhalten"
+ get_generic_CL_template:0 "Frühe Leichte Kreuzervorlage erhalten"
+ get_generic_BB_template:0 "Frühe Schlachtschiffvorlage erhalten"
+ get_generic_CA_template:0 "Frühe Schwere Kreuzervorlage erhalten"
+ get_generic_SS_template:0 "Frühe Ubootvorlage erhalten"
+
+ decision_cost_CP_25_pp_50:0 "£command_power  §Y25§! £pol_power  §Y50§!"
+ decision_cost_CP_25_pp_50_blocked:0 "£command_power  §R25§! £pol_power  §R50§!"
+ decision_cost_CP_25_pp_50_tooltip:0 "Es kostet £command_power §H25§! und £pol_power §H50§! dies auszuwählen"
+
+ decision_cost_CP_30_pp_25:0 "£command_power  §Y30§! £pol_power  §Y25§!"
+ decision_cost_CP_30_pp_25_blocked:0 "£command_power  §R30§! £pol_power  §R25§!"
+ decision_cost_CP_30_pp_25_tooltip:0 "Es kostet £command_power §H30§! und £pol_power §H25§! dies auszuwählen"
+
+ decision_cost_CP_15_pp_15:0 "£command_power  §Y15§! £pol_power  §Y15§!"
+ decision_cost_CP_15_pp_15_blocked:0 "£command_power  §R15§! £pol_power  §R15§!"
+ decision_cost_CP_15_pp_15_tooltip:0 "Es kostet £command_power §H15§! und £pol_power §H15§! dies auszuwählen"
+
+ decision_cost_CP_25_pp_25:0 "£command_power  §Y25§! £pol_power  §Y25§!"
+ decision_cost_CP_25_pp_25_blocked:0 "£command_power  §R25§! £pol_power  §R25§!"
+ decision_cost_CP_25_pp_25_tooltip:0 "Es kostet £command_power §H25§! und £pol_power §H25§! dies auszuwählen"
+
+decision_cost_CP_35_pp_35:0 "£command_power  §Y35§! £pol_power  §Y35§!"
+decision_cost_CP_35_pp_35_blocked:0 "£command_power  §R35§! £pol_power  §R35§!"
+decision_cost_CP_35_pp_35_tooltip:0 "Es kostet £command_power §H35§! und £pol_power §H35§! dies auszuwählen"
+
+decision_cost_CP_10_pp_10:0 "£command_power  §Y10§! £pol_power  §Y10§!"
+decision_cost_CP_10_pp_10_blocked:0 "£command_power  §R10§! £pol_power  §R10§!"
+decision_cost_CP_10_pp_10_tooltip:0 "Es kostet £command_power §H10§! und £pol_power §H10§! dies auszuwählen"
+
+ LAT_contact_attaches_cost_blocked:0 "£command_power §R10§! £pol_power §R10§!"
+ LAT_contact_attaches_cost_tooltip:0 "Es kostet £command_power §H10§! und £pol_power §H10§! dies auszuwählen"

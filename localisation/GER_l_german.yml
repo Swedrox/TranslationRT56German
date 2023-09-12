@@ -446,7 +446,7 @@ GER_operation_bolivar_desc:0 "Die verschiedenen Gemeinschaften von Exilanten in 
  r56_kill_hitler.5.t:0 "Das Kanzleramt wurde durch eine Explosion zerstört!"
  r56_kill_hitler.5.desc:0 "Gestern Abend verwüstete ein lauter Lärm und eine gewaltige Explosion den Schreibtisch von [GER.getleader] in der Reichsresidenz in Berlin. Die Leibwächter waren machtlos und konnten nur noch die Reste seiner Uniform und das in der rauchenden Asche leuchtende Eisenkreuz sehen."
  r56_kill_hitler.5.a:0 "Ein Putsch?"
- r56_kill_hitler.6.t:0 "Hitler von Hitman auf dem Obersaltzberg getötet!"
+ r56_kill_hitler.6.t:0 "Hitler von Attentäter auf dem Obersaltzberg getötet!"
  r56_kill_hitler.6.desc:0 "\nEin überraschendes Statement hat die Gerüchte bestätigt, dass der deutsche Bundeskanzler [GER.getleader] getötet wurde, während er sich in seiner alpinen Villa ausruhte. Von einem einzigen Kopfschuss aus der Ferne getroffen, ist klar, dass es sich bei dem Attentäter um einen sehr geschickten Schützen handelte, was eine Art militärische Ausbildung voraussetzen würde."
  r56_kill_hitler.6.a:0 "Ein Putsch?"
 

@@ -119,7 +119,7 @@ l_german:
  custom_diff_strong_kaz:0 "@KAZ Stärke Kasachstan"
  custom_diff_strong_ken:0 "@KEN Stärke Kenia"
  custom_diff_strong_kor:0 "@KOR Stärke Korea"
- custom_diff_strong_ksv:0 "@KSV Stärke Kosovo"
+ custom_diff_strong_ksv:0 "@KOS Stärke Kosovo"
  custom_diff_strong_kur:0 "@KUR Stärke Kurdistan"
 
  ###---> Minors: L <><> <><> <><>
@@ -133,7 +133,7 @@ l_german:
 
  ###---> Minors: M <><> <><> <><>
  custom_diff_strong_mad:0 "@MAD Stärke Madagaskar"
- custom_diff_strong_mcd:0 "@MCD Stärke Mazedonien"
+ custom_diff_strong_mcd:0 "@MAC Stärke Mazedonien"
  custom_diff_strong_man:0 "@MAN Stärke Mandschuko"
  custom_diff_strong_mrt:0 "@MRT Stärke Mauretanien"
  custom_diff_strong_mek:0 "@MEK Stärke Mecklenburg"
@@ -201,6 +201,7 @@ l_german:
  custom_diff_strong_swe:0 "@SWE Stärke Schweden"
  custom_diff_strong_swi:0 "@SWI Stärke Schweiz"
  custom_diff_strong_syr:0 "@SYR Stärke Syrien"
+ custom_diff_strong_szk:0 "@SZK Stärke Szkelerland"
 
  ###---> Minors: T <><> <><> <><>
  custom_diff_strong_tan:0 "@TAN Stärke Tannu Tuva"

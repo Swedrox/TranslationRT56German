@@ -1,14 +1,45 @@
 ﻿l_german:
 
- #unification problems, to slow countries with free cores#
+ #Generic#
+ form_nation_mod_category:0 "Nationale Vereinigung"
+ form_nation_mod_category_desc:0 "Unser Schicksal kann durch die Vereinigung von benachbarten Völkern verwirklicht werden, um eine größere Einheit zu realisieren."
  generic_recent_political_unification:0 "Kürzliche politische Vereinigung"
  generic_recent_army_unification:0 "Kürzliche militärische Vereinigung"
  generic_recent_economic_unification:0 "Kürzliche wirtschaftliche Vereinigung"
 
-###Decisions###
  political_unification:0 "Politische Vereinigung"
  army_unification:0 "Militärische Vereinigung"
  economic_unification:0 "Wirtschaftliche Vereinigung"
+
+
+ #Scandinavia shared
+ SCA_scandinavian_unification:0 "Skandinavische Vereinigung"
+ SCA_scandinavian_unification_desc:0 "Die brüderlichen Völker sind endlich geeint."
+ SCA_northern_swedish_iron:0 "Nordschwedischer Stahl"
+ SCA_northern_swedish_iron_desc:0 "Wenn Norwegen und Schweden unter einer Regierung vereint sind, kann jeder Schritt der Gewinnung und Verschiffung von schwedischem Stahl rationalisiert werden."
+ SCA_trelleborg_rubber_factory:0 "Trelleborg Gummi-Fabrik"
+ SCA_trelleborg_rubber_factory_desc:0 "Reifen sind für unsere Fahrzeuge unverzichtbar."
+ SCA_norwegian_aluminium_sector:0 "Norwegisches Aluminium"
+ SCA_norwegian_aluminium_sector_desc:0 "Das Wasser, das die norwegischen Berge hinunterfließt, ist für die Herstellung von Aluminium unerlässlich."
+ SCA_unified_armament_industries:0 "Vereinte Rüstungsindustrie"
+ SCA_unified_armament_industries_desc:0 "Unsere Vereinheitlichung bietet die Möglichkeit, verschiedene Fabriken zu spezialisieren, um das zu produzieren, was sie am besten können."
+
+#Austria Hungary Shared
+
+ AH_austro_hungarian_unification:0 "Österreichisch-Ungarische Einigung"
+ AH_austro_hungarian_unification_desc:0 ""
+ AH_develop_vienna:0 "Wien entwickeln"
+ AH_develop_vienna_desc:0 ""
+ AH_form_mechanics:0 "Ausgebildete Mechaniker"
+ AH_form_mechanics_desc:0 ""
+ AH_czech_tyres:0 "Tschechische Reifen"
+ AH_czech_tyres_desc:0 ""
+ AH_rijeka_naval_academy:0 "Marineakademie Rijeka"
+ AH_rijeka_naval_academy_desc:0 ""
+ AH_coordinate_the_land_equipment_manufacturers:0 "Gerätefertigung koordinieren"
+ AH_coordinate_the_land_equipment_manufacturers_desc:0 ""
+ AH_increase_naval_production:0 "Erhöhung der Marineproduktion"
+ AH_increase_naval_production_desc:0 ""
 
 #Improved Byzantium
  byz_integrate_albania:0 "Albanien integrieren"
@@ -37,7 +68,36 @@
  form_transcaucasia_category:0 "Die kaukasische Einheit herstellen."
  form_transcaucasia_category_desc:0 "Seit langem streben wir nach einem geeinten Transkaukasien. Schon einmal ist ein vereinigter transkaukasischer Staat aufgelöst worden, aber dieses Mal sind wir hier, um zu bleiben, vereint, so sollte die zweite transkaukasische Union wiederhergestellt werden."
  form_transcaucasia:0 "Transkaukasien formen"
+
+ CAU_fascism:1 "Transkaukasisches Reich"
+ CAU_fascism_DEF:1 "Das Transkaukasisches Reich"
+ CAU_democratic:0 "Transkaukasische Republik"
+ CAU_democratic_DEF:0 "Die Transkaukasische Republik"
+ CAU_neutrality:0 "Königreich Transkaukasien"
+ CAU_neutrality_DEF:0 "Das Königreich Transkaukasien"
+ CAU_communism:1 "Transkaukasische Demokratische Föderative Republik"
+ CAU_communism_DEF:0 "Die Transkaukasische Demokratische Föderative Republik"
+ CAU_fascism_ADJ:0 "Transkaukasisch"
+ CAU_democratic_ADJ:0 "Transkaukasisch"
+ CAU_neutrality_ADJ:0 "Transkaukasisch"
+ CAU_communism_ADJ:0 "Transkaukasisch"
+
+ form_country_armenia_required_states_tt:0 "Armenien kontrolliert §YArmenien§!."
+ form_country_georgia_required_states_tt:0 "Georgien kontrolliert §YGeorgien§!."
+ form_country_azerbaijan_required_states_tt:0 "Aserbaidschan kontrolliert §YAzerbaidschan§!."
+ form_country_armenia_coring_states_tt:0 "Armenien bekommt Kerne auf alle §YArmenischen§! Kerngebiete..\n"
+ form_country_georgia_coring_states_tt:0 "Armenien bekommt Kerne auf alle §YGeorgischen§! Kerngebiete.\n"
+ form_country_azerbaijan_coring_states_tt:0 "Armenien bekommt Kerne auf alle §YAzerbaidschanischen§! Kerngebiete.\n"
+
+ form_caucasia:0 "Transsaukasien wiederherstellen"
  form_caucasia_foreign:0 "Transkaukasien formen"
+ form_caucasia_category:0 "Transsaukasien wiederherstellen"
+ form_caucasia_category_desc:0 "Mit der Eroberung ganz Transsaukasiens ist es an der Zeit, den Geist eines neuen Transsaukasiens wiederherzustellen. Ganz Transsaukasien wird unter unserer Herrschaft gedeihen."
+ form_country_foreign_armenia_coring_states_tt:0 "Kerne auf alle §YArmenischen§! Kerngebiete.\n"
+ form_country_foreign_georgia_coring_states_tt:0 "Kerne auf alle §YGeorgischen§! Kerngebiete.\n"
+ form_country_foreign_azerbaijan_coring_states_tt:0 "GKerne auf alle §YAzerbaidschanischen§! Kerngebiete.\n"
+
+ #Turkestan#
  form_turkestan_category:0 "Die Einheit Zentralasiens verwirklichen"
  form_turkestan_category_desc:0 "Wir streben seit langem nach einem vereinigten Zentralasien. Schon einmal wurde ein vereinigtes Turkestan aufgelöst, aber diesmal sind wir hier, um zu bleiben, vereint, so sollte der zweite Staat Turkestan wiederhergestellt werden."
  form_turkestan:0 "Turkestan formen"
@@ -50,19 +110,6 @@
  TRK_UNITED_neutrality:0 "Turkestan"
  TRK_UNITED_ADJ:0 "Turkestani"
 
- form_country_armenia_required_states_tt:0 "Armenien kontrolliert §YArmenien§!."
- form_country_georgia_required_states_tt:0 "Georgien kontrolliert §YGeorgien§!."
- form_country_azerbaijan_required_states_tt:0 "Aserbaidschan kontrolliert §YAzerbaidschan§!."
- form_country_armenia_coring_states_tt:0 "Armenien bekommt Kerne auf alle §YArmenischen§! Kerngebiete..\n"
- form_country_georgia_coring_states_tt:0 "Armenien bekommt Kerne auf alle §YGeorgischen§! Kerngebiete.\n"
- form_country_azerbaijan_coring_states_tt:0 "Armenien bekommt Kerne auf alle §YAzerbaidschanischen§! Kerngebiete.\n"
- form_caucasia:0 "Transsaukasien wiederherstellen"
- form_caucasia_category:0 "Transsaukasien wiederherstellen"
- form_caucasia_category_desc:0 "Mit der Eroberung ganz Transsaukasiens ist es an der Zeit, den Geist eines neuen Transsaukasiens wiederherzustellen. Ganz Transsaukasien wird unter unserer Herrschaft gedeihen."
- form_country_foreign_armenia_coring_states_tt:0 "Kerne auf alle §YArmenischen§! Kerngebiete.\n"
- form_country_foreign_georgia_coring_states_tt:0 "Kerne auf alle §YGeorgischen§! Kerngebiete.\n"
- form_country_foreign_azerbaijan_coring_states_tt:0 "GKerne auf alle §YAzerbaidschanischen§! Kerngebiete.\n"
-#Turkestan#
  form_country_kazakhstan_required_states_tt:0 "Kontrolliere alle §Ykasachischen§! states."
  form_country_uzbekistan_required_states_tt:0 "Kontrolliere alle §Yusbekischen§! states."
  form_country_turkmenistan_required_states_tt:0 "Kontrolliere alle §Yturkmenischen§! states."
@@ -83,6 +130,31 @@
  CEL_UNIFIED_democratic:0 "Keltische Republik"
  CEL_UNIFIED_neutrality:0 "Keltisches Imperium"
  CEL_UNIFIED_ADJ:0 "Keltisch"
+ celtic_unification_category:0 "Keltische Vereinigung"
+ celtic_unification_category_desc:0 "Die keltischen Völker mussten nach verräterischen königlichen Erbschaften und Eroberungen jahrhundertelang unter dem Joch der Engländer und Franzosen leben, wodurch unsere Kulturen und unser Erbe ausgelöscht wurden. Aber die keltischen Völker können sich endlich vereinigen und der Welt ihre Stärke und Musik zeigen."
+
+ CEL_scottish_steel_sector:0 "Schottische Stahlwerke"
+ CEL_scottish_steel_sector_desc:0 "Der schottische Stahlsektor ist für unsere industrielle Entwicklung unerlässlich."
+ CEL_develop_the_shale_oil_sector:0 "Entwicklung des Schieferölsektors"
+ CEL_develop_the_shale_oil_sector:0 "Der schottische Schieferölsektor kann unsere energetische Unabhängigkeit unterstützen."
+ CEL_dingham_ammunition_factory:0 "Dingham-Munitionsfabrik"
+ CEL_dingham_ammunition_factory_desc:0 "Die Dingham Fabrik hat alle Möglichkeiten, das Zentrum unserer Rüstungsproduktion in Schottland zu werden."
+ CEL_develop_ireland:0 "Irland entwickeln"
+ CEL_appropriate_harland_and_wolff:0 "Harland und Wolff aneignen"
+ CEL_brittany_industry:0 "Bretagne entwickeln"
+ CEL_morgan_line:0 "Erstellen Sie die Morgan-Linie"
+ CEL_Brest_Oil_Industry:0 "Brest Ölindustrie"
+ CEL_develop_wales:0 "Wales entwickeln"
+ CEL_develop_wales_desc:0 "Das letzte keltische Land mit einzigartigen Schwerpunkten, obwohl seit einiger Zeit darüber gesprochen wird, das arme Wales... Schützt das Wales! Vielleicht liegt es daran, dass die Leute Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch nicht aussprechen können, ich weiß es nicht."
+
+ CEL_UNIFIED_communism_party:0 "PCC"
+ CEL_UNIFIED_communism_party_long:0 "Pàrtaidh Comannach Ceilteach"
+ CEL_UNIFIED_democratic_party:0 "PGC"
+ CEL_UNIFIED_democratic_party_long:0 "Pàrtaidh Glèidhidh Ceilteach"
+ CEL_UNIFIED_neutrality_party:0 "PAC"
+ CEL_UNIFIED_neutrality_party_long:0 "Pàrtaidh Athbheothachadh Ceilteach"
+ CEL_UNIFIED_fascism_party:0 "PFDC"
+ CEL_UNIFIED_fascism_party_long:0 "Pàrtaidh Faisisteach Deamocratach Ceilteach"
 
  #It went so well the first time, lets try again.
  recreate_belgium_category:0 "Belgien wiederherstellen"
@@ -98,26 +170,108 @@
  BEL_REUNIFIED_democratic_DEF:0 "Die Vereinigte Belgische Staaten"
  BEL_REUNIFIED_ADJ:0 "Belgian"
 
- #Country Names#
- CAU_fascism:1 "Transkaukasisches Reich"
- CAU_fascism_DEF:1 "Das Transkaukasisches Reich"
- CAU_democratic:0 "Transkaukasische Republik"
- CAU_democratic_DEF:0 "Die Transkaukasische Republik"
- CAU_neutrality:0 "Königreich Transkaukasien"
- CAU_neutrality_DEF:0 "Das Königreich Transkaukasien"
- CAU_communism:1 "Transkaukasische Demokratische Föderative Republik"
- CAU_communism_DEF:0 "Die Transkaukasische Demokratische Föderative Republik"
- CAU_fascism_ADJ:0 "Transkaukasisch"
- CAU_democratic_ADJ:0 "Transkaukasisch"
- CAU_neutrality_ADJ:0 "Transkaukasisch"
- CAU_communism_ADJ:0 "Transkaukasisch"
+ #Peru-Bolivia#
+ PRB_fascism:0 "Peruanisch-bolivianische Konföderation"
+ PRB_fascism_DEF:0 "Die peruanisch-bolivianische Konföderation"
+ PRB_democratic:0 "Peruanisch-bolivianische Konföderation"
+ PRB_democratic_DEF:0 "Die peruanisch-bolivianische Konföderation"
+ PRB_neutrality:0 "Peruanisch-bolivianische Konföderation"
+ PRB_neutrality_DEF:0 "Die peruanisch-bolivianische Konföderation"
+ PRB_communism:0 "Peruanisch-bolivianischen Volksrepublik"
+ PRB_communism_DEF:0 "Die peruanisch-bolivianischen Volksrepublik"
+ PRB_fascism_ADJ:0 "Peru-Bolivianisch"
+ PRB_democratic_ADJ:0 "Peru-Bolivianisch"
+ PRB_neutrality_ADJ:0 "Peru-Bolivianisch"
+ PRB_communism_ADJ:0 "Peru-Bolivianisch"
 
- form_nation_mod_category:0 "Nationale Vereinigung"
- form_nation_mod_category_desc:0 "Unser Schicksal kann durch die Vereinigung benachbarter Völkern verwirklicht werden, um eine größere Einheit zu verwirklichen."
- form_peru_bolivia:0 "Peru und Bolivien vereinigen"
- form_carribean_category:0 "Karibische Vereinigung"
- form_carribean_category_desc:0 "Unser Schicksal kann durch die Vereinigung Kubas mit Hispaniola verwirklicht werden. Dann können die übrigen karibischen Inseln unter unserer Flagge vereinigt werden, um die imperialistische Herrschaft zu beenden und eine größere Union zu bilden."
- form_caribbean:0 "Vereint die karibischen Inseln"
- form_la_plata:0 "Platean-Ambition verwirklichen"
+ form_peru_bolivia_category:0 "Eine Geschichte von zwei Brüdern"
+ form_peru_bolivia:0 "Peru und Bolivien wiedervereinen"
 
-assert_control_over_the_holy_sites:0 "Kontrolle über die Heiligen Stätten erhalten"
+ #Carribean#
+ CAB_fascism:0 "Karibisches Imperium"
+ CAB_fascism_DEF:0 "Das Karibisches Imperium"
+ CAB_democratic:0 "Karibische Föderation"
+ CAB_democratic_DEF:0 "Die Karibische Föderation"
+ CAB_neutrality:0 "Karibische Konföderation"
+ CAB_neutrality_DEF:0 "Die Karibische Konföderation"
+ CAB_communism:0 "Union der karibischen Kommunen"
+ CAB_communism_DEF:0 "Die Union der karibischen Kommunen"
+ CAB_fascism_ADJ:0 "Karibisch"
+ CAB_democratic_ADJ:0 "Karibisch"
+ CAB_neutrality_ADJ:0 "Karibisch"
+ CAB_communism_ADJ:0 "Karibisch"
+
+ form_carribean_category:0 "Vereinigung der Karibik"
+ form_carribean_category_desc:0 "Unser Schicksal kann durch die Vereinigung von Kuba mit Hispaniola verwirklicht werden. Dann kann der Rest der karibischen Inseln unter unserer Flagge vereinigt werden, um die imperialistische Herrschaft zu beenden und eine größere Union zu bilden."
+ form_caribbean:0 "Die Karibik vereinen"
+
+ #La Plata#
+ PLA_fascism:0 "La Plata"
+ PLA_fascism_DEF:0 "La Plata"
+ PLA_democratic:0 "Platine Konföderation"
+ PLA_democratic_DEF:0 "Die Platine Konföderation"
+ PLA_neutrality:0 "Platine Konföderation"
+ PLA_neutrality_DEF:0 "Die Platine Konföderation"
+ PLA_communism:0 "Platine Volksrepublik"
+ PLA_communism_DEF:0 "Die Platine Volksrepublik"
+ PLA_fascism_ADJ:0 "Platine"
+ PLA_democratic_ADJ:0 "Platine"
+ PLA_neutrality_ADJ:0 "Platine"
+ PLA_communism_ADJ:0 "Platine"
+
+ form_la_plata:0 "Platine Ambition verwirklichen"
+
+ #Arab Unification#
+ assert_control_over_the_holy_sites:0 "Kontrolle über die heiligen Stätten durchsetzen"
+
+ #Levant#
+ unite_the_levant_category:0 "Die Levante vereinigen"
+ unite_the_levant_category_desc:0 "Nachdem sie uns gegen die türkischen Unterdrücker unterstützt hatten, verrieten die Briten und Franzosen unser Volk und schnitten die Levante unter dem Deckmantel ihrer so genannten Mandate für sich selbst zu. Um ihre Herrschaft durchzusetzen, drängten sie Faisal, das arabische Königreich Syrien aufzulösen, was die Levante seither zerrüttet hat. Jetzt ist die Gelegenheit gekommen, die von den Westlern gespaltenen Provinzen wieder zu vereinen und ein Großsyrien zu schaffen."
+ form_country_levant_required_states_tt:0 "Erfordert die Kontrolle über die nicht §YTürkische§! Levante, ausgenommen Zypern.\n"
+ form_greater_syria:0 "Großsyrien formen"
+ SYR_UNIFIED_fascism:0 "Großsyrischer Nationalstaat"
+ SYR_UNIFIED_fascism_DEF:0 "Der Großsyrischer Nationalstaat"
+ SYR_UNIFIED_communism:0 "Vereinigter Syrischer Volksstaat"
+ SYR_UNIFIED_communism_DEF:0 "Der Vereinigter Syrischer Volksstaat"
+ SYR_UNIFIED_neutrality:0 "Arabisches Königreich Syrien"
+ SYR_UNIFIED_neutrality_DEF:0 "Das Arabisches Königreich Syrien"
+ SYR_UNIFIED_democratic:0 "Arabisches Königreich Syrien"
+ SYR_UNIFIED_democratic_DEF:0 "Das Arabisches Königreich Syrien"
+ SYR_UNIFIED_ADJ:0 "syrisch"
+
+ #Hispanoamérica#
+ HIS_UNIFIED_communism:0 "Comunidad Socialista Unida de Hispanoamérica"
+ HIS_UNIFIED_communism_DEF:0 "la Comunidad Socialista Unida de Hispanoamérica"
+ HIS_UNIFIED_democratic:0 "Gran Confederación de Hispanoamérica"
+ HIS_UNIFIED_democratic_DEF:0 "la Gran Confederación de Hispanoamérica"
+ HIS_UNIFIED_fascism:0 "Estado Unitario de Hispanoamérica"
+ HIS_UNIFIED_fascism_DEF:0 "el Estado Unitario de Hispanoamérica"
+ HIS_UNIFIED_neutrality:0 "Gran Confederación de Hispanoamérica"
+ HIS_UNIFIED_neutrality_DEF:0 "la Gran Confederación de Hispanoamérica"
+ HIS_UNIFIED_ADJ:0 "Hispanoamericano"
+
+ form_hispanoamerica_category: "Unser Vermächtnis"
+ form_hispanoamerica_category_desc: "Das Konzept der "Hispanität" war schon immer sehr lose definiert. Die beiden stets präsenten Elemente sind das gemeinsame Erbe aller hispanischen Völker sowie das Konzept von "La Raza"; die Vermischung von Spaniern und Einheimischen in Kultur und Blut.\n\nWährend es hauptsächlich von akademischem Interesse ist, hat es kürzlich eine Renaissance erlebt. Noch 1920 wurde sie als supranationale Identität gepriesen und fand während des Spanischen Bürgerkriegs regen Gebrauch. Aber jetzt, dank unserer jüngsten Heldentaten, kann es etwas mehr werden: eine Nation. Es ist an der Zeit, dass sich das hispanische Volk als Einheit erhebt und seinen Platz unter den Weltmächten einnimmt."
+ form_hispanoamerica:0 "Vereinigen Sie das hispanische Amerika"
+ core_mexican_america:0 "Verlorenes mexikanisches Land wieder eingliedern"
+
+ #Idel-Ural#
+ IDEL_URAL_neutrality:0 "Idel-Ural-Republik"
+ IDEL_URAL_fascism:0 "Große Tatarei"
+ IDEL_URAL_democratic:0 "Idel-Ural-Republik"
+ IDEL_URAL_communism:0 "Wolga-Urale Sozialistische Sowjetrepublik"
+ IDEL_URAL_neutrality_DEF:0 "Die Idel-Ural-Republik"
+ IDEL_URAL_fascism_DEF:0 "Große Tatarei"
+ IDEL_URAL_democratic_DEF:0 "Die Idel-Ural-Republik"
+ IDEL_URAL_communism_DEF:0 "Die Wolga-Urale Sozialistische Sowjetrepublik"
+ IDEL_URAL_communism_ADJ:0 "Wolga-Uralisch"
+ IDEL_URAL_neutrality_ADJ:0 "Idel-Uralisch"
+ IDEL_URAL_democratic_ADJ:0 "Idel-Uralisch"
+ IDEL_URAL_fascism_ADJ:0 "Tartarisch"
+
+ form_idel_ural:0 "Idel-Ural wiedervereinen"
+
+
+ #sardinia Piedmont
+
+ form_sardinia_piedmont:0 "Piemont zurückfordern"

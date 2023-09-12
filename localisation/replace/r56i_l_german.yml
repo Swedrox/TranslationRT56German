@@ -1,6 +1,8 @@
 ﻿#####---------------------------------------------------------------------> Mod by GreatExperiment
 
 l_german:
+#Flags
+ rt56_old_school:0 ""
 
 #Ideas
  etgi_ideas:0 "Nationaler Charakter"
@@ -148,7 +150,7 @@ r56i_laws_security_order_tt:0 "§WWahrscheinlichkeit von Streiks:§G -100%§!"
   r56i.event.10.b:0 "Respektieren Sie unsere diplomatischen Beziehungen."
 
 
-  r56i.event.11.title:0 "[From.GetNameDef] Verlässt die/der/das [From.GetFactionName]"
+  r56i.event.11.title:0 "[From.GetNameDefCap] Verlässt die/der/das [From.GetFactionName]"
   r56i.event.11.description:0 "\nDie neue [FROM.GetAdjective] [FROM.GetRulingIdeology]-Regierung hat beschlossen, ihre diplomatische Position radikal zu ändern und sich aus den/der/das [FROM.GetFactionName] zurückzuziehen. Die Nachricht hat die Mitglieder der/des [FROM.GetFactionName] in Aufruhr versetzt, da sie sich fragen, ob andere Austritte zum Zusammenbruch ihres Bündnisses führen könnten.\n\n [FROM.GetLeader] erklärte, dass die Notwendigkeit, die Politik des Landes gemäß dem Programm der [FROM.GetRulingParty] neu auszurichten, seine Entscheidung motiviert habe. Er erklärte, dass seine Regierung alles tun werde, um [From.GetAdjective] Unabhängigkeit zu bewahren."
   r56i.event.11.a:0 "Die Welt verändert sich."
 
@@ -159,10 +161,32 @@ r56i_laws_security_order_tt:0 "§WWahrscheinlichkeit von Streiks:§G -100%§!"
 
 
   r56i.event.13.title:0 "[From.GetLeader] Erklärt [From.GetAdjective] Unabhängigkeit".
-  r56i.event.13.description:0 "\nDie neue [FROM.GetAdjective] [FROM.GetRulingIdeology] Regierung hat beschlossen, ihre Unabhängigkeit einseitig zu erklären. Diese Entscheidung wurde als vollständig und kompromisslos angekündigt. Daher wird sich [FROM.GetNameDef] von allen militärischen Verpflichtungen zurückziehen und ihre Außenpolitik neu bewerten. Dies wird ihren ehemaligen Oberherrn sicherlich verärgern, da [FROM.GetLeader] klar zum Ausdruck brachte, dass er sich nicht an frühere Verträge gebunden fühle und dass dieser Tag den Beginn einer neuen Ära in der Geschichte von [FROM.GetAdjective] markieren würde."
+  r56i.event.13.description:0 "\nDie neue [FROM.GetAdjective] [FROM.GetRulingIdeology] Regierung hat beschlossen, ihre Unabhängigkeit einseitig zu erklären. Diese Entscheidung wurde als vollständig und kompromisslos angekündigt. Daher wird sich [From.GetNameDef] von allen militärischen Verpflichtungen zurückziehen und ihre Außenpolitik neu bewerten. Dies wird ihren ehemaligen Oberherrn sicherlich verärgern, da [FROM.GetLeader] klar zum Ausdruck brachte, dass er sich nicht an frühere Verträge gebunden fühle und dass dieser Tag den Beginn einer neuen Ära in der Geschichte von [FROM.GetAdjective] markieren würde."
   r56i.event.13.a:0 "Eine weitere Revolution."
 
-  r56i.event.14.title:0 "[From.GetNameDef] Rebellen!"
+  r56i.event.14.title:0 "[From.GetNameDefCap] Rebellen!"
   r56i.event.14.description:0 "\nDie Übernahme von [FROM.GetRulingIdeology] hat zu einer Unabhängigkeitserklärung von [FROM.GetAdjective] durch [FROM.GetLeader] geführt. Da sie nicht gewillt sind, die etablierte Ordnung zu respektieren, könnte ihr trotziges Verhalten einen gefährlichen Präzedenzfall schaffen."
   r56i.event.14.a:0 "Wir müssen Vergeltung üben"
+
+  r56i.event.15.title:0 "[From.GetNameDefCap] Löst seine Fraktion auf!"
+  r56i.event.15.description:0 "\nDa sie nicht in der Lage ist, diplomatische Partner zu finden, hat die [FROM.GetAdjective]-Regierung angekündigt, dass sie nicht länger danach suchen wird, eine internationale Koalition anzuführen. Sie ist daher offen für diplomatische Öffnungen, um einem stärkeren Bündnis beizutreten.\n\nDiese Entwicklung wird sicherlich die Aufmerksamkeit verschiedener Kanzleien auf sich ziehen. Ausländische Diplomaten sind wahrscheinlich schon am Werk, um [FROM.GetLeader] und seine Regierung zu beeinflussen."
+  r56i.event.15.a:0 "Interessant."
+
+  r56i.event.16.t:0 "Die [alliance_inviter.GetFactionName] und die [alliance_applicant.GetAdjective] Faction vereinigen sich zu einer einzigen Allianz!"
+  r56i.event.16.d:0 "\n\n Die Weltpolitik ändert sich in rasantem Tempo und deshalb haben die Anführer der [alliance_inviter.GetFactionName] und [alliance_applicant.GetLeader] erkannt, dass es sinnlos ist, als getrennte Koalitionen aufzutreten. Stattdessen haben sie beschlossen, Seite an Seite zu kämpfen.\n\nDies wird wahrscheinlich ausländische Kanzleien beunruhigen, da ihre kombinierte Stärke weitaus bedrohlicher werden könnte."
+  r56i.event.16.a:0 "Interessant."
+  r56i.event.16.a:0 "Gemeinsam sind wir stärker."
+  r56i.event.16.b:0 "Sie suchen die Stärke in der Anzahl."
+  r56i.event.16.c:0 "Es wird ihnen nichts nützen!"
+  r56i.event.16.e:0 "Der Krieg eskaliert..."
+  r56i.event.16.f:0 "Unsere Allianz wird stärker."
 #####---------------------------------------------------------------------> End
+
+#  r56i.event.16.t:0 "The [HUN.GetFactionName] absorbs the [YUG.GetAdjective] faction into a single alliance!"
+#  r56i.event.16.d:0 "\n\n World politics are shifting at a rapid pace and therefore the leaders of the [HUN.GetFactionName] and [YUG.GetLeader] recognized that it was useless to fight as separate coalitions instead of forming a united coalition fighting for the triumph of their ideology."
+#  r56i.event.16.a:0 "Interesting."
+#  r56i.event.16.a:0 "We are stronger together."
+#  r56i.event.16.b:0 "They seek strength in numbers."
+#  r56i.event.16.c:0 "It will not avail them!"
+#  r56i.event.16.e:0 "The war escalates..."
+#  r56i.event.16.f:0 "Our alliance grows stronger."

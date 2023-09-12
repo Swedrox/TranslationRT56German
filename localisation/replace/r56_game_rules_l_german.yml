@@ -20,6 +20,10 @@
  SAF_FOCUS_TREE_SELECTION:0 "@SAF Südafrika"
  SPR_FOCUS_TREE_SELECTION:0 "@SPR Spanien"
  POR_FOCUS_TREE_SELECTION:0 "@POR Portugal"
+ GRE_FOCUS_TREE_SELECTION:0 "@GRE Griechenland"
+ BUL_FOCUS_TREE_SELECTION:0 "@BUL Bulgarien"
+ TUR_FOCUS_TREE_SELECTION:0 "@TUR Turkei"
+
 
  ###---> AI Behavior <><> <><> <><>
  RULE_GROUP_AI_BEHAVIOR:0 "KI-Verhalten"
@@ -31,6 +35,13 @@
  RULE_OPTION_MONARCHIST:0 "Monarchist"
  RULE_OPTION_MONARCHIST_HISTORICAL:0 "Monarchist - Historisch"
  RULE_OPTION_DEMOCRATIC_ALTERNATE_AI_DESC:0 "Das Land wird einen nicht historischen demokratischen Weg einschlagen."
+
+ #-> Rt56 AI <><>
+ RT56_AI_BEHAVIOR:0 "Road to 56 KI-Verhalten"
+ RULE_OPTION_DEFAULT_RT56_AI:0 "Standard (empfohlen)"
+ RULE_OPTION_DEFAULT_RT56_AI_DESC:0 "Die empfohlene Einstellung. Skripte und KI-Strategien, die verhindern, dass die KI fragwürdige Entscheidungen trifft sind aktiviert."
+ RULE_OPTION_OLD_SCHOOL:0 "Old School"
+ RULE_OPTION_OLD_SCHOOL_AI_DESC:0 "Skripte und KI-Strategien, die die KI daran hindern, fragwürdige Entscheidungen zu treffen, wurden deaktiviert. Ähnlich, wie die KI in 2017 Road to 56 reagiert hat. Dazu gehören Fraktions- und Verbündetenverrat und schlechte Kriegserklärungen."
 
  #-> ALB: Albania <><>
  ALB_AI_BEHAVIOR:0 "@ALB Albanien"
@@ -118,7 +129,13 @@
  RULE_OPTION_FASCIST_HISTORICAL_SIA_AI_DESC:0 "Die siamesische KI wird das Khana Ratsadon konsolidieren und sich weiter in Richtung Faschismus neigen und sich möglicherweise mit einer der Achsenmächte verbünden, indem sie den entsprechenden Weg im nationalen Schwerpunktbaum beschreitet."
  RULE_OPTION_MONARCHIST_SIA_AI_DESC:0 "Die siamesische KI wird die Monarchie wiederherstellen, indem sie Rama VII zur Rückkehr bewegt, indem sie den entsprechenden Weg im nationalen Fokusbaum geht."
 
- #-> SWE: Sweden
+ #-> SOV: Russia <><>
+ RULE_OPTION_ANTI_CAPITALIST_DIPLOMACY:0 "Antikapitalistische Diplomatie"
+ RULE_OPTION_ANTI_CAPITALIST_DIPLOMACY_SOV_AI_DESC:0 "Die Sowjetunion wird die faschistische Bedrohung ignorieren und die kapitalistischen Großmächte unterminieren. Gleichzeitig strebt sie eine aggressive Expansion in China und im Nahen Osten an."
+ RULE_OPTION_WORLD_REVOLUTION:0 "Trotzkistische Weltrevolution"
+ RULE_OPTION_ANTI_WORLD_REVOLUTION_SOV_AI_DESC:0 "Die Sowjetunion wird versuchen, die Trotzkisten zurückzubringen und den Pfad der Weltrevolution einzuschlagen."
+
+  #-> SWE: Sweden
  SWE_AI_BEHAVIOR:0 "@SWE Schweden"
  RULE_OPTION_DEMOCRATIC_HISTORICAL_AI_DESC:0 "Schweden wird versuchen, neutral zu bleiben."
  RULE_OPTION_COMMUNIST_SWE_AI_DESC:0 "KI wird die Kommunisten an die Macht bringen"
@@ -126,6 +143,7 @@
  RULE_OPTION_MONARCHIST_SWE_AI_DESC:0 "Der König wird die volle Macht übernehmen und die Nordlicht-Fraktion bilden."
 
  #-> TUR: Turkey <><>
+ TUR_AI_BEHAVIOR_R56:0 "@TUR Turkei r56 Fokusbaum"
  TUR_AI_BEHAVIOR:0 "@TUR Türkei
  RULE_OPTION_DEMOCRATIC_TUR_AI_DESC:0 "Die türkische KI wird dem Erbe Atatürks folgen, sich aber nach dem immer stärker werdenden feindlichen Einfluss in Europa schließlich auf eine Demokratie zubewegen und sich den Alliierten anschließen."
  RULE_OPTION_COMMUNIST_TUR_AI_DESC:0 "Die türkische KI wird Hüsnü aus dem Exil entlassen, was zu einer vollwertigen kommunistischen Revolution führt, gefolgt entweder von einer Zusammenarbeit mit den Sowjets oder ihrem eigenen Einflussbereich."
@@ -161,7 +179,9 @@
  RULE_OPTION_CZE_DECENTRALIZED:0 "Tschechoslowakei dezentralisiert"
  RULE_OPTION_CZE_DECENTRALIZED_DESC:0 "Alle freizulassenden Nationen, die in der Tschechoslowakei enthalten sind, werden bei Spielbeginn als Marionettennationen freigelassen."
  RULE_OPTION_ENG_FRAGMENTED_IRE_UNITED:0 "Vereinigtes Irland"
- RULE_OPTION_ENG_FRAGMENTED_IRE_UNITED_DESC:0 "Anstatt Nordirland zusammen mit den anderen Ländern, die das Vereinigte Königreich bilden, freizulassen, wird Irland die Kontrolle über Nordirlandübernehmen."
+ RULE_OPTION_ENG_FRAGMENTED_IRE_UNITED_DESC:0 "Anstatt Nordirland zusammen mit den anderen Ländern, die das Vereinigte Königreich bilden, freizulassen, wird Irland die Kontrolle über Nordirland übernehmen."
+ RULE_OPTION_ENG_FRAGMENTED_CELTIC_UNION:0 "Keltische Wiedervereinigung"
+ RULE_OPTION_ENG_FRAGMENTED_CELTIC_UNION_DESC:0 "Alle keltischen Staaten werden unter dem schottischen Banner vereinigt. Um die Keltische Union zu spielen, klicken Sie auf Irland."
  DEN_FRAGMENTATION_STATUS:0 "@DEN Dänemark Fragmentierungsstatus"
  RULE_OPTION_DEN_FRAGMENTED:0 "Dänemark Fragmentiert"
  RULE_OPTION_DEN_FRAGMENTED_DESC:0 "Alle freizulassenden Nationen, die in Dänemark enthalten sind, werden bei Spielbeginn als freie und unabhängige Nationen freigelassen."
@@ -175,6 +195,8 @@
  RULE_OPTION_SPR_15TH_CENTURY_ARAGON:0 "Aragonien im 15. Jahrhundert"
  RULE_OPTION_SPR_15TH_CENTURY_ARAGON_DESC:0 "Katalonien wird Süditalien kontrollieren, um Katalonien zu spielen, klicken Sie auf Spanien"
  RULE_OPTION_SPR_DECENTRALIZED_DESC:0 "Alle freizulassenden Nationen, die in Spanien enthalten sind, werden bei Spielbeginn als Marionettennationen freigelassen."
+ RULE_OPTION_SPR_ANDALUSIA:0 "Al-Andalus"
+ RULE_OPTION_SPR_ANDALUSIA_DESC:0 "Um Al-Andalus zu spielen, wählen Sie Spain"
  FRA_FRAGMENTATION_STATUS:0 "@FRA Metropolitan Frankreich Fragmentierungsstatus"
  RULE_OPTION_FRA_FRAGMENTED:0 "Frankreich fragmentiert"
  RULE_OPTION_FRA_FRAGMENTED_DESC:0 "Alle freizulassenden Nationen, die in Frankreich enthalten sind, werden bei Spielbeginn als freie und unabhängige Nationen freigelassen."
@@ -216,6 +238,8 @@
  RULE_OPTION_KUR_LIBERATED_IRQ_SWITCH_DESC:0 "Um Kurdistan zu spielen, wählen den Irak, du wirst jedoch 0 Fabriken haben."
  CENTRAL_AMERICA_UNIFICATION_STATUS:0 "@HON Status der Vereinigung Zentralamerikas"
 
+ HISPANOAMERICA_UNIFICATION_STATUS:0 "Spanisch-Amerika Vereinigungsstatus"
+
  GER_FRAGMENTATION_STATUS:0 "@GER Deutschland Fragmentierungsstatus"
  RULE_OPTION_GER_FRAGMENTED:0 "Deutschland fragmentiert"
  RULE_OPTION_GER_FRAGMENTED_DESC:0 "Alle freizulassenden Nationen, die in Deutschland enthalten sind, werden bei Spielbeginn als freie und unabhängige Nationen freigelassen."
@@ -233,6 +257,12 @@
 
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED:0 "Honduras reformiert Zentralamerika"
  RULE_OPTION_HON_CENTRAL_AMERICA_UNIFIED_DESC:0 "Alle Länder Mittelamerikas werden von Honduras annektiert, Sie erhalten Kerne über diese Länder und Ihr Name ändert sich zu den Vereinigten Staaten von Mittelamerika."
+
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED:0 "Hispanisch-Südamerika"
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_DESC:0 "Alle hispanischen Länder Südamerikas werden von Chile annektiert, man erhält Kerne auf diesen Ländern und der Name ändert sich in Hispanoamérica."
+
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_BIGGER:0 "Vereinigtes lateinamerikanisches Amerika"
+ RULE_OPTION_CHL_HISPANOAMERICA_UNIFIED_BIGGER_DESC:0 "Alle Länder Lateinamerikas werden von Chile annektiert, Sie erhalten Kerne auf diesen Ländern und Ihr Name ändert sich in Hispanoamérica."
 
  RULE_IDEOLOGY_JOIN_FACTION:0 "Der Fraktion verschiedener Ideologien beitreten"
  RULE_IDEOLOGY_JOIN_FACTION_SAME_IDEOLOGY_DESC:0 "Sie können sich nur Fraktionen derselben Ideologie oder durch Schwerpunkt-/Einladungsereignisse anschließen"
@@ -265,6 +295,25 @@
  RULE_OPTION_THREE_EXTRA_EXTRA:0 "Drei zusätzliche Agenten".
  RULE_OPTION_THREE_EXTRA_DESC:0 "Jedes Land mit einem Geheimdienst erhält drei zusätzliche Agenten".
 
+ RULE_RESISTANCE:0 "Widerstandswachstum"
+ RULE_OPTION_DEFAULT_RESISTANCE_DESC:0 "Wie das Basisspiel, was hast du erwartet"
+ RULE_OPTION_RESISTANCE_25_MORE:0 "25 % mehr"
+ RULE_OPTION_RESISTANCE_25_MORE_DESC:0 "Jedes Land wird +25% Widerstandswachstum in besetzten Staaten erhalten."
+ RULE_OPTION_RESISTANCE_25_LESS:0 "25 % weniger"
+ RULE_OPTION_RESISTANCE_25_LESS_DESC:0 "Jedes Land wird -25% Widerstandswachstum in besetzten Staaten erhalten."
+ idea_game_rule_resistance_increase_25:0 "Widerstandsspielregel"
+ idea_game_rule_resistance_decrease_25:0 "Widerstandsspielregel"
+
+
+ RULE_COMPLIANCE:0 "Gehorsamswachstum"
+ RULE_OPTION_DEFAULT_COMPLIANCE_DESC:0 "Wie das Basisspiel, was hast du erwartet"
+ RULE_OPTION_COMPLIANCE_25_MORE:0 "+0.25%/tag"
+ RULE_OPTION_COMPLIANCE_25_MORE_DESC:0 "Alle Länder gewinnen +0,25 % Gehorsam/Tag in besetzten Staaten"
+ RULE_OPTION_COMPLIANCE_25_LESS:0 "-0.25%/tag"
+ RULE_OPTION_COMPLIANCE_25_LESS_DESC:0 "Alle Länder gewinnen -0,25 % Gehorsam/Tag in besetzten Staaten"
+ idea_game_rule_compliance_increase_25:0 "Gehorsamsspielregel"
+ idea_game_rule_compliance_decrease_25:0 "Gehorsamsspielregel"
+
  RULE_STARTING_AGENCIES:0 "Vorgegründete Geheimdienste".
  RULE_OPTION_DEFAULT_STARTING_AGENCIES_DESC:0 "Wie im Basisspiel werden keine Länder mit Geheimdiensten beginnen.
  RULE_OPTION_NON_US_MAJORS_NON_US_MAJORS:0 "Nicht-US-Großmächte".
@@ -275,6 +324,11 @@
  RULE_OPTION_ALL_MAJORS_AND_STRONG_MINORS_DESC:0 "Großmächte und viele Kleinnationen beginnen mit einem Geheimdienst".
  RULE_OPTION_ALL_COUNTRIES:0 "Alle Länder".
  RULE_OPTION_ALL_COUNTRIES_DESC:0 "Jedes Land beginnt das Spiel mit einem Geheimdienst".
+
+ RULE_SPECIAL_FORCES_LIMIT:0 "Anzahl von Spezialkräften"
+ RULE_OPTION_DEFAULT_SPECIAL_FORCES_DESC:0 "Standard"
+ RULE_OPTION_100_SPECIAL_FORCES:0 "Divisionsanzahl +10000%"
+ RULE_OPTION_100_SPECIAL_FORCES_DESC:0 "Haben Sie genug von der Begrenzung der Spezialkräfte-Division? Ich schätze, dass dieser Modifikator für Sie genug sein wird. Damit kannst du die gesamten USA mit Falschirmjäger besetzten"
 
  RULE_ALLOW_EXTENDED_TECHS:0 "Erweiterte Technologien zulassen"
  RULE_ALLOW_R56_TECHS_ALLOWED_DESC:0 "Der Technologiebaum der Sonderforschungsabteilung wird verfügbar sein."
